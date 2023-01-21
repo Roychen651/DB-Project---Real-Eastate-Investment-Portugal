@@ -1,0 +1,61 @@
+Price,Address,Prop_type,Size,Bath,Bed
+ 140 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Garage,  15 m2 ,  0 ,  -- 
+ 700 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 800 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Condo/Apartment,  93 m2 ,  1 ,  2 
+ 1 250 €  /  Monthly  ," Lisboa -   Amadora, Alfragide  ",Condo/Apartment,  123 m2 ,  2 ,  2 
+ 1 150 €  /  Monthly  ," Lisboa -   Amadora, Encosta do Sol  ",Condo/Apartment,  126 m2 ,  0 ,  3 
+ 250 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Garage,  39 m2 ,  1 ,  -- 
+ 1 400 €  /  Monthly  ," Lisboa -   Amadora, Alfragide  ",Condo/Apartment,  138 m2 ,  3 ,  3 
+ 650 €  /  Monthly  ," Lisboa -   Amadora, Falagueira - Venda Nova  ",Store,  90 m2 ,  0 ,  0 
+ 1 100 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Store,  172 m2 ,  1 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Amadora, Falagueira - Venda Nova  ",Store,  151 m2 ,  2 ,  -- 
+ 900 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Condo/Apartment,  72 m2 ,  1 ,  2 
+ 700 €  /  Monthly  ," Lisboa -   Amadora, Águas Livres  ",Condo/Apartment,  53 m2 ,  1 ,  1 
+ 900 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Condo/Apartment,  61 m2 ,  1 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Condo/Apartment,  62 m2 ,  1 ,  2 
+ 550 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Studio,  46 m2 ,  1 ,  1 
+ 500 €  /  Monthly  ," Lisboa -   Amadora, Águas Livres  ",Store,  89 m2 ,  0 ,  -- 
+ 400 €  /  Monthly  ," Lisboa -   Amadora, Encosta do Sol  ",Store,  0 m2 ,  0 ,  0 
+ 650 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 690 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Condo/Apartment,  35 m2 ,  0 ,  1 
+ 700 €  /  Monthly  ," Lisboa -   Amadora, Águas Livres  ",Condo/Apartment,  50 m2 ,  1 ,  1 
+ 140 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Garage,  15 m2 ,  0 ,  -- 
+ 700 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 800 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Condo/Apartment,  93 m2 ,  1 ,  2 
+ 1 250 €  /  Monthly  ," Lisboa -   Amadora, Alfragide  ",Condo/Apartment,  123 m2 ,  2 ,  2 
+ 1 150 €  /  Monthly  ," Lisboa -   Amadora, Encosta do Sol  ",Condo/Apartment,  126 m2 ,  0 ,  3 
+ 250 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Garage,  39 m2 ,  1 ,  -- 
+ 1 400 €  /  Monthly  ," Lisboa -   Amadora, Alfragide  ",Condo/Apartment,  138 m2 ,  3 ,  3 
+ 650 €  /  Monthly  ," Lisboa -   Amadora, Falagueira - Venda Nova  ",Store,  90 m2 ,  0 ,  0 
+ 1 100 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Store,  172 m2 ,  1 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Amadora, Falagueira - Venda Nova  ",Store,  151 m2 ,  2 ,  -- 
+ 900 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Condo/Apartment,  72 m2 ,  1 ,  2 
+ 700 €  /  Monthly  ," Lisboa -   Amadora, Águas Livres  ",Condo/Apartment,  53 m2 ,  1 ,  1 
+ 900 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Condo/Apartment,  61 m2 ,  1 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Condo/Apartment,  62 m2 ,  1 ,  2 
+ 550 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Studio,  46 m2 ,  1 ,  1 
+ 500 €  /  Monthly  ," Lisboa -   Amadora, Águas Livres  ",Store,  89 m2 ,  0 ,  -- 
+ 400 €  /  Monthly  ," Lisboa -   Amadora, Encosta do Sol  ",Store,  0 m2 ,  0 ,  0 
+ 650 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 690 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Condo/Apartment,  35 m2 ,  0 ,  1 
+ 700 €  /  Monthly  ," Lisboa -   Amadora, Águas Livres  ",Condo/Apartment,  50 m2 ,  1 ,  1 
+ 140 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Garage,  15 m2 ,  0 ,  -- 
+ 700 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 800 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Condo/Apartment,  93 m2 ,  1 ,  2 
+ 1 250 €  /  Monthly  ," Lisboa -   Amadora, Alfragide  ",Condo/Apartment,  123 m2 ,  2 ,  2 
+ 1 150 €  /  Monthly  ," Lisboa -   Amadora, Encosta do Sol  ",Condo/Apartment,  126 m2 ,  0 ,  3 
+ 250 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Garage,  39 m2 ,  1 ,  -- 
+ 1 400 €  /  Monthly  ," Lisboa -   Amadora, Alfragide  ",Condo/Apartment,  138 m2 ,  3 ,  3 
+ 650 €  /  Monthly  ," Lisboa -   Amadora, Falagueira - Venda Nova  ",Store,  90 m2 ,  0 ,  0 
+ 1 100 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Store,  172 m2 ,  1 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Amadora, Falagueira - Venda Nova  ",Store,  151 m2 ,  2 ,  -- 
+ 900 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Condo/Apartment,  72 m2 ,  1 ,  2 
+ 700 €  /  Monthly  ," Lisboa -   Amadora, Águas Livres  ",Condo/Apartment,  53 m2 ,  1 ,  1 
+ 900 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Condo/Apartment,  61 m2 ,  1 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Condo/Apartment,  62 m2 ,  1 ,  2 
+ 550 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Studio,  46 m2 ,  1 ,  1 
+ 500 €  /  Monthly  ," Lisboa -   Amadora, Águas Livres  ",Store,  89 m2 ,  0 ,  -- 
+ 400 €  /  Monthly  ," Lisboa -   Amadora, Encosta do Sol  ",Store,  0 m2 ,  0 ,  0 
+ 650 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 690 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Condo/Apartment,  35 m2 ,  0 ,  1 
+ 700 €  /  Monthly  ," Lisboa -   Amadora, Águas Livres  ",Condo/Apartment,  50 m2 ,  1 ,  1 

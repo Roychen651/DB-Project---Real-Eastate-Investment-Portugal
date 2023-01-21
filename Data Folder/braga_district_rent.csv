@@ -1,0 +1,181 @@
+Price,Address,Prop_type,Size,Bath,Bed
+ 650 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  120 m2 ,  1 ,  -- 
+ 500 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Condo/Apartment,  25 m2 ,  1 ,  0 
+ 250 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Business Office,  42 m2 ,  1 ,  0 
+ 600 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Rendufinho  ",Farm,  0 m2 ,  0 ,  -- 
+ 650 €  /  Monthly  ," Braga -   Guimarães, Oliveira, São Paio e São Sebastião  ",Condo/Apartment,  63 m2 ,  1 ,  1 
+ 300 €  /  Monthly  ," Braga -   Fafe, Estorãos  ",Store,  112 m2 ,  2 ,  -- 
+ 830 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  117 m2 ,  4 ,  3 
+ 400 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Póvoa de Lanhoso (Nossa Senhora do Amparo)  ",Store,  60 m2 ,  1 ,  -- 
+ 825 €  /  Monthly  ," Braga -   Braga, São Victor  ",Condo/Apartment,  94 m2 ,  2 ,  2 
+ 350 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Fonte Arcada e Oliveira  ",House,  100 m2 ,  1 ,  2 
+ 950 €  /  Monthly  ," Braga -   Braga, Real, Dume e Semelhe  ",Condo/Apartment,  103 m2 ,  2 ,  3 
+ 750 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  110 m2 ,  0 ,  3 
+ 1 250 €  /  Monthly  ," Braga -   Barcelos, Gamil e Midões  ",House,  190 m2 ,  4 ,  4 
+ 650 €  /  Monthly  ," Braga -   Amares, Ferreiros, Prozelo e Besteiros  ",Condo/Apartment,  105 m2 ,  4 ,  2 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  55 m2 ,  1 ,  -- 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  55 m2 ,  1 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  75 m2 ,  1 ,  -- 
+ 300 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  75 m2 ,  1 ,  -- 
+ 600 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  119 m2 ,  0 ,  -- 
+ 750 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  79 m2 ,  0 ,  2 
+ 650 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  120 m2 ,  1 ,  -- 
+ 500 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Condo/Apartment,  25 m2 ,  1 ,  0 
+ 250 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Business Office,  42 m2 ,  1 ,  0 
+ 600 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Rendufinho  ",Farm,  0 m2 ,  0 ,  -- 
+ 650 €  /  Monthly  ," Braga -   Guimarães, Oliveira, São Paio e São Sebastião  ",Condo/Apartment,  63 m2 ,  1 ,  1 
+ 300 €  /  Monthly  ," Braga -   Fafe, Estorãos  ",Store,  112 m2 ,  2 ,  -- 
+ 830 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  117 m2 ,  4 ,  3 
+ 400 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Póvoa de Lanhoso (Nossa Senhora do Amparo)  ",Store,  60 m2 ,  1 ,  -- 
+ 825 €  /  Monthly  ," Braga -   Braga, São Victor  ",Condo/Apartment,  94 m2 ,  2 ,  2 
+ 350 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Fonte Arcada e Oliveira  ",House,  100 m2 ,  1 ,  2 
+ 950 €  /  Monthly  ," Braga -   Braga, Real, Dume e Semelhe  ",Condo/Apartment,  103 m2 ,  2 ,  3 
+ 750 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  110 m2 ,  0 ,  3 
+ 1 250 €  /  Monthly  ," Braga -   Barcelos, Gamil e Midões  ",House,  190 m2 ,  4 ,  4 
+ 650 €  /  Monthly  ," Braga -   Amares, Ferreiros, Prozelo e Besteiros  ",Condo/Apartment,  105 m2 ,  4 ,  2 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  55 m2 ,  1 ,  -- 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  55 m2 ,  1 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  75 m2 ,  1 ,  -- 
+ 300 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  75 m2 ,  1 ,  -- 
+ 600 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  119 m2 ,  0 ,  -- 
+ 750 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  79 m2 ,  0 ,  2 
+ 650 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  120 m2 ,  1 ,  -- 
+ 500 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Condo/Apartment,  25 m2 ,  1 ,  0 
+ 250 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Business Office,  42 m2 ,  1 ,  0 
+ 600 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Rendufinho  ",Farm,  0 m2 ,  0 ,  -- 
+ 650 €  /  Monthly  ," Braga -   Guimarães, Oliveira, São Paio e São Sebastião  ",Condo/Apartment,  63 m2 ,  1 ,  1 
+ 300 €  /  Monthly  ," Braga -   Fafe, Estorãos  ",Store,  112 m2 ,  2 ,  -- 
+ 830 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  117 m2 ,  4 ,  3 
+ 400 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Póvoa de Lanhoso (Nossa Senhora do Amparo)  ",Store,  60 m2 ,  1 ,  -- 
+ 825 €  /  Monthly  ," Braga -   Braga, São Victor  ",Condo/Apartment,  94 m2 ,  2 ,  2 
+ 350 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Fonte Arcada e Oliveira  ",House,  100 m2 ,  1 ,  2 
+ 950 €  /  Monthly  ," Braga -   Braga, Real, Dume e Semelhe  ",Condo/Apartment,  103 m2 ,  2 ,  3 
+ 750 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  110 m2 ,  0 ,  3 
+ 1 250 €  /  Monthly  ," Braga -   Barcelos, Gamil e Midões  ",House,  190 m2 ,  4 ,  4 
+ 650 €  /  Monthly  ," Braga -   Amares, Ferreiros, Prozelo e Besteiros  ",Condo/Apartment,  105 m2 ,  4 ,  2 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  55 m2 ,  1 ,  -- 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  55 m2 ,  1 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  75 m2 ,  1 ,  -- 
+ 300 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  75 m2 ,  1 ,  -- 
+ 600 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  119 m2 ,  0 ,  -- 
+ 750 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  79 m2 ,  0 ,  2 
+ 650 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  120 m2 ,  1 ,  -- 
+ 500 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Condo/Apartment,  25 m2 ,  1 ,  0 
+ 250 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Business Office,  42 m2 ,  1 ,  0 
+ 600 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Rendufinho  ",Farm,  0 m2 ,  0 ,  -- 
+ 650 €  /  Monthly  ," Braga -   Guimarães, Oliveira, São Paio e São Sebastião  ",Condo/Apartment,  63 m2 ,  1 ,  1 
+ 300 €  /  Monthly  ," Braga -   Fafe, Estorãos  ",Store,  112 m2 ,  2 ,  -- 
+ 830 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  117 m2 ,  4 ,  3 
+ 400 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Póvoa de Lanhoso (Nossa Senhora do Amparo)  ",Store,  60 m2 ,  1 ,  -- 
+ 825 €  /  Monthly  ," Braga -   Braga, São Victor  ",Condo/Apartment,  94 m2 ,  2 ,  2 
+ 350 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Fonte Arcada e Oliveira  ",House,  100 m2 ,  1 ,  2 
+ 950 €  /  Monthly  ," Braga -   Braga, Real, Dume e Semelhe  ",Condo/Apartment,  103 m2 ,  2 ,  3 
+ 750 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  110 m2 ,  0 ,  3 
+ 1 250 €  /  Monthly  ," Braga -   Barcelos, Gamil e Midões  ",House,  190 m2 ,  4 ,  4 
+ 650 €  /  Monthly  ," Braga -   Amares, Ferreiros, Prozelo e Besteiros  ",Condo/Apartment,  105 m2 ,  4 ,  2 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  55 m2 ,  1 ,  -- 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  55 m2 ,  1 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  75 m2 ,  1 ,  -- 
+ 300 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  75 m2 ,  1 ,  -- 
+ 600 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  119 m2 ,  0 ,  -- 
+ 750 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  79 m2 ,  0 ,  2 
+ 650 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  120 m2 ,  1 ,  -- 
+ 500 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Condo/Apartment,  25 m2 ,  1 ,  0 
+ 250 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Business Office,  42 m2 ,  1 ,  0 
+ 600 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Rendufinho  ",Farm,  0 m2 ,  0 ,  -- 
+ 650 €  /  Monthly  ," Braga -   Guimarães, Oliveira, São Paio e São Sebastião  ",Condo/Apartment,  63 m2 ,  1 ,  1 
+ 300 €  /  Monthly  ," Braga -   Fafe, Estorãos  ",Store,  112 m2 ,  2 ,  -- 
+ 830 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  117 m2 ,  4 ,  3 
+ 400 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Póvoa de Lanhoso (Nossa Senhora do Amparo)  ",Store,  60 m2 ,  1 ,  -- 
+ 825 €  /  Monthly  ," Braga -   Braga, São Victor  ",Condo/Apartment,  94 m2 ,  2 ,  2 
+ 350 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Fonte Arcada e Oliveira  ",House,  100 m2 ,  1 ,  2 
+ 950 €  /  Monthly  ," Braga -   Braga, Real, Dume e Semelhe  ",Condo/Apartment,  103 m2 ,  2 ,  3 
+ 750 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  110 m2 ,  0 ,  3 
+ 1 250 €  /  Monthly  ," Braga -   Barcelos, Gamil e Midões  ",House,  190 m2 ,  4 ,  4 
+ 650 €  /  Monthly  ," Braga -   Amares, Ferreiros, Prozelo e Besteiros  ",Condo/Apartment,  105 m2 ,  4 ,  2 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  55 m2 ,  1 ,  -- 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  55 m2 ,  1 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  75 m2 ,  1 ,  -- 
+ 300 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  75 m2 ,  1 ,  -- 
+ 600 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  119 m2 ,  0 ,  -- 
+ 750 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  79 m2 ,  0 ,  2 
+ 650 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  120 m2 ,  1 ,  -- 
+ 500 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Condo/Apartment,  25 m2 ,  1 ,  0 
+ 250 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Business Office,  42 m2 ,  1 ,  0 
+ 600 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Rendufinho  ",Farm,  0 m2 ,  0 ,  -- 
+ 650 €  /  Monthly  ," Braga -   Guimarães, Oliveira, São Paio e São Sebastião  ",Condo/Apartment,  63 m2 ,  1 ,  1 
+ 300 €  /  Monthly  ," Braga -   Fafe, Estorãos  ",Store,  112 m2 ,  2 ,  -- 
+ 830 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  117 m2 ,  4 ,  3 
+ 400 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Póvoa de Lanhoso (Nossa Senhora do Amparo)  ",Store,  60 m2 ,  1 ,  -- 
+ 825 €  /  Monthly  ," Braga -   Braga, São Victor  ",Condo/Apartment,  94 m2 ,  2 ,  2 
+ 350 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Fonte Arcada e Oliveira  ",House,  100 m2 ,  1 ,  2 
+ 950 €  /  Monthly  ," Braga -   Braga, Real, Dume e Semelhe  ",Condo/Apartment,  103 m2 ,  2 ,  3 
+ 750 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  110 m2 ,  0 ,  3 
+ 1 250 €  /  Monthly  ," Braga -   Barcelos, Gamil e Midões  ",House,  190 m2 ,  4 ,  4 
+ 650 €  /  Monthly  ," Braga -   Amares, Ferreiros, Prozelo e Besteiros  ",Condo/Apartment,  105 m2 ,  4 ,  2 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  55 m2 ,  1 ,  -- 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  55 m2 ,  1 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  75 m2 ,  1 ,  -- 
+ 300 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  75 m2 ,  1 ,  -- 
+ 600 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  119 m2 ,  0 ,  -- 
+ 750 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  79 m2 ,  0 ,  2 
+ 650 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  120 m2 ,  1 ,  -- 
+ 500 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Condo/Apartment,  25 m2 ,  1 ,  0 
+ 250 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Business Office,  42 m2 ,  1 ,  0 
+ 600 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Rendufinho  ",Farm,  0 m2 ,  0 ,  -- 
+ 650 €  /  Monthly  ," Braga -   Guimarães, Oliveira, São Paio e São Sebastião  ",Condo/Apartment,  63 m2 ,  1 ,  1 
+ 300 €  /  Monthly  ," Braga -   Fafe, Estorãos  ",Store,  112 m2 ,  2 ,  -- 
+ 830 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  117 m2 ,  4 ,  3 
+ 400 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Póvoa de Lanhoso (Nossa Senhora do Amparo)  ",Store,  60 m2 ,  1 ,  -- 
+ 825 €  /  Monthly  ," Braga -   Braga, São Victor  ",Condo/Apartment,  94 m2 ,  2 ,  2 
+ 350 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Fonte Arcada e Oliveira  ",House,  100 m2 ,  1 ,  2 
+ 950 €  /  Monthly  ," Braga -   Braga, Real, Dume e Semelhe  ",Condo/Apartment,  103 m2 ,  2 ,  3 
+ 750 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  110 m2 ,  0 ,  3 
+ 1 250 €  /  Monthly  ," Braga -   Barcelos, Gamil e Midões  ",House,  190 m2 ,  4 ,  4 
+ 650 €  /  Monthly  ," Braga -   Amares, Ferreiros, Prozelo e Besteiros  ",Condo/Apartment,  105 m2 ,  4 ,  2 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  55 m2 ,  1 ,  -- 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  55 m2 ,  1 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  75 m2 ,  1 ,  -- 
+ 300 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  75 m2 ,  1 ,  -- 
+ 600 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  119 m2 ,  0 ,  -- 
+ 750 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  79 m2 ,  0 ,  2 
+ 650 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  120 m2 ,  1 ,  -- 
+ 500 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Condo/Apartment,  25 m2 ,  1 ,  0 
+ 250 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Business Office,  42 m2 ,  1 ,  0 
+ 600 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Rendufinho  ",Farm,  0 m2 ,  0 ,  -- 
+ 650 €  /  Monthly  ," Braga -   Guimarães, Oliveira, São Paio e São Sebastião  ",Condo/Apartment,  63 m2 ,  1 ,  1 
+ 300 €  /  Monthly  ," Braga -   Fafe, Estorãos  ",Store,  112 m2 ,  2 ,  -- 
+ 830 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  117 m2 ,  4 ,  3 
+ 400 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Póvoa de Lanhoso (Nossa Senhora do Amparo)  ",Store,  60 m2 ,  1 ,  -- 
+ 825 €  /  Monthly  ," Braga -   Braga, São Victor  ",Condo/Apartment,  94 m2 ,  2 ,  2 
+ 350 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Fonte Arcada e Oliveira  ",House,  100 m2 ,  1 ,  2 
+ 950 €  /  Monthly  ," Braga -   Braga, Real, Dume e Semelhe  ",Condo/Apartment,  103 m2 ,  2 ,  3 
+ 750 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  110 m2 ,  0 ,  3 
+ 1 250 €  /  Monthly  ," Braga -   Barcelos, Gamil e Midões  ",House,  190 m2 ,  4 ,  4 
+ 650 €  /  Monthly  ," Braga -   Amares, Ferreiros, Prozelo e Besteiros  ",Condo/Apartment,  105 m2 ,  4 ,  2 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  55 m2 ,  1 ,  -- 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  55 m2 ,  1 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  75 m2 ,  1 ,  -- 
+ 300 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  75 m2 ,  1 ,  -- 
+ 600 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  119 m2 ,  0 ,  -- 
+ 750 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  79 m2 ,  0 ,  2 
+ 650 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  120 m2 ,  1 ,  -- 
+ 500 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Condo/Apartment,  25 m2 ,  1 ,  0 
+ 250 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Business Office,  42 m2 ,  1 ,  0 
+ 600 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Rendufinho  ",Farm,  0 m2 ,  0 ,  -- 
+ 650 €  /  Monthly  ," Braga -   Guimarães, Oliveira, São Paio e São Sebastião  ",Condo/Apartment,  63 m2 ,  1 ,  1 
+ 300 €  /  Monthly  ," Braga -   Fafe, Estorãos  ",Store,  112 m2 ,  2 ,  -- 
+ 830 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  117 m2 ,  4 ,  3 
+ 400 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Póvoa de Lanhoso (Nossa Senhora do Amparo)  ",Store,  60 m2 ,  1 ,  -- 
+ 825 €  /  Monthly  ," Braga -   Braga, São Victor  ",Condo/Apartment,  94 m2 ,  2 ,  2 
+ 350 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Fonte Arcada e Oliveira  ",House,  100 m2 ,  1 ,  2 
+ 950 €  /  Monthly  ," Braga -   Braga, Real, Dume e Semelhe  ",Condo/Apartment,  103 m2 ,  2 ,  3 
+ 750 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  110 m2 ,  0 ,  3 
+ 1 250 €  /  Monthly  ," Braga -   Barcelos, Gamil e Midões  ",House,  190 m2 ,  4 ,  4 
+ 650 €  /  Monthly  ," Braga -   Amares, Ferreiros, Prozelo e Besteiros  ",Condo/Apartment,  105 m2 ,  4 ,  2 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  55 m2 ,  1 ,  -- 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  55 m2 ,  1 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  75 m2 ,  1 ,  -- 
+ 300 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  75 m2 ,  1 ,  -- 
+ 600 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  119 m2 ,  0 ,  -- 
+ 750 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  79 m2 ,  0 ,  2 
