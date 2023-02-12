@@ -1,0 +1,921 @@
+Price,Address,Prop_type,Size,Bath,Bed
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 950 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  55 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  77 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
