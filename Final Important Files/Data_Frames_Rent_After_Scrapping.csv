@@ -1,0 +1,1453 @@
+Price,Address,Prop_type,Size,Bath,Bed
+ 4 500 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Business Office,  452 m2 ,6,  -- 
+ 50 €  /  Monthly  ," Porto -   Valongo, Valongo  ",Garage,  15 m2 ,0,  0 
+ 700 €  /  Monthly  ," Porto -   Marco de Canaveses, Várzea, Aliviada e Folhada  ",House,  80 m2 ,0,  2 
+ 1 600 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Condo/Apartment,  145 m2 ,3,  3 
+ 1 100 €  /  Monthly  ," Porto -   Maia, Cidade da Maia  ",Condo/Apartment,  110 m2 ,2,  2 
+ 900 €  /  Monthly  ," Porto -   Porto, Campanhã  ",Condo/Apartment,  100 m2 ,2,  3 
+ 950 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Condo/Apartment,  49 m2 ,1,  1 
+ 770 €  /  Monthly  ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",Condo/Apartment,  88 m2 ,1,  2 
+ 850 €  /  Monthly  ," Porto -   Gondomar, Rio Tinto  ",Condo/Apartment,  110 m2 ,1,  3 
+ 700 €  /  Monthly  ," Porto -   Paredes, Paredes  ",Condo/Apartment,  90 m2 ,2,  2 
+ 950 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Store,  110 m2 ,1,  -- 
+ 900 €  /  Monthly  ," Porto -   Valongo, Valongo  ",Condo/Apartment,  129 m2 ,3,  3 
+ 950 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Oliveira do Douro  ",Condo/Apartment,  94 m2 ,2,  2 
+ 1 100 €  /  Monthly  ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",Condo/Apartment,  95 m2 ,0,  2 
+ 700 €  /  Monthly  ," Porto -   Gondomar, Rio Tinto  ",Condo/Apartment,  49 m2 ,1,  1 
+ 650 €  /  Monthly  ," Porto -   Porto, Bonfim  ",Store,  75 m2 ,1,  0 
+ 800 €  /  Monthly  ," Porto -   Porto, Bonfim  ",Business Office,  98 m2 ,1,  -- 
+ 200 €  /  Monthly  ," Porto -   Lousada, Caíde de Rei  ",Business Office,  60 m2 ,1,  -- 
+ 950 €  /  Monthly  ," Porto -   Lousada, Macieira  ",Warehouse,  800 m2 ,0,  -- 
+ 1 600 €  /  Monthly  ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",Condo/Apartment,  95 m2 ,2,  2 
+ 700 €  /  Monthly  ," Porto -   Penafiel, São Martinho Recezinhos  ",Land,  -- m2 ,0,  -- 
+ 350 €  /  Monthly  ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",Store,  68 m2 ,1,  -- 
+ 400 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Store,  19 m2 ,0,  -- 
+ 1 300 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Condo/Apartment,  90 m2 ,2,  2 
+ 1 200 €  /  Monthly  ," Porto -   Porto, Paranhos  ",Duplex,  174 m2 ,3,  4 
+ 1 200 €  /  Monthly  ," Porto -   Porto, Ramalde  ",Condo/Apartment,  61 m2 ,1,  1 
+ 790 €  /  Monthly  ," Porto -   Gondomar, Rio Tinto  ",Condo/Apartment,  79 m2 ,1,  2 
+ 880 €  /  Monthly  ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",Condo/Apartment,  94 m2 ,1,  2 
+ 1 900 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",Condo/Apartment,  115 m2 ,3,  3 
+ 1 300 €  /  Monthly  ," Porto -   Felgueiras, Torrados e Sousa  ",Warehouse,  472 m2 ,2,  -- 
+ 1 000 €  /  Monthly  ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",Condo/Apartment,  111 m2 ,2,  3 
+ 800 €  /  Monthly  ," Porto -   Porto, Paranhos  ",Store,  113 m2 ,1,  -- 
+ 2 750 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Condo/Apartment,  215 m2 ,4,  4 
+ 1 250 €  /  Monthly  ," Porto -   Maia, Castêlo da Maia  ",Condo/Apartment,  162 m2 ,2,  3 
+ 250 €  /  Monthly  ," Porto -   Paredes, Paredes  ",Store,  27 m2 ,0,  0 
+ 1 300 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Condo/Apartment,  148 m2 ,3,  4 
+ 2 000 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Condo/Apartment,  150 m2 ,0,  3 
+ 120 €  /  Monthly  ," Porto -   Felgueiras, Vila Cova da Lixa e Borba de Godim  ",Garage,  60 m2 ,0,  -- 
+ 1 350 €  /  Monthly  ," Porto -   Porto, Campanhã  ",Condo/Apartment,  127 m2 ,2,  3 
+ 300 €  /  Monthly  ," Porto -   Amarante, Amarante (São Gonçalo), Madalena, Cepelos e Gatão  ",Store,  62 m2 ,0,  -- 
+ 450 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Business Office,  30 m2 ,1,  -- 
+ 880 €  /  Monthly  ," Porto -   Gondomar, Rio Tinto  ",Condo/Apartment,  93 m2 ,2,  3 
+ 450 €  /  Monthly  ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",Business Office,  36 m2 ,1,  -- 
+ 1 150 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Condo/Apartment,  66 m2 ,1,  2 
+ 840 €  /  Monthly  ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",Condo/Apartment,  82 m2 ,1,  2 
+ 700 €  /  Monthly  ," Porto -   Gondomar, Rio Tinto  ",Store,  58 m2 ,2,  -- 
+ 250 €  /  Monthly  ," Porto -   Marco de Canaveses, Bem Viver  ",Store,  117 m2 ,0,  -- 
+ 1 800 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Store,  200 m2 ,2,  -- 
+ 355 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Business Office,  27 m2 ,1,  -- 
+ 1 300 €  /  Monthly  ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",House,  105 m2 ,2,  3 
+ 1 100 €  /  Monthly  ," Porto -   Gondomar, Rio Tinto  ",Condo/Apartment,  104 m2 ,2,  2 
+ 950 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Condo/Apartment,  40 m2 ,1,  0 
+ 550 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Condo/Apartment,  120 m2 ,2,  3 
+ 550 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Condo/Apartment,  92 m2 ,1,  2 
+ 400 €  /  Monthly  ," Porto -   Felgueiras, Refontoura  ",House,  80 m2 ,1,  1 
+ 750 €  /  Monthly  ," Porto -   Maia, Castêlo da Maia  ",Condo/Apartment,  79 m2 ,1,  1 
+ 1 300 €  /  Monthly  ," Porto -   Porto, Bonfim  ",Store,  294 m2 ,1,  -- 
+ 750 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",Store,  109 m2 ,2,  -- 
+ 550 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Warehouse,  180 m2 ,1,  -- 
+ 800 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Canidelo  ",Condo/Apartment,  85 m2 ,1,  2 
+ 300 €  /  Monthly  ," Porto -   Felgueiras, Pedreira, Rande e Sernande  ",Store,  81 m2 ,0,  -- 
+ 1 200 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada  ",Condo/Apartment,  101 m2 ,2,  2 
+ 4 000 €  /  Monthly  ," Porto -   Maia, Moreira  ",Warehouse,  1020 m2 ,2,  -- 
+ 320 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Oliveira do Douro  ",Store,  43 m2 ,1,  -- 
+ 200 €  /  Monthly  ," Porto -   Santo Tirso, Vilarinho  ",Warehouse,  78 m2 ,0,  -- 
+ 400 €  /  Monthly  ," Porto -   Felgueiras, Vila Cova da Lixa e Borba de Godim  ",Store,  99 m2 ,1,  -- 
+ 1 200 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Condo/Apartment,  120 m2 ,0,  2 
+ 1 200 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Condo/Apartment,  87 m2 ,1,  1 
+ 1 200 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Business Office,  129 m2 ,2,  -- 
+ 4 500 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Condo/Apartment,  234 m2 ,3,  4 
+ 350 €  /  Monthly  ," Porto -   Penafiel, Duas Igrejas  ",Warehouse,  144 m2 ,0,  -- 
+ 850 €  /  Monthly  ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",Condo/Apartment,  87 m2 ,2,  3 
+ 850 €  /  Monthly  ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",Business Office,  69 m2 ,1,  -- 
+ 800 €  /  Monthly  ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",Condo/Apartment,  100 m2 ,2,  2 
+ 720 €  /  Monthly  ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",Condo/Apartment,  85 m2 ,1,  2 
+ 790 €  /  Monthly  ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",Condo/Apartment,  91 m2 ,1,  2 
+ 920 €  /  Monthly  ," Porto -   Gondomar, Rio Tinto  ",Condo/Apartment,  118 m2 ,2,  2 
+ 475 €  /  Monthly  ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",Store,  25 m2 ,1,  -- 
+ 1 000 €  /  Monthly  ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",Business Office,  83 m2 ,1,  -- 
+ 2 500 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Store,  197 m2 ,1,  -- 
+ 1 000 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Condo/Apartment,  65 m2 ,1,  2 
+ 400 €  /  Monthly  ," Porto -   Gondomar, Foz do Sousa e Covelo  ",Business Office,  118 m2 ,1,  -- 
+ 400 €  /  Monthly  ," Porto -   Gondomar, Foz do Sousa e Covelo  ",Business Office,  118 m2 ,1,  -- 
+ 750 €  /  Monthly  ," Porto -   Gondomar, Foz do Sousa e Covelo  ",Business Office,  237 m2 ,2,  -- 
+ 350 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Store,  42 m2 ,0,  -- 
+ 1 200 €  /  Monthly  ," Porto -   Maia, Pedrouços  ",Condo/Apartment,  117 m2 ,2,  3 
+ 1 750 €  /  Monthly  ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",Condo/Apartment,  155 m2 ,3,  3 
+ 1 300 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Vilar de Andorinho  ",House,  250 m2 ,2,  3 
+ 1 850 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Business Office,  35 m2 ,1,  -- 
+ 400 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",Store,  98 m2 ,2,  -- 
+ 1 500 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Canidelo  ",Condo/Apartment,  169 m2 ,2,  3 
+ 350 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Store,  139 m2 ,1,  -- 
+ 1 100 €  /  Monthly  ," Porto -   Maia, Pedrouços  ",Store,  125 m2 ,0,  -- 
+ 650 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Serzedo e Perosinho  ",House,  168 m2 ,1,  4 
+ 690 €  /  Monthly  ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",Condo/Apartment,  69 m2 ,1,  2 
+ 1 700 €  /  Monthly  ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",Store,  81 m2 ,1,  0 
+ 750 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Business Office,  58 m2 ,1,  0 
+ 575 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Business Office,  55 m2 ,1,  -- 
+ 600 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Store,  139 m2 ,1,  -- 
+ 1 300 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Store,  138 m2 ,2,  -- 
+ 425 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",Store,  67 m2 ,2,  -- 
+ 800 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Condo/Apartment,  62 m2 ,1,  1 
+ 400 €  /  Monthly  ," Porto -   Felgueiras, Friande  ",Warehouse,  114 m2 ,1,  -- 
+ 800 €  /  Monthly  ," Porto -   Porto, Bonfim  ",Condo/Apartment,  94 m2 ,2,  2 
+ 1 650 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Condo/Apartment,  66 m2 ,1,  1 
+ 850 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Vilar de Andorinho  ",Condo/Apartment,  75 m2 ,0,  2 
+ 800 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Condo/Apartment,  40 m2 ,1,  0 
+ 900 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Condo/Apartment,  40 m2 ,1,  0 
+ 800 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Condo/Apartment,  40 m2 ,1,  0 
+ 21 000 €  /  Monthly  ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",Business Office,  1220 m2 ,0,  -- 
+ 790 €  /  Monthly  ," Porto -   Porto, Paranhos  ",Condo/Apartment,  64 m2 ,1,  2 
+ 240 €  /  Monthly  ," Porto -   Maia, Moreira  ",Business Office,  22 m2 ,0,  0 
+ 1 250 €  /  Monthly  ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  102 m2 ,2,  2 
+ 2 300 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Condo/Apartment,  148 m2 ,3,  3 
+ 450 €  /  Monthly  ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",Condo/Apartment,  46 m2 ,1,  1 
+ 250 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Store,  22 m2 ,0,  -- 
+ 800 €  /  Monthly  ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",Condo/Apartment,  56 m2 ,1,  1 
+ 575 €  /  Monthly  ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",Condo/Apartment,  42 m2 ,1,  0 
+ 250 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Store,  17 m2 ,0,  -- 
+ 2 300 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Madalena  ",Condo/Apartment,  141 m2 ,3,  3 
+ 1 000 €  /  Monthly  ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",Condo/Apartment,  73 m2 ,2,  1 
+ 950 €  /  Monthly  ," Porto -   Paços de Ferreira, Carvalhosa  ",Store,  322 m2 ,1,  -- 
+ 700 €  /  Monthly  ," Porto -   Paços de Ferreira, Carvalhosa  ",Store,  214 m2 ,0,  -- 
+ 1 500 €  /  Monthly  ," Porto -   Paços de Ferreira, Carvalhosa  ",Store,  536 m2 ,1,  -- 
+ 600 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Business Office,  85 m2 ,1,  -- 
+ 800 €  /  Monthly  ," Porto -   Maia, Cidade da Maia  ",Condo/Apartment,  75 m2 ,1,  1 
+ 900 €  /  Monthly  ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",Warehouse,  416 m2 ,4,  -- 
+ 1 800 €  /  Monthly  ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",Condo/Apartment,  135 m2 ,2,  3 
+ 3 500 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Store,  90 m2 ,1,  -- 
+ 750 €  /  Monthly  ," Porto -   Porto, Bonfim  ",Condo/Apartment,  67 m2 ,1,  2 
+ 650 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Canidelo  ",Store,  120 m2 ,1,  -- 
+ 1 500 €  /  Monthly  ," Porto -   Paços de Ferreira, Freamunde  ",Land,  -- m2 ,0,  -- 
+ 150 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Business Office,  22 m2 ,0,  0 
+ 650 €  /  Monthly  ," Porto -   Amarante, Amarante (São Gonçalo), Madalena, Cepelos e Gatão  ",Store,  112 m2 ,0,  -- 
+ 900 €  /  Monthly  ," Porto -   Porto, Ramalde  ",Condo/Apartment,  70 m2 ,2,  2 
+ 550 €  /  Monthly  ," Porto -   Felgueiras, Idães  ",Warehouse,  212 m2 ,1,  -- 
+ 450 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  130 m2 ,2,  3 
+ 450 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Store,  46 m2 ,0,  -- 
+ 350 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Store,  16 m2 ,0,  -- 
+ 4 500 €  /  Monthly  ," Porto -   Paredes, Rebordosa  ",Others - Commercial,  452 m2 ,0,  -- 
+ 2 100 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",Warehouse,  872 m2 ,0,  -- 
+ 380 €  /  Monthly  ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",Store,  87 m2 ,1,  -- 
+ 1 500 €  /  Monthly  ," Porto -   Maia, Vila Nova da Telha  ",House,  186 m2 ,3,  3 
+ 650 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Store,  52 m2 ,0,  -- 
+ 850 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Condo/Apartment,  45 m2 ,1,  1 
+ 1 250 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Condo/Apartment,  87 m2 ,2,  3 
+ 370 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Store,  45 m2 ,0,  0 
+ 250 €  /  Monthly  ," Porto -   Amarante, Amarante (São Gonçalo), Madalena, Cepelos e Gatão  ",Store,  40 m2 ,0,  -- 
+ 400 €  /  Monthly  ," Porto -   Trofa, Bougado (São Martinho e Santiago)  ",Business Office,  40 m2 ,1,  0 
+ 800 €  /  Monthly  ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",Condo/Apartment,  68 m2 ,1,  1 
+ 2 250 €  /  Monthly  ," Porto -   Porto, Ramalde  ",Condo/Apartment,  160 m2 ,3,  4 
+ 750 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Business Office,  75 m2 ,1,  0 
+ 1 600 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Condo/Apartment,  123 m2 ,2,  2 
+ 800 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Condo/Apartment,  44 m2 ,1,  0 
+ 750 €  /  Monthly  ," Porto -   Paredes, Paredes  ",Store,  100 m2 ,2,  -- 
+ 730 €  /  Monthly  ," Porto -   Gondomar, Rio Tinto  ",Condo/Apartment,  66 m2 ,1,  1 
+ 650 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",Store,  118 m2 ,0,  -- 
+ 850 €  /  Monthly  ," Porto -   Porto, Ramalde  ",Condo/Apartment,  83 m2 ,1,  2 
+ 1 200 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Condo/Apartment,  59 m2 ,0,  1 
+ 700 €  /  Monthly  ," Porto -   Amarante, Amarante (São Gonçalo), Madalena, Cepelos e Gatão  ",Condo/Apartment,  131 m2 ,1,  1 
+ 400 €  /  Monthly  ," Porto -   Paredes, Paredes  ",Store,  120 m2 ,2,  -- 
+ 800 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Condo/Apartment,  45 m2 ,1,  0 
+ 350 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Sandim, Olival, Lever e Crestuma  ",Store,  91 m2 ,1,  -- 
+ 950 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Store,  41 m2 ,1,  -- 
+ 1 450 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Store,  118 m2 ,1,  -- 
+ 900 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",Condo/Apartment,  74 m2 ,1,  2 
+ 590 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",Business Office,  72 m2 ,1,  -- 
+ 65 €  /  Monthly  ," Porto -   Porto, Ramalde  ",Garage,  15 m2 ,0,  -- 
+ 180 €  /  Monthly  ," Porto -   Trofa, Bougado (São Martinho e Santiago)  ",Store,  60 m2 ,0,  -- 
+ 1 050 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Condo/Apartment,  113 m2 ,1,  2 
+ 2 000 €  /  Monthly  ," Porto -   Porto, Bonfim  ",House,  239 m2 ,3,  3 
+ 770 €  /  Monthly  ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",Condo/Apartment,  86 m2 ,1,  2 
+ 960 €  /  Monthly  ," Porto -   Gondomar, Rio Tinto  ",Condo/Apartment,  107 m2 ,2,  3 
+ 450 €  /  Monthly  ," Porto -   Trofa, Bougado (São Martinho e Santiago)  ",Business Office,  50 m2 ,1,  -- 
+ 1 600 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Condo/Apartment,  106 m2 ,2,  2 
+ 2 200 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Condo/Apartment,  168 m2 ,4,  4 
+ 1 100 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Arcozelo  ",Others - Commercial,  77 m2 ,2,  -- 
+ 1 300 €  /  Monthly  ," Porto -   Marco de Canaveses, Marco  ",Store,  150 m2 ,1,  -- 
+ 3 500 €  /  Monthly  ," Porto -   Maia, Moreira  ",Warehouse,  618 m2 ,2,  -- 
+ 500 €  /  Monthly  ," Porto -   Paredes, Rebordosa  ",Business Office,  247 m2 ,1,  -- 
+ 1 400 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Store,  143 m2 ,0,  -- 
+ 1 000 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Condo/Apartment,  72 m2 ,0,  1 
+ 590 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Store,  69 m2 ,1,  -- 
+ 3 900 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Store,  120 m2 ,0,  0 
+ 375 €  /  Monthly  ," Porto -   Porto, Campanhã  ",Business Office,  29 m2 ,2,  -- 
+ 1 000 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Store,  41 m2 ,0,  -- 
+ 800 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Store,  110 m2 ,1,  -- 
+ 800 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Business Office,  95 m2 ,0,  -- 
+ 325 €  /  Monthly  ," Porto -   Porto, Ramalde  ",Business Office,  30 m2 ,1,  -- 
+ 325 €  /  Monthly  ," Porto -   Porto, Ramalde  ",Business Office,  30 m2 ,1,  -- 
+ 250 €  /  Monthly  ," Porto -   Porto, Bonfim  ",Garage,  11 m2 ,1,  -- 
+ 500 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Business Office,  53 m2 ,0,  0 
+ 1 200 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",Store,  263 m2 ,4,  -- 
+ 400 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",Business Office,  39 m2 ,1,  -- 
+ 2 250 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",House,  104 m2 ,2,  3 
+ 1 850 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada  ",Condo/Apartment,  198 m2 ,3,  3 
+ 900 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Business Office,  65 m2 ,0,  -- 
+ 900 €  /  Monthly  ," Porto -   Amarante, Amarante (São Gonçalo), Madalena, Cepelos e Gatão  ",Store,  87 m2 ,0,  -- 
+ 1 600 €  /  Monthly  ," Porto -   Vila do Conde, Modivas  ",Land,  -- m2 ,0,  -- 
+ 750 €  /  Monthly  ," Porto -   Vila do Conde, Vilar e Mosteiró  ",Land,  -- m2 ,0,  -- 
+ 6 800 €  /  Monthly  ," Porto -   Vila do Conde, Modivas  ",Land,  -- m2 ,0,  -- 
+ 1 150 €  /  Monthly  ," Porto -   Vila do Conde, Vilar e Mosteiró  ",Land,  -- m2 ,0,  -- 
+ 1 500 €  /  Monthly  ," Porto -   Vila do Conde, Modivas  ",Land,  -- m2 ,0,  -- 
+ 980 €  /  Monthly  ," Porto -   Maia, Cidade da Maia  ",Store,  168 m2 ,2,  -- 
+ 800 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Business Office,  56 m2 ,1,  -- 
+ 2 200 €  /  Monthly  ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",Warehouse,  350 m2 ,0,  -- 
+ 300 €  /  Monthly  ," Porto -   Lousada, Sousela  ",Store,  74 m2 ,1,  -- 
+ 2 200 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Condo/Apartment,  158 m2 ,0,  3 
+ 1 100 €  /  Monthly  ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  120 m2 ,1,  1 
+ 1 000 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Business Office,  67 m2 ,1,  -- 
+ 1 000 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Business Office,  67 m2 ,1,  -- 
+ 2 500 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Condo/Apartment,  205 m2 ,4,  4 
+ 850 €  /  Monthly  ," Porto -   Porto, Bonfim  ",Store,  90 m2 ,1,  -- 
+ 840 €  /  Monthly  ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",Condo/Apartment,  121 m2 ,2,  3 
+ 3 500 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Others - Commercial,  80 m2 ,4,  -- 
+ 600 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",Store,  99 m2 ,2,  -- 
+ 350 €  /  Monthly  ," Porto -   Paredes, Paredes  ",Others - Commercial,  140 m2 ,0,  -- 
+ 950 €  /  Monthly  ," Porto -   Porto, Bonfim  ",Business Office,  117 m2 ,0,  0 
+ 1 200 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Business Office,  62 m2 ,0,  -- 
+ 2 000 €  /  Monthly  ," Porto -   Paços de Ferreira, Carvalhosa  ",Store,  480 m2 ,1,  -- 
+ 850 €  /  Monthly  ," Porto -   Póvoa de Varzim, Póvoa de Varzim, Beiriz e Argivai  ",Condo/Apartment,  120 m2 ,2,  3 
+ 150 €  /  Monthly  ," Porto -   Paredes, Sobreira  ",Land,  -- m2 ,0,  -- 
+ 2 800 €  /  Monthly  ," Porto -   Maia, Vila Nova da Telha  ",Land,  7000 m2 ,0,  -- 
+ 1 550 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",Store,  255 m2 ,1,  -- 
+ 2 000 €  /  Monthly  ," Porto -   Trofa, Bougado (São Martinho e Santiago)  ",Store,  203 m2 ,2,  -- 
+ 500 €  /  Monthly  ," Porto -   Valongo, Ermesinde  ",Store,  108 m2 ,2,  -- 
+ 1 450 €  /  Monthly  ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",Condo/Apartment,  126 m2 ,3,  3 
+ 600 €  /  Monthly  ," Porto -   Paredes, Gandra  ",Store,  88 m2 ,0,  -- 
+ 500 €  /  Monthly  ," Porto -   Santo Tirso, Aves  ",Store,  100 m2 ,0,  -- 
+ 160 €  /  Monthly  ," Porto -   Trofa, Bougado (São Martinho e Santiago)  ",Store,  24 m2 ,0,  -- 
+ 400 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Store,  142 m2 ,1,  -- 
+ 1 000 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Others - Commercial,  200 m2 ,1,  -- 
+ 1 800 €  /  Monthly  ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",Store,  138 m2 ,2,  -- 
+ 1 200 €  /  Monthly  ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",Store,  134 m2 ,1,  -- 
+ 500 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Store,  110 m2 ,2,  -- 
+ 820 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Business Office,  124 m2 ,0,  -- 
+ 2 000 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",Store,  164 m2 ,2,  -- 
+ 1 600 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Business Office,  107 m2 ,1,  -- 
+ 500 €  /  Monthly  ," Porto -   Baião, Campelo e Ovil  ",Store,  98 m2 ,0,  -- 
+ 500 €  /  Monthly  ," Porto -   Baião, Gove  ",Store,  147 m2 ,0,  -- 
+ 2 500 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Store,  90 m2 ,0,  -- 
+ 690 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Business Office,  65 m2 ,1,  0 
+ 1 000 €  /  Monthly  ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",Store,  103 m2 ,2,  -- 
+ 45 €  /  Monthly  ," Porto -   Amarante, Amarante (São Gonçalo), Madalena, Cepelos e Gatão  ",Garage,  14 m2 ,0,  -- 
+ 950 €  /  Monthly  ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",Others - Commercial,  45 m2 ,1,  -- 
+ 550 €  /  Monthly  ," Porto -   Valongo, Valongo  ",Store,  80 m2 ,2,  -- 
+ 1 950 €  /  Monthly  ," Porto -   Porto, Ramalde  ",Condo/Apartment,  133 m2 ,3,  3 
+ 1 500 €  /  Monthly  ," Porto -   Santo Tirso, Vila Nova do Campo  ",House,  90 m2 ,0,  2 
+ 2 750 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  291 m2 ,5,  4 
+ 200 €  /  Monthly  ," Porto -   Póvoa de Varzim, Póvoa de Varzim, Beiriz e Argivai  ",Business Office,  15 m2 ,0,  -- 
+ 225 €  /  Monthly  ," Porto -   Póvoa de Varzim, Póvoa de Varzim, Beiriz e Argivai  ",Business Office,  19 m2 ,0,  -- 
+ 225 €  /  Monthly  ," Porto -   Póvoa de Varzim, Póvoa de Varzim, Beiriz e Argivai  ",Business Office,  16 m2 ,0,  -- 
+ 285 €  /  Monthly  ," Porto -   Póvoa de Varzim, Póvoa de Varzim, Beiriz e Argivai  ",Business Office,  31 m2 ,0,  -- 
+ 1 000 €  /  Monthly  ," Porto -   Porto, Paranhos  ",Store,  108 m2 ,1,  -- 
+ 60 000 €  /  Monthly  ," Porto -   Paredes, Lordelo  ",Sale of Business,  84 m2 ,0,  -- 
+ 750 €  /  Monthly  ," Porto -   Paredes, Astromil  ",Land,  -- m2 ,0,  -- 
+ 750 €  /  Monthly  ," Porto -   Gondomar, Rio Tinto  ",Store,  244 m2 ,2,  -- 
+ 1 000 €  /  Monthly  ," Porto -   Porto, Ramalde  ",Store,  169 m2 ,2,  0 
+ 860 €  /  Monthly  ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",Condo/Apartment,  94 m2 ,2,  2 
+ 2 000 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Store,  100 m2 ,1,  -- 
+ 350 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Business Office,  23 m2 ,1,  -- 
+ 870 €  /  Monthly  ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",Condo/Apartment,  119 m2 ,4,  3 
+ 500 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Store,  100 m2 ,1,  -- 
+ 1 310 €  /  Monthly  ," Porto -   Póvoa de Varzim, Póvoa de Varzim, Beiriz e Argivai  ",Store,  190 m2 ,1,  -- 
+ 2 700 €  /  Monthly  ," Porto -   Valongo, Ermesinde  ",Warehouse,  463 m2 ,2,  0 
+ 4 200 €  /  Monthly  ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",Building,  1162 m2 ,0,  -- 
+ 450 €  /  Monthly  ," Porto -   Paredes, Baltar  ",Store,  371 m2 ,3,  -- 
+ 650 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada  ",Store,  84 m2 ,0,  -- 
+ 365 €  /  Monthly  ," Porto -   Maia, Cidade da Maia  ",Business Office,  28 m2 ,2,  0 
+ 250 €  /  Monthly  ," Porto -   Maia, Águas Santas  ",Others - Commercial,  14 m2 ,0,  -- 
+ 2 100 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",Warehouse,  555 m2 ,0,  -- 
+ 2 800 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",Warehouse,  839 m2 ,0,  -- 
+ 3 500 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",Warehouse,  966 m2 ,0,  -- 
+ 4 200 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",Warehouse,  1150 m2 ,0,  -- 
+ 700 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",Business Office,  167 m2 ,0,  -- 
+ 700 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",Store,  199 m2 ,0,  -- 
+ 700 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",Store,  147 m2 ,0,  -- 
+ 980 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",Business Office,  288 m2 ,0,  -- 
+ 450 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",Store,  97 m2 ,0,  -- 
+ 4 100 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",Land,  4100 m2 ,0,  -- 
+ 400 €  /  Monthly  ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",Business Office,  85 m2 ,1,  -- 
+ 1 500 €  /  Monthly  ," Porto -   Marco de Canaveses, Marco  ",Others - Commercial,  450 m2 ,0,  -- 
+ 1 700 €  /  Monthly  ," Porto -   Maia, Moreira  ",Store,  452 m2 ,2,  -- 
+ 2 500 €  /  Monthly  ," Porto -   Valongo, Ermesinde  ",Warehouse,  385 m2 ,2,  -- 
+ 500 €  /  Monthly  ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",Store,  81 m2 ,0,  0 
+ 250 €  /  Monthly  ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",Business Office,  17 m2 ,1,  -- 
+ 700 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Store,  100 m2 ,1,  -- 
+ 800 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Store,  89 m2 ,1,  -- 
+ 950 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Store,  120 m2 ,1,  -- 
+ 425 €  /  Monthly  ," Porto -   Penafiel, Penafiel  ",Business Office,  62 m2 ,0,  -- 
+ 700 €  /  Monthly  ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",Store,  90 m2 ,0,  -- 
+ 2 250 €  /  Monthly  ," Porto -   Vila do Conde, Guilhabreu  ",Land,  11946 m2 ,0,  -- 
+ 550 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Avintes  ",Store,  106 m2 ,1,  -- 
+ 225 €  /  Monthly  ," Porto -   Paços de Ferreira, Freamunde  ",Store,  50 m2 ,0,  -- 
+ 300 €  /  Monthly  ," Porto -   Paços de Ferreira, Freamunde  ",Store,  50 m2 ,0,  -- 
+ 500 €  /  Monthly  ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",Business Office,  10 m2 ,2,  -- 
+ 500 €  /  Monthly  ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",Business Office,  12 m2 ,2,  -- 
+ 500 €  /  Monthly  ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",Business Office,  11 m2 ,2,  -- 
+ 650 €  /  Monthly  ," Porto -   Maia, Pedrouços  ",Store,  110 m2 ,1,  -- 
+ 500 €  /  Monthly  ," Porto -   Penafiel, Penafiel  ",Land,  5900 m2 ,0,  -- 
+ 350 €  /  Monthly  ," Porto -   Felgueiras, Torrados e Sousa  ",Store,  75 m2 ,1,  -- 
+ 1 500 €  /  Monthly  ," Porto -   Maia, Águas Santas  ",Warehouse,  494 m2 ,0,  -- 
+ 400 €  /  Monthly  ," Porto -   Paredes, Beire  ",Others - Commercial,  303 m2 ,0,  -- 
+ 1 200 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Business Office,  86 m2 ,2,  -- 
+ 1 200 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Business Office,  97 m2 ,0,  -- 
+ 10 000 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Pedroso e Seixezelo  ",Store,  2454 m2 ,6,  -- 
+ 5 337 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",Warehouse,  1186 m2 ,0,  0 
+ 350 €  /  Monthly  ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",Store,  47 m2 ,1,  -- 
+ 950 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Store,  104 m2 ,1,  -- 
+ 800 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Business Office,  110 m2 ,2,  -- 
+ 400 €  /  Monthly  ," Porto -   Lousada, Caíde de Rei  ",Others - Commercial,  100 m2 ,0,  -- 
+ 300 €  /  Monthly  ," Porto -   Baião, Campelo e Ovil  ",Business Office,  50 m2 ,1,  -- 
+ 850 €  /  Monthly  ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",Store,  60 m2 ,1,  -- 
+ 1 500 €  /  Monthly  ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",Store,  154 m2 ,5,  -- 
+ 2 000 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Canidelo  ",Land,  3670 m2 ,0,  -- 
+ 2 200 €  /  Monthly  ," Porto -   Porto, Bonfim  ",Store,  241 m2 ,2,  -- 
+ 300 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Store,  100 m2 ,0,  -- 
+ 1 500 €  /  Monthly  ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",Store,  310 m2 ,2,  -- 
+ 350 €  /  Monthly  ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",Store,  89 m2 ,0,  -- 
+ 500 €  /  Monthly  ," Porto -   Penafiel, Paço de Sousa  ",Warehouse,  162 m2 ,0,  -- 
+ 150 €  /  Monthly  ," Porto -   Paredes, Aguiar de Sousa  ",Land,  7492 m2 ,0,  -- 
+ 100 €  /  Monthly  ," Porto -   Paredes, Recarei  ",Land,  1300 m2 ,0,  -- 
+ 300 €  /  Monthly  ," Porto -   Felgueiras, Sendim  ",Others - Commercial,  2105 m2 ,0,  -- 
+ 400 €  /  Monthly  ," Porto -   Paredes, Sobreira  ",Store,  154 m2 ,3,  -- 
+ 3 000 €  /  Monthly  ," Porto -   Póvoa de Varzim, Póvoa de Varzim, Beiriz e Argivai  ",Building,  941 m2 ,0,  -- 
+ 1 200 €  /  Monthly  ," Porto -   Marco de Canaveses, Marco  ",Store,  161 m2 ,0,  -- 
+ 350 €  /  Monthly  ," Porto -   Paredes, Lordelo  ",Store,  46 m2 ,1,  -- 
+ 350 €  /  Monthly  ," Porto -   Penafiel, Penafiel  ",Land,  1400 m2 ,0,  -- 
+ 2 000 €  /  Monthly  ," Porto -   Porto, Bonfim  ",Business Office,  150 m2 ,2,  -- 
+ 250 €  /  Monthly  ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",Land,  2450 m2 ,0,  -- 
+ 850 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Store,  157 m2 ,0,  -- 
+ 1 500 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",Store,  92 m2 ,0,  -- 
+ 1 155 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",Store,  115 m2 ,0,  -- 
+ 1 090 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",Store,  109 m2 ,0,  -- 
+ 450 €  /  Monthly  ," Porto -   Paços de Ferreira, Paços de Ferreira  ",Store,  132 m2 ,1,  -- 
+ 2 000 €  /  Monthly  ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",Store,  117 m2 ,1,  -- 
+ 5 000 €  /  Monthly  ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",Business Office,  245 m2 ,0,  -- 
+ 300 €  /  Monthly  ," Porto -   Amarante, Amarante (São Gonçalo), Madalena, Cepelos e Gatão  ",Land,  30400 m2 ,0,  -- 
+ 750 €  /  Monthly  ," Porto -   Felgueiras, Macieira da Lixa e Caramos  ",Store,  294 m2 ,1,  -- 
+ 2 000 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Warehouse,  700 m2 ,0,  -- 
+ 2 500 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Store,  136 m2 ,1,  0 
+ 1 000 €  /  Monthly  ," Porto -   Vila Nova de Gaia, Serzedo e Perosinho  ",Land,  1034 m2 ,0,  0 
+ 700 €  /  Monthly  ," Porto -   Póvoa de Varzim, Póvoa de Varzim, Beiriz e Argivai  ",Store,  130 m2 ,0,  0 
+ 600 €  /  Monthly  ," Porto -   Penafiel, Rio Mau  ",Warehouse,  613 m2 ,0,  0 
+ 250 €  /  Monthly  ," Porto -   Penafiel, Rio Mau  ",Store,  18 m2 ,0,  0 
+ 250 €  /  Monthly  ," Porto -   Penafiel, Rio Mau  ",Store,  22 m2 ,0,  0 
+ 350 €  /  Monthly  ," Porto -   Paredes, Paredes  ",Business Office,  96 m2 ,0,  0 
+ 600 €  /  Monthly  ," Porto -   Santo Tirso, Roriz  ",Warehouse,  240 m2 ,0,  0 
+ 730 €  /  Monthly  ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",Business Office,  104 m2 ,0,  0 
+ 735 €  /  Monthly  ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",Business Office,  105 m2 ,0,  0 
+ 850 €  /  Monthly  ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",Business Office,  120 m2 ,0,  0 
+ 730 €  /  Monthly  ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",Business Office,  104 m2 ,0,  0 
+ 450 €  /  Monthly  ," Porto -   Porto, Campanhã  ",Store,  83 m2 ,0,  0 
+ 700 €  /  Monthly  ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",Store,  148 m2 ,0,  0 
+ 250 €  /  Monthly  ," Porto -   Penafiel, Rio Mau  ",Store,  17 m2 ,0,  0 
+ 3 200 €  /  Monthly  ," Porto -   Maia, Castêlo da Maia  ",Business Office,  491 m2 ,0,  0 
+ 2 100 €  /  Monthly  ," Porto -   Maia, Castêlo da Maia  ",Business Office,  245 m2 ,0,  0 
+ 1 500 €  /  Monthly  ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",Warehouse,  500 m2 ,0,  0 
+ 800 €  /  Monthly  ," Porto -   Maia, Vila Nova da Telha  ",Land,  9000 m2 ,0,  0 
+ 700 €  /  Monthly  ," Porto -   Porto, Campanhã  ",Store,  76 m2 ,0,  0 
+ 450 €  /  Monthly  ," Porto -   Felgueiras, Vila Fria e Vizela (São Jorge)  ",Store,  210 m2 ,0,  0 
+ 700 €  /  Monthly  ," Porto -   Paredes, Paredes  ",Store,  295 m2 ,0,  0 
+ 250 €  /  Monthly  ," Porto -   Paredes, Paredes  ",Store,  27 m2 ,0,  0 
+ 3 000 €  /  Monthly  ," Porto -   Vila do Conde, Vilar e Mosteiró  ",Warehouse,  362 m2 ,0,  0 
+ 600 €  /  Monthly  ," Porto -   Vila do Conde, Vila do Conde  ",Business Office,  49 m2 ,0,  0 
+ 600 €  /  Monthly  ," Porto -   Vila do Conde, Vila do Conde  ",Business Office,  49 m2 ,0,  0 
+ 800 €  /  Monthly  ," Porto -   Porto, Bonfim  ",Store,  197 m2 ,0,  0 
+ 1 000 €  /  Monthly  ," Porto -   Paredes, Recarei  ",Store,  241 m2 ,0,  0 
+ 5 000 €  /  Monthly  ," Porto -   Maia, Castêlo da Maia  ",Business Office,  979 m2 ,0,  0 
+ 400 €  /  Monthly  ," Porto -   Paredes, Rebordosa  ",Store,  88 m2 ,0,  0 
+ 1 750 €  /  Monthly  ," Porto -   Porto, Ramalde  ",Warehouse,  364 m2 ,4,  0 
+ 10 000 €  /  Monthly  ," Porto -   Vila do Conde, Fornelo e Vairão  ",Land,  280000 m2 ,0,  0 
+ 350 €  /  Monthly  ," Porto -   Paredes, Lordelo  ",Store,  124 m2 ,0,  0 
+ 76 516 €  /  Monthly  ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",Land,  76516 m2 ,0,  0 
+ 700 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Alverca do Ribatejo e Sobralinho  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 350 €  /  Monthly  ," Lisboa -   Amadora, Falagueira - Venda Nova  ",Store,  20 m2 ,  0 ,  -- 
+ 1 750 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Condo/Apartment,  123 m2 ,  2 ,  3 
+ 950 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Condo/Apartment,  115 m2 ,  2 ,  3 
+ 750 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Condo/Apartment,  89 m2 ,  2 ,  3 
+ 1 450 €  /  Monthly  ," Lisboa -   Lisboa, Areeiro  ",Condo/Apartment,  86 m2 ,  1 ,  2 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 600 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Store,  69 m2 ,  1 ,  -- 
+ 1 800 €  /  Monthly  ," Lisboa -   Lisboa, Santa Clara  ",Condo/Apartment,  102 m2 ,  2 ,  3 
+ 4 000 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  210 m2 ,  3 ,  4 
+ 3 000 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",House,  150 m2 ,  3 ,  3 
+ 1 000 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  98 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Oeiras, Carnaxide e Queijas  ",Store,  58 m2 ,  2 ,  -- 
+ 1 800 €  /  Monthly  ," Lisboa -   Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)  ",Condo/Apartment,  126 m2 ,  2 ,  2 
+ 1 000 €  /  Monthly  ," Lisboa -   Amadora, Águas Livres  ",Condo/Apartment,  91 m2 ,  0 ,  3 
+ 950 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Store,  142 m2 ,  0 ,  -- 
+ 3 700 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Condo/Apartment,  170 m2 ,  3 ,  4 
+ 1 650 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Condo/Apartment,  84 m2 ,  2 ,  1 
+ 850 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Condo/Apartment,  75 m2 ,  1 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  105 m2 ,  2 ,  3 
+ 900 €  /  Monthly  ," Lisboa -   Amadora, Águas Livres  ",Condo/Apartment,  73 m2 ,  0 ,  2 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Condo/Apartment,  79 m2 ,  1 ,  1 
+ 1 250 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Condo/Apartment,  75 m2 ,  1 ,  2 
+ 2 500 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  158 m2 ,  3 ,  3 
+ 1 300 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  66 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Areeiro  ",Store,  240 m2 ,  0 ,  0 
+ 4 000 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  160 m2 ,  4 ,  4 
+ 700 €  /  Monthly  ," Lisboa -   Amadora, Encosta do Sol  ",Condo/Apartment,  69 m2 ,  1 ,  2 
+ 6 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Condo/Apartment,  215 m2 ,  4 ,  3 
+ 1 950 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Condo/Apartment,  121 m2 ,  2 ,  3 
+ 1 500 €  /  Monthly  ," Lisboa -   Sintra, Agualva e Mira-Sintra  ",Store,  409 m2 ,  0 ,  -- 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  67 m2 ,  1 ,  1 
+ 3 000 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  138 m2 ,  3 ,  3 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Ajuda  ",Condo/Apartment,  78 m2 ,  1 ,  2 
+ 2 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  104 m2 ,  2 ,  3 
+ 1 500 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Store,  50 m2 ,  1 ,  -- 
+ 1 250 €  /  Monthly  ," Lisboa -   Amadora, Encosta do Sol  ",Condo/Apartment,  106 m2 ,  2 ,  3 
+ 3 300 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  179 m2 ,  3 ,  2 
+ 1 300 €  /  Monthly  ," Lisboa -   Sintra, Agualva e Mira-Sintra  ",Condo/Apartment,  83 m2 ,  2 ,  3 
+ 3 100 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Business Office,  169 m2 ,  2 ,  -- 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 900 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Condo/Apartment,  110 m2 ,  1 ,  2 
+ 4 000 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Business Office,  215 m2 ,  0 ,  -- 
+ 4 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  539 m2 ,  0 ,  -- 
+ 1 700 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Duplex,  124 m2 ,  3 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 700 €  /  Monthly  ," Lisboa -   Lourinhã, Lourinhã e Atalaia  ",Condo/Apartment,  120 m2 ,  2 ,  3 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  50 m2 ,  1 ,  -- 
+ 900 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  73 m2 ,  1 ,  1 
+ 4 500 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  163 m2 ,  3 ,  2 
+ 980 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  180 m2 ,  0 ,  -- 
+ 2 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  190 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Others - Commercial,  30 m2 ,  2 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Condo/Apartment,  151 m2 ,  2 ,  3 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  110 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Condo/Apartment,  78 m2 ,  1 ,  2 
+ 1 200 €  /  Monthly  ," Lisboa -   Odivelas, Odivelas  ",Store,  150 m2 ,  0 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Oeiras, Carnaxide e Queijas  ",Business Office,  153 m2 ,  2 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 1 750 €  /  Monthly  ," Lisboa -   Mafra, Ericeira  ",Store,  100 m2 ,  1 ,  0 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  257 m2 ,  5 ,  6 
+ 650 €  /  Monthly  ," Lisboa -   Sintra, Agualva e Mira-Sintra  ",Condo/Apartment,  65 m2 ,  0 ,  2 
+ 1 200 €  /  Monthly  ," Lisboa -   Sintra, Algueirão-Mem Martins  ",Condo/Apartment,  82 m2 ,  2 ,  2 
+ 100 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Garage,  138 m2 ,  0 ,  -- 
+ 100 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Garage,  11 m2 ,  0 ,  -- 
+ 850 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Others - Commercial,  61 m2 ,  0 ,  -- 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Condo/Apartment,  97 m2 ,  2 ,  3 
+ 925 €  /  Monthly  ," Lisboa -   Loures, Moscavide e Portela  ",Store,  51 m2 ,  4 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  108 m2 ,  2 ,  3 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Condo/Apartment,  75 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Sintra, Rio de Mouro  ",Condo/Apartment,  73 m2 ,  1 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Odivelas  ",Condo/Apartment,  102 m2 ,  2 ,  2 
+ 250 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Garage,  71 m2 ,  1 ,  0 
+ 120 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Garage,  21 m2 ,  0 ,  -- 
+ 1 100 €  /  Monthly  ," Lisboa -   Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)  ",Condo/Apartment,  81 m2 ,  1 ,  2 
+ 1 400 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  80 m2 ,  1 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Campolide  ",Condo/Apartment,  200 m2 ,  2 ,  4 
+ 1 450 €  /  Monthly  ," Lisboa -   Lisboa, Marvila  ",Condo/Apartment,  97 m2 ,  2 ,  2 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 1 400 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Condo/Apartment,  54 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Belém  ",Condo/Apartment,  98 m2 ,  2 ,  3 
+ 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Store,  68 m2 ,  1 ,  -- 
+ 350 €  /  Monthly  ," Lisboa -   Loures, Santa Iria de Azoia, São João da Talha e Bobadela  ",Others - Habitacional,  86 m2 ,  1 ,  1 
+ 350 €  /  Monthly  ," Lisboa -   Loures, Santa Iria de Azoia, São João da Talha e Bobadela  ",Others - Habitacional,  86 m2 ,  1 ,  1 
+ 500 €  /  Monthly  ," Lisboa -   Loures, Loures  ",Store,  19 m2 ,  1 ,  -- 
+ 1 700 €  /  Monthly  ," Lisboa -   Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)  ",Condo/Apartment,  137 m2 ,  3 ,  3 
+ 20 000 €  /  Monthly  ," Lisboa -   Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)  ",House,  513 m2 ,  7 ,  5 
+ 1 400 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Condo/Apartment,  127 m2 ,  2 ,  3 
+ 2 000 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Condo/Apartment,  110 m2 ,  1 ,  3 
+ 500 €  /  Monthly  ," Lisboa -   Mafra, Venda do Pinheiro e Santo Estêvão das Galés  ",Store,  39 m2 ,  0 ,  -- 
+ 150 €  /  Monthly  ," Lisboa -   Sintra, Rio de Mouro  ",Garage,  15 m2 ,  0 ,  -- 
+ 950 €  /  Monthly  ," Lisboa -   Lisboa, Benfica  ",Condo/Apartment,  55 m2 ,  1 ,  1 
+ 2 950 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Others - Commercial,  258 m2 ,  -- ,  -- 
+ 200 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Alhandra, São João dos Montes e Calhandriz  ",Garage,  36 m2 ,  0 ,  -- 
+ 1 900 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  114 m2 ,  3 ,  2 
+ 1 950 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  131 m2 ,  2 ,  3 
+ 1 500 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Condo/Apartment,  115 m2 ,  2 ,  3 
+ 7 000 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Business Office,  142 m2 ,  1 ,  -- 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Condo/Apartment,  61 m2 ,  1 ,  1 
+ 6 500 €  /  Monthly  ," Lisboa -   Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)  ",House,  393 m2 ,  4 ,  4 
+ 1 000 €  /  Monthly  ," Lisboa -   Odivelas, Pontinha e Famões  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 2 500 €  /  Monthly  ," Lisboa -   Loures, Moscavide e Portela  ",Condo/Apartment,  135 m2 ,  2 ,  3 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, Alcântara  ",Condo/Apartment,  165 m2 ,  3 ,  4 
+ 1 300 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  58 m2 ,  1 ,  1 
+ 3 150 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Condo/Apartment,  140 m2 ,  2 ,  4 
+ 2 000 €  /  Monthly  ," Lisboa -   Odivelas, Odivelas  ",Condo/Apartment,  127 m2 ,  2 ,  3 
+ 1 350 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Store,  132 m2 ,  1 ,  -- 
+ 700 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Store,  45 m2 ,  0 ,  -- 
+ 2 900 €  /  Monthly  ," Lisboa -   Lisboa, Marvila  ",Condo/Apartment,  110 m2 ,  2 ,  2 
+ 550 €  /  Monthly  ," Lisboa -   Loures, Loures  ",Store,  16 m2 ,  0 ,  -- 
+ 1 450 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Condo/Apartment,  90 m2 ,  1 ,  1 
+ 1 750 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  98 m2 ,  2 ,  3 
+ 2 400 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  119 m2 ,  3 ,  3 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Condo/Apartment,  124 m2 ,  2 ,  3 
+ 2 900 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  116 m2 ,  3 ,  2 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Areeiro  ",Condo/Apartment,  63 m2 ,  1 ,  1 
+ 1 350 €  /  Monthly  ," Lisboa -   Odivelas, Odivelas  ",Condo/Apartment,  120 m2 ,  2 ,  3 
+ 1 250 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  150 m2 ,  3 ,  4 
+ 800 €  /  Monthly  ," Lisboa -   Loures, Camarate, Unhos e Apelação  ",Condo/Apartment,  60 m2 ,  1 ,  2 
+ 5 000 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Others - Commercial,  663 m2 ,  0 ,  -- 
+ 1 600 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Condo/Apartment,  85 m2 ,  2 ,  3 
+ 150 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Garage,  12 m2 ,  0 ,  -- 
+ 2 000 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Condo/Apartment,  134 m2 ,  2 ,  3 
+ 2 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  99 m2 ,  2 ,  3 
+ 1 000 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Alverca do Ribatejo e Sobralinho  ",Store,  51 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Lisboa, Alcântara  ",Condo/Apartment,  58 m2 ,  0 ,  3 
+ 1 800 €  /  Monthly  ," Lisboa -   Lisboa, Campolide  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 4 500 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Condo/Apartment,  176 m2 ,  2 ,  4 
+ 1 400 €  /  Monthly  ," Lisboa -   Lisboa, Ajuda  ",Condo/Apartment,  87 m2 ,  1 ,  2 
+ 600 €  /  Monthly  ," Lisboa -   Odivelas, Pontinha e Famões  ",House,  28 m2 ,  1 ,  1 
+ 850 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Others - Commercial,  50 m2 ,  1 ,  -- 
+ 2 000 €  /  Monthly  ," Lisboa -   Torres Vedras, Silveira  ",House,  165 m2 ,  3 ,  3 
+ 2 250 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Duplex,  135 m2 ,  4 ,  4 
+ 1 300 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Vila Franca de Xira  ",Condo/Apartment,  81 m2 ,  2 ,  3 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Condo/Apartment,  75 m2 ,  1 ,  3 
+ 1 450 €  /  Monthly  ," Lisboa -   Lisboa, Parque das Nações  ",Condo/Apartment,  120 m2 ,  2 ,  2 
+ 1 450 €  /  Monthly  ," Lisboa -   Lisboa, Areeiro  ",Condo/Apartment,  109 m2 ,  2 ,  3 
+ 650 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Store,  87 m2 ,  2 ,  -- 
+ 1 250 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Condo/Apartment,  102 m2 ,  2 ,  3 
+ 200 €  /  Monthly  ," Lisboa -   Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães  ",Business Office,  35 m2 ,  1 ,  -- 
+ 1 600 €  /  Monthly  ," Lisboa -   Torres Vedras, A dos Cunhados e Maceira  ",House,  172 m2 ,  0 ,  3 
+ 2 250 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  134 m2 ,  3 ,  4 
+ 1 800 €  /  Monthly  ," Lisboa -   Alenquer, Olhalvo  ",House,  272 m2 ,  4 ,  3 
+ 1 100 €  /  Monthly  ," Lisboa -   Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)  ",Condo/Apartment,  87 m2 ,  2 ,  1 
+ 500 €  /  Monthly  ," Lisboa -   Sintra, Algueirão-Mem Martins  ",Store,  58 m2 ,  2 ,  -- 
+ 400 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Vialonga  ",Store,  91 m2 ,  0 ,  -- 
+ 600 €  /  Monthly  ," Lisboa -   Loures, Moscavide e Portela  ",Store,  38 m2 ,  1 ,  -- 
+ 850 €  /  Monthly  ," Lisboa -   Sintra, Rio de Mouro  ",Condo/Apartment,  61 m2 ,  1 ,  2 
+ 1 200 €  /  Monthly  ," Lisboa -   Amadora, Encosta do Sol  ",Condo/Apartment,  90 m2 ,  2 ,  3 
+ 700 €  /  Monthly  ," Lisboa -   Sintra, Casal de Cambra  ",Condo/Apartment,  61 m2 ,  1 ,  2 
+ 2 250 €  /  Monthly  ," Lisboa -   Cascais, Alcabideche  ",Condo/Apartment,  84 m2 ,  3 ,  2 
+ 1 100 €  /  Monthly  ," Lisboa -   Lisboa, Benfica  ",Condo/Apartment,  70 m2 ,  1 ,  2 
+ 2 100 €  /  Monthly  ," Lisboa -   Lisboa, Campolide  ",Condo/Apartment,  142 m2 ,  3 ,  3 
+ 700 €  /  Monthly  ," Lisboa -   Sintra, Cacém e São Marcos  ",Condo/Apartment,  80 m2 ,  1 ,  2 
+ 1 350 €  /  Monthly  ," Lisboa -   Lisboa, Benfica  ",Condo/Apartment,  120 m2 ,  2 ,  3 
+ 1 200 €  /  Monthly  ," Lisboa -   Odivelas, Ramada e Caneças  ",Warehouse,  215 m2 ,  0 ,  0 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Ramada e Caneças  ",Warehouse,  215 m2 ,  0 ,  0 
+ 2 650 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",House,  128 m2 ,  6 ,  3 
+ 1 650 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  67 m2 ,  2 ,  2 
+ 3 250 €  /  Monthly  ," Lisboa -   Mafra, Mafra  ",House,  277 m2 ,  0 ,  4 
+ 1 100 €  /  Monthly  ," Lisboa -   Loures, Santo António dos Cavaleiros e Frielas  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 700 €  /  Monthly  ," Lisboa -   Odivelas, Pontinha e Famões  ",Condo/Apartment,  90 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Amadora, Alfragide  ",Condo/Apartment,  91 m2 ,  1 ,  2 
+ 1 300 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  80 m2 ,  1 ,  2 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  42 m2 ,  1 ,  1 
+ 1 200 €  /  Monthly  ," Lisboa -   Sintra, Agualva e Mira-Sintra  ",Condo/Apartment,  110 m2 ,  2 ,  3 
+ 1 800 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Condo/Apartment,  116 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Agualva e Mira-Sintra  ",Condo/Apartment,  89 m2 ,  2 ,  3 
+ 1 750 €  /  Monthly  ," Lisboa -   Lisboa, Areeiro  ",Condo/Apartment,  130 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Condo/Apartment,  49 m2 ,  1 ,  1 
+ 3 100 €  /  Monthly  ," Lisboa -   Lisboa, Parque das Nações  ",Condo/Apartment,  112 m2 ,  3 ,  2 
+ 1 400 €  /  Monthly  ," Lisboa -   Lisboa, Campolide  ",Condo/Apartment,  100 m2 ,  2 ,  3 
+ 1 400 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  107 m2 ,  2 ,  3 
+ 700 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Alverca do Ribatejo e Sobralinho  ",Condo/Apartment,  75 m2 ,  1 ,  2 
+ 850 €  /  Monthly  ," Lisboa -   Mafra, Venda do Pinheiro e Santo Estêvão das Galés  ",Condo/Apartment,  84 m2 ,  1 ,  2 
+ 3 000 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  90 m2 ,  2 ,  3 
+ 2 300 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Condo/Apartment,  79 m2 ,  2 ,  2 
+ 600 €  /  Monthly  ," Lisboa -   Sintra, Cacém e São Marcos  ",Store,  180 m2 ,  1 ,  -- 
+ 1 650 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Condo/Apartment,  85 m2 ,  2 ,  2 
+ 800 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Condo/Apartment,  38 m2 ,  1 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Amadora, Águas Livres  ",Condo/Apartment,  54 m2 ,  1 ,  1 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Condo/Apartment,  126 m2 ,  2 ,  3 
+ 120 €  /  Monthly  ," Lisboa -   Lisboa, Benfica  ",Garage,  12 m2 ,  0 ,  -- 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  69 m2 ,  1 ,  2 
+ 5 000 €  /  Monthly  ," Lisboa -   Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)  ",Condo/Apartment,  164 m2 ,  3 ,  3 
+ 950 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  45 m2 ,  1 ,  1 
+ 1 490 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Condo/Apartment,  80 m2 ,  2 ,  1 
+ 1 950 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 2 900 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Condo/Apartment,  107 m2 ,  3 ,  3 
+ 3 250 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Condo/Apartment,  107 m2 ,  2 ,  3 
+ 1 000 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Sale of Business,  25 m2 ,  1 ,  -- 
+ 1 000 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Condo/Apartment,  90 m2 ,  2 ,  2 
+ 2 500 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  154 m2 ,  2 ,  4 
+ 650 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Store,  33 m2 ,  0 ,  -- 
+ 2 900 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Condo/Apartment,  164 m2 ,  2 ,  3 
+ 750 €  /  Monthly  ," Lisboa -   Lisboa, Alcântara  ",Condo/Apartment,  58 m2 ,  0 ,  1 
+ 1 100 €  /  Monthly  ," Lisboa -   Odivelas, Ramada e Caneças  ",Condo/Apartment,  96 m2 ,  2 ,  2 
+ 670 €  /  Monthly  ," Lisboa -   Lisboa, Benfica  ",Condo/Apartment,  47 m2 ,  1 ,  1 
+ 1 150 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Condo/Apartment,  66 m2 ,  1 ,  2 
+ 380 €  /  Monthly  ," Lisboa -   Sintra, Cacém e São Marcos  ",Business Office,  18 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Sintra, Algueirão-Mem Martins  ",Store,  162 m2 ,  2 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  132 m2 ,  2 ,  3 
+ 600 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Business Office,  46 m2 ,  1 ,  -- 
+ 7 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  210 m2 ,  4 ,  4 
+ 110 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Garage,  12 m2 ,  0 ,  0 
+ 110 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Garage,  12 m2 ,  0 ,  0 
+ 3 500 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Condo/Apartment,  258 m2 ,  4 ,  4 
+ 600 €  /  Monthly  ," Lisboa -   Sobral de Monte Agraço, São Quintino  ",Land,  -- m2 ,  0 ,  -- 
+ 3 250 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Store,  420 m2 ,  0 ,  -- 
+ 1 600 €  /  Monthly  ," Lisboa -   Loures, Santo António dos Cavaleiros e Frielas  ",Store,  183 m2 ,  3 ,  -- 
+ 900 €  /  Monthly  ," Lisboa -   Mafra, Venda do Pinheiro e Santo Estêvão das Galés  ",Condo/Apartment,  57 m2 ,  1 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Cacém e São Marcos  ",Condo/Apartment,  87 m2 ,  0 ,  2 
+ 2 700 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Store,  73 m2 ,  2 ,  -- 
+ 1 800 €  /  Monthly  ," Lisboa -   Lisboa, Alcântara  ",Store,  90 m2 ,  1 ,  -- 
+ 2 000 €  /  Monthly  ," Lisboa -   Lisboa, Alcântara  ",Store,  100 m2 ,  1 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Lisboa, Alcântara  ",Store,  146 m2 ,  2 ,  -- 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Business Office,  60 m2 ,  1 ,  -- 
+ 3 200 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Business Office,  150 m2 ,  2 ,  0 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Alcântara  ",Condo/Apartment,  80 m2 ,  1 ,  1 
+ 3 750 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Business Office,  203 m2 ,  2 ,  -- 
+ 700 €  /  Monthly  ," Lisboa -   Oeiras, Carnaxide e Queijas  ",Condo/Apartment,  51 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  78 m2 ,  1 ,  2 
+ 850 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Store,  45 m2 ,  1 ,  -- 
+ 1 350 €  /  Monthly  ," Lisboa -   Torres Vedras, Turcifal  ",House,  185 m2 ,  2 ,  3 
+ 1 500 €  /  Monthly  ," Lisboa -   Torres Vedras, Turcifal  ",House,  186 m2 ,  3 ,  4 
+ 970 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Condo/Apartment,  55 m2 ,  1 ,  1 
+ 870 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Condo/Apartment,  60 m2 ,  1 ,  1 
+ 3 400 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Condo/Apartment,  173 m2 ,  3 ,  3 
+ 950 €  /  Monthly  ," Lisboa -   Sintra, Cacém e São Marcos  ",Condo/Apartment,  94 m2 ,  1 ,  2 
+ 950 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Warehouse,  164 m2 ,  2 ,  -- 
+ 7 500 €  /  Monthly  ," Lisboa -   Cascais, Alcabideche  ",House,  310 m2 ,  5 ,  3 
+ 1 650 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  93 m2 ,  2 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Sobral de Monte Agraço, Sobral de Monte Agraço  ",Condo/Apartment,  106 m2 ,  2 ,  3 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Condo/Apartment,  81 m2 ,  1 ,  2 
+ 870 €  /  Monthly  ," Lisboa -   Amadora, Encosta do Sol  ",Condo/Apartment,  79 m2 ,  1 ,  2 
+ 140 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Garage,  15 m2 ,  0 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Lisboa, Campolide  ",Condo/Apartment,  125 m2 ,  2 ,  2 
+ 650 €  /  Monthly  ," Lisboa -   Odivelas, Ramada e Caneças  ",Store,  45 m2 ,  1 ,  -- 
+ 2 100 €  /  Monthly  ," Lisboa -   Lisboa, Areeiro  ",Condo/Apartment,  110 m2 ,  2 ,  3 
+ 950 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  80 m2 ,  1 ,  2 
+ 2 500 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Store,  82 m2 ,  2 ,  -- 
+ 1 000 €  /  Monthly  ," Lisboa -   Loures, Santo António dos Cavaleiros e Frielas  ",Condo/Apartment,  79 m2 ,  1 ,  2 
+ 320 €  /  Monthly  ," Lisboa -   Amadora, Falagueira - Venda Nova  ",Store,  21 m2 ,  1 ,  -- 
+ 1 100 €  /  Monthly  ," Lisboa -   Mafra, Ericeira  ",Condo/Apartment,  440 m2 ,  1 ,  2 
+ 1 300 €  /  Monthly  ," Lisboa -   Sintra, Agualva e Mira-Sintra  ",Condo/Apartment,  85 m2 ,  2 ,  3 
+ 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Store,  100 m2 ,  2 ,  -- 
+ 2 600 €  /  Monthly  ," Lisboa -   Lisboa, Parque das Nações  ",Condo/Apartment,  188 m2 ,  4 ,  4 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Parque das Nações  ",Store,  43 m2 ,  2 ,  -- 
+ 950 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  35 m2 ,  1 ,  1 
+ 950 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  99 m2 ,  2 ,  1 
+ 1 950 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Condo/Apartment,  124 m2 ,  2 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Condo/Apartment,  90 m2 ,  1 ,  2 
+ 2 000 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  91 m2 ,  2 ,  3 
+ 2 200 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  100 m2 ,  2 ,  3 
+ 1 250 €  /  Monthly  ," Lisboa -   Amadora, Alfragide  ",Condo/Apartment,  123 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, São Vicente  ",Condo/Apartment,  17 m2 ,  1 ,  1 
+ 4 500 €  /  Monthly  ," Lisboa -   Sintra, Rio de Mouro  ",Warehouse,  1200 m2 ,  0 ,  -- 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Store,  46 m2 ,  1 ,  -- 
+ 1 100 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Vila Franca de Xira  ",Condo/Apartment,  93 m2 ,  2 ,  3 
+ 950 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Condo/Apartment,  72 m2 ,  1 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Alverca do Ribatejo e Sobralinho  ",Condo/Apartment,  53 m2 ,  2 ,  2 
+ 1 800 €  /  Monthly  ," Lisboa -   Oeiras, Carnaxide e Queijas  ",Store,  252 m2 ,  4 ,  -- 
+ 1 750 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 1 450 €  /  Monthly  ," Lisboa -   Odivelas, Odivelas  ",Condo/Apartment,  134 m2 ,  3 ,  4 
+ 1 550 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  112 m2 ,  0 ,  3 
+ 700 €  /  Monthly  ," Lisboa -   Sintra, Rio de Mouro  ",Warehouse,  129 m2 ,  2 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  97 m2 ,  2 ,  2 
+ 1 800 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Duplex,  60 m2 ,  1 ,  1 
+ 1 100 €  /  Monthly  ," Lisboa -   Lisboa, Belém  ",Condo/Apartment,  81 m2 ,  2 ,  2 
+ 2 320 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Condo/Apartment,  58 m2 ,  1 ,  1 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Campolide  ",Condo/Apartment,  90 m2 ,  2 ,  3 
+ 5 000 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",House,  532 m2 ,  4 ,  5 
+ 2 980 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Duplex,  153 m2 ,  3 ,  3 
+ 990 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Vila Franca de Xira  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 55 000 €  /  Daily  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Sale of Business,  54 m2 ,  2 ,  -- 
+ 1 150 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Condo/Apartment,  48 m2 ,  1 ,  1 
+ 2 700 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 800 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Condo/Apartment,  59 m2 ,  1 ,  1 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  62 m2 ,  1 ,  2 
+ 1 000 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  48 m2 ,  0 ,  1 
+ 1 000 €  /  Monthly  ," Lisboa -   Sintra, Rio de Mouro  ",Condo/Apartment,  95 m2 ,  2 ,  3 
+ 1 150 €  /  Monthly  ," Lisboa -   Amadora, Encosta do Sol  ",Condo/Apartment,  126 m2 ,  0 ,  3 
+ 1 200 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  82 m2 ,  2 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Condo/Apartment,  55 m2 ,  1 ,  1 
+ 1 600 €  /  Monthly  ," Lisboa -   Loures, Camarate, Unhos e Apelação  ",Warehouse,  157 m2 ,  0 ,  -- 
+ 3 500 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Condo/Apartment,  258 m2 ,  4 ,  4 
+ 2 750 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Store,  389 m2 ,  3 ,  -- 
+ 1 750 €  /  Monthly  ," Lisboa -   Odivelas, Odivelas  ",Store,  66 m2 ,  2 ,  -- 
+ 4 000 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Alverca do Ribatejo e Sobralinho  ",Store,  855 m2 ,  4 ,  -- 
+ 2 400 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Condo/Apartment,  168 m2 ,  3 ,  4 
+ 1 400 €  /  Monthly  ," Lisboa -   Odivelas, Pontinha e Famões  ",Condo/Apartment,  87 m2 ,  2 ,  3 
+ 3 600 €  /  Monthly  ," Lisboa -   Lisboa, Areeiro  ",Store,  206 m2 ,  0 ,  0 
+ 1 100 €  /  Monthly  ," Lisboa -   Odivelas, Ramada e Caneças  ",Condo/Apartment,  148 m2 ,  2 ,  3 
+ 750 €  /  Monthly  ," Lisboa -   Loures, Loures  ",Condo/Apartment,  63 m2 ,  1 ,  2 
+ 3 500 €  /  Monthly  ," Lisboa -   Lisboa, Areeiro  ",Store,  90 m2 ,  1 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  38 m2 ,  1 ,  1 
+ 650 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Alverca do Ribatejo e Sobralinho  ",Condo/Apartment,  81 m2 ,  1 ,  2 
+ 1 750 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  38 m2 ,  0 ,  2 
+ 800 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Alverca do Ribatejo e Sobralinho  ",Condo/Apartment,  82 m2 ,  2 ,  3 
+ 250 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Garage,  39 m2 ,  1 ,  -- 
+ 500 €  /  Monthly  ," Lisboa -   Lourinhã, Lourinhã e Atalaia  ",Store,  108 m2 ,  1 ,  -- 
+ 950 €  /  Monthly  ," Lisboa -   Lisboa, Areeiro  ",Business Office,  140 m2 ,  1 ,  -- 
+ 700 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Store,  132 m2 ,  1 ,  -- 
+ 1 400 €  /  Monthly  ," Lisboa -   Amadora, Alfragide  ",Condo/Apartment,  138 m2 ,  3 ,  3 
+ 1 000 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  90 m2 ,  1 ,  2 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Parque das Nações  ",Store,  31 m2 ,  0 ,  -- 
+ 1 400 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Condo/Apartment,  80 m2 ,  1 ,  1 
+ 2 400 €  /  Monthly  ," Lisboa -   Lisboa, Parque das Nações  ",Condo/Apartment,  110 m2 ,  1 ,  2 
+ 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Store,  57 m2 ,  2 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Condo/Apartment,  75 m2 ,  1 ,  3 
+ 3 900 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",House,  132 m2 ,  5 ,  5 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Condo/Apartment,  42 m2 ,  1 ,  2 
+ 950 €  /  Monthly  ," Lisboa -   Sintra, Rio de Mouro  ",Business Office,  162 m2 ,  1 ,  0 
+ 650 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Store,  90 m2 ,  0 ,  0 
+ 1 600 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Store,  38 m2 ,  1 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Store,  26 m2 ,  1 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Store,  26 m2 ,  1 ,  -- 
+ 3 500 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Store,  90 m2 ,  3 ,  -- 
+ 1 250 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  61 m2 ,  1 ,  2 
+ 950 €  /  Monthly  ," Lisboa -   Odivelas, Pontinha e Famões  ",Store,  50 m2 ,  1 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Condo/Apartment,  54 m2 ,  1 ,  2 
+ 1 650 €  /  Monthly  ," Lisboa -   Loures, Moscavide e Portela  ",Condo/Apartment,  131 m2 ,  3 ,  3 
+ 7 000 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  155 m2 ,  3 ,  3 
+ 380 €  /  Monthly  ," Lisboa -   Loures, Camarate, Unhos e Apelação  ",Store,  30 m2 ,  0 ,  -- 
+ 925 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Business Office,  28 m2 ,  0 ,  0 
+ 1 300 €  /  Monthly  ," Lisboa -   Oeiras, Carnaxide e Queijas  ",Condo/Apartment,  121 m2 ,  2 ,  2 
+ 1 100 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Store,  172 m2 ,  1 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  148 m2 ,  3 ,  3 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  71 m2 ,  1 ,  3 
+ 2 200 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",House,  300 m2 ,  2 ,  5 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, São Vicente  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 4 000 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Store,  350 m2 ,  2 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Parque das Nações  ",Condo/Apartment,  69 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  118 m2 ,  2 ,  3 
+ 1 500 €  /  Monthly  ," Lisboa -   Amadora, Falagueira - Venda Nova  ",Store,  151 m2 ,  2 ,  -- 
+ 1 450 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  100 m2 ,  2 ,  4 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  102 m2 ,  2 ,  3 
+ 800 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  57 m2 ,  1 ,  1 
+ 2 200 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Sale of Business,  150 m2 ,  0 ,  -- 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Business Office,  38 m2 ,  1 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Condo/Apartment,  95 m2 ,  1 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Loures, Santa Iria de Azoia, São João da Talha e Bobadela  ",Store,  136 m2 ,  1 ,  -- 
+ 1 750 €  /  Monthly  ," Lisboa -   Loures, Bucelas  ",House,  153 m2 ,  3 ,  3 
+ 1 400 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Condo/Apartment,  84 m2 ,  1 ,  2 
+ 1 100 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Business Office,  149 m2 ,  0 ,  -- 
+ 2 800 €  /  Monthly  ," Lisboa -   Lisboa, Campolide  ",Condo/Apartment,  165 m2 ,  3 ,  4 
+ 2 100 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  118 m2 ,  3 ,  3 
+ 695 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Business Office,  45 m2 ,  1 ,  -- 
+ 1 700 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Store,  1456 m2 ,  4 ,  -- 
+ 675 €  /  Monthly  ," Lisboa -   Sintra, Rio de Mouro  ",Garage,  106 m2 ,  1 ,  -- 
+ 5 000 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Condo/Apartment,  209 m2 ,  2 ,  4 
+ 1 250 €  /  Monthly  ," Lisboa -   Odivelas, Ramada e Caneças  ",Store,  112 m2 ,  2 ,  -- 
+ 700 €  /  Monthly  ," Lisboa -   Odivelas, Ramada e Caneças  ",Others - Commercial,  326 m2 ,  0 ,  -- 
+ 850 €  /  Monthly  ," Lisboa -   Sintra, Cacém e São Marcos  ",Condo/Apartment,  82 m2 ,  1 ,  2 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  87 m2 ,  1 ,  2 
+ 800 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Condo/Apartment,  69 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Sintra, São João das Lampas e Terrugem  ",House,  47 m2 ,  2 ,  3 
+ 1 800 €  /  Monthly  ," Lisboa -   Sintra, Algueirão-Mem Martins  ",House,  142 m2 ,  2 ,  4 
+ 1 450 €  /  Monthly  ," Lisboa -   Lisboa, São Vicente  ",Condo/Apartment,  51 m2 ,  1 ,  1 
+ 1 950 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Condo/Apartment,  74 m2 ,  1 ,  2 
+ 1 850 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  105 m2 ,  2 ,  2 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  149 m2 ,  0 ,  -- 
+ 6 500 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Business Office,  209 m2 ,  2 ,  -- 
+ 850 €  /  Monthly  ," Lisboa -   Oeiras, Carnaxide e Queijas  ",Business Office,  63 m2 ,  1 ,  -- 
+ 1 400 €  /  Monthly  ," Lisboa -   Mafra, Venda do Pinheiro e Santo Estêvão das Galés  ",Condo/Apartment,  255 m2 ,  3 ,  4 
+ 850 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  74 m2 ,  1 ,  2 
+ 2 900 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  230 m2 ,  0 ,  3 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Condo/Apartment,  103 m2 ,  2 ,  3 
+ 80 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Garage,  13 m2 ,  0 ,  -- 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Alcântara  ",Condo/Apartment,  90 m2 ,  1 ,  2 
+ 1 350 €  /  Monthly  ," Lisboa -   Lisboa, Alcântara  ",Condo/Apartment,  73 m2 ,  2 ,  1 
+ 800 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Store,  113 m2 ,  0 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  71 m2 ,  1 ,  3 
+ 1 200 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Condo/Apartment,  103 m2 ,  2 ,  2 
+ 2 500 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Condo/Apartment,  123 m2 ,  2 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Store,  66 m2 ,  3 ,  -- 
+ 1 300 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  92 m2 ,  2 ,  3 
+ 950 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Condo/Apartment,  47 m2 ,  1 ,  0 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Condo/Apartment,  40 m2 ,  1 ,  1 
+ 8 150 €  /  Monthly  ," Lisboa -   Cascais, Alcabideche  ",House,  279 m2 ,  5 ,  4 
+ 2 750 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Warehouse,  253 m2 ,  3 ,  -- 
+ 1 981 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Business Office,  283 m2 ,  0 ,  0 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Condo/Apartment,  54 m2 ,  1 ,  1 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Condo/Apartment,  89 m2 ,  2 ,  2 
+ 1 450 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Condo/Apartment,  142 m2 ,  2 ,  2 
+ 1 900 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Store,  87 m2 ,  0 ,  -- 
+ 2 480 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Business Office,  150 m2 ,  2 ,  -- 
+ 700 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Store,  44 m2 ,  0 ,  -- 
+ 1 150 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Business Office,  110 m2 ,  0 ,  -- 
+ 1 000 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Condo/Apartment,  80 m2 ,  1 ,  1 
+ 1 550 €  /  Monthly  ," Lisboa -   Loures, Moscavide e Portela  ",Condo/Apartment,  122 m2 ,  3 ,  4 
+ 1 400 €  /  Monthly  ," Lisboa -   Lisboa, Areeiro  ",Store,  90 m2 ,  1 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  64 m2 ,  1 ,  1 
+ 890 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  44 m2 ,  1 ,  1 
+ 2 400 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  91 m2 ,  2 ,  2 
+ 2 100 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Condo/Apartment,  87 m2 ,  1 ,  2 
+ 2 700 €  /  Monthly  ," Lisboa -   Sintra, Colares  ",House,  100 m2 ,  4 ,  3 
+ 1 850 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Condo/Apartment,  106 m2 ,  2 ,  2 
+ 1 300 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Vila Franca de Xira  ",Condo/Apartment,  105 m2 ,  2 ,  3 
+ 2 500 €  /  Monthly  ," Lisboa -   Lisboa, Parque das Nações  ",Condo/Apartment,  116 m2 ,  2 ,  3 
+ 3 000 €  /  Monthly  ," Lisboa -   Odivelas, Pontinha e Famões  ",Investment,  178 m2 ,  2 ,  -- 
+ 1 400 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Condo/Apartment,  114 m2 ,  2 ,  3 
+ 750 €  /  Monthly  ," Lisboa -   Lisboa, Santa Clara  ",Business Office,  83 m2 ,  1 ,  0 
+ 1 100 €  /  Monthly  ," Lisboa -   Lisboa, Benfica  ",Condo/Apartment,  72 m2 ,  0 ,  2 
+ 1 950 €  /  Monthly  ," Lisboa -   Lisboa, Benfica  ",Condo/Apartment,  132 m2 ,  2 ,  3 
+ 2 200 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  108 m2 ,  2 ,  3 
+ 2 500 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  206 m2 ,  3 ,  2 
+ 950 €  /  Monthly  ," Lisboa -   Loures, Loures  ",Store,  188 m2 ,  2 ,  0 
+ 1 670 €  /  Monthly  ," Lisboa -   Lisboa, Campolide  ",Condo/Apartment,  100 m2 ,  2 ,  3 
+ 950 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Condo/Apartment,  48 m2 ,  1 ,  1 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Business Office,  42 m2 ,  0 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Vila Franca de Xira  ",Store,  390 m2 ,  5 ,  -- 
+ 1 400 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Condo/Apartment,  70 m2 ,  1 ,  1 
+ 2 450 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  121 m2 ,  2 ,  2 
+ 1 000 €  /  Monthly  ," Lisboa -   Sintra, Algueirão-Mem Martins  ",Duplex,  70 m2 ,  2 ,  1 
+ 875 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Business Office,  48 m2 ,  1 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  137 m2 ,  2 ,  3 
+ 1 000 €  /  Monthly  ," Lisboa -   Sintra, Cacém e São Marcos  ",Business Office,  54 m2 ,  0 ,  -- 
+ 1 100 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Condo/Apartment,  68 m2 ,  1 ,  2 
+ 1 100 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  102 m2 ,  2 ,  4 
+ 1 100 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  67 m2 ,  1 ,  1 
+ 1 750 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Alverca do Ribatejo e Sobralinho  ",Condo/Apartment,  96 m2 ,  2 ,  2 
+ 1 650 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Condo/Apartment,  115 m2 ,  2 ,  2 
+ 1 200 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  83 m2 ,  2 ,  2 
+ 2 600 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Condo/Apartment,  138 m2 ,  2 ,  3 
+ 1 450 €  /  Monthly  ," Lisboa -   Odivelas, Pontinha e Famões  ",Store,  205 m2 ,  0 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Lisboa, Benfica  ",Condo/Apartment,  170 m2 ,  0 ,  4 
+ 1 300 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Alverca do Ribatejo e Sobralinho  ",Condo/Apartment,  94 m2 ,  2 ,  2 
+ 2 100 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Condo/Apartment,  179 m2 ,  2 ,  3 
+ 150 €  /  Monthly  ," Lisboa -   Lisboa, Benfica  ",Garage,  25 m2 ,  0 ,  -- 
+ 1 750 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  112 m2 ,  2 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Condo/Apartment,  114 m2 ,  2 ,  3 
+ 500 €  /  Monthly  ," Lisboa -   Amadora, Águas Livres  ",Store,  89 m2 ,  0 ,  -- 
+ 650 €  /  Monthly  ," Lisboa -   Oeiras, Barcarena  ",Store,  127 m2 ,  0 ,  -- 
+ 8 500 €  /  Monthly  ," Lisboa -   Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)  ",House,  428 m2 ,  0 ,  5 
+ 950 €  /  Monthly  ," Lisboa -   Odivelas, Odivelas  ",Condo/Apartment,  81 m2 ,  1 ,  2 
+ 1 000 €  /  Monthly  ," Lisboa -   Lisboa, Alcântara  ",Store,  40 m2 ,  1 ,  -- 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Business Office,  80 m2 ,  1 ,  0 
+ 550 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Business Office,  30 m2 ,  0 ,  -- 
+ 1 600 €  /  Monthly  ," Lisboa -   Odivelas, Odivelas  ",Store,  222 m2 ,  2 ,  0 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, São Vicente  ",Store,  50 m2 ,  2 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Condo/Apartment,  80 m2 ,  2 ,  2 
+ 850 €  /  Monthly  ," Lisboa -   Sintra, Rio de Mouro  ",Condo/Apartment,  83 m2 ,  4 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Odivelas, Ramada e Caneças  ",Store,  128 m2 ,  2 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Mafra, Ericeira  ",House,  182 m2 ,  3 ,  3 
+ 2 500 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  315 m2 ,  2 ,  -- 
+ 3 200 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Condo/Apartment,  110 m2 ,  2 ,  3 
+ 2 250 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Duplex,  110 m2 ,  4 ,  3 
+ 7 000 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Warehouse,  715 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Lisboa, Parque das Nações  ",Business Office,  39 m2 ,  0 ,  -- 
+ 4 000 €  /  Monthly  ," Lisboa -   Mafra, Igreja Nova e Cheleiros  ",House,  311 m2 ,  0 ,  4 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Campolide  ",Condo/Apartment,  32 m2 ,  1 ,  0 
+ 2 000 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  90 m2 ,  2 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  96 m2 ,  2 ,  2 
+ 3 200 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Duplex,  162 m2 ,  2 ,  1 
+ 2 500 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Business Office,  190 m2 ,  0 ,  6 
+ 3 100 €  /  Monthly  ," Lisboa -   Loures, Loures  ",House,  202 m2 ,  3 ,  3 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  118 m2 ,  2 ,  3 
+ 1 150 €  /  Monthly  ," Lisboa -   Lisboa, Alcântara  ",Condo/Apartment,  30 m2 ,  1 ,  1 
+ 1 900 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  96 m2 ,  2 ,  2 
+ 1 875 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  72 m2 ,  1 ,  1 
+ 1 450 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Condo/Apartment,  55 m2 ,  1 ,  1 
+ 1 100 €  /  Monthly  ," Lisboa -   Lisboa, Benfica  ",Condo/Apartment,  60 m2 ,  1 ,  2 
+ 450 €  /  Monthly  ," Lisboa -   Alenquer, Alenquer (Santo Estêvão e Triana)  ",Store,  140 m2 ,  0 ,  -- 
+ 250 €  /  Monthly  ," Lisboa -   Alenquer, Alenquer (Santo Estêvão e Triana)  ",Store,  45 m2 ,  0 ,  -- 
+ 300 €  /  Monthly  ," Lisboa -   Azambuja, Azambuja  ",Store,  90 m2 ,  0 ,  -- 
+ 300 €  /  Monthly  ," Lisboa -   Azambuja, Azambuja  ",Store,  90 m2 ,  0 ,  -- 
+ 300 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Alverca do Ribatejo e Sobralinho  ",Store,  57 m2 ,  1 ,  -- 
+ 900 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  45 m2 ,  1 ,  1 
+ 3 200 €  /  Monthly  ," Lisboa -   Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)  ",House,  200 m2 ,  4 ,  5 
+ 700 €  /  Monthly  ," Lisboa -   Oeiras, Carnaxide e Queijas  ",Store,  53 m2 ,  1 ,  -- 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Condo/Apartment,  62 m2 ,  1 ,  2 
+ 950 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  95 m2 ,  1 ,  2 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Belém  ",Store,  144 m2 ,  0 ,  -- 
+ 2 000 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  145 m2 ,  2 ,  4 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  37 m2 ,  0 ,  1 
+ 1 400 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  68 m2 ,  1 ,  2 
+ 690 €  /  Monthly  ," Lisboa -   Loures, Loures  ",Store,  72 m2 ,  2 ,  -- 
+ 700 €  /  Monthly  ," Lisboa -   Lisboa, Areeiro  ",Store,  40 m2 ,  1 ,  -- 
+ 1 980 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Condo/Apartment,  102 m2 ,  2 ,  3 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Store,  120 m2 ,  3 ,  -- 
+ 3 700 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Condo/Apartment,  164 m2 ,  2 ,  4 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Areeiro  ",House,  135 m2 ,  3 ,  2 
+ 2 200 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  108 m2 ,  2 ,  2 
+ 750 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  79 m2 ,  0 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Areeiro  ",Condo/Apartment,  98 m2 ,  2 ,  2 
+ 2 700 €  /  Monthly  ," Lisboa -   Lisboa, Areeiro  ",Condo/Apartment,  164 m2 ,  2 ,  5 
+ 250 €  /  Monthly  ," Lisboa -   Sintra, São João das Lampas e Terrugem  ",Others - Commercial,  100 m2 ,  0 ,  -- 
+ 400 €  /  Monthly  ," Lisboa -   Sintra, São João das Lampas e Terrugem  ",Business Office,  41 m2 ,  1 ,  -- 
+ 1 395 €  /  Monthly  ," Lisboa -   Lisboa, Belém  ",Store,  74 m2 ,  2 ,  0 
+ 7 900 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Store,  262 m2 ,  2 ,  -- 
+ 275 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Garage,  15 m2 ,  0 ,  -- 
+ 1 550 €  /  Monthly  ," Lisboa -   Lisboa, Alcântara  ",Condo/Apartment,  70 m2 ,  1 ,  3 
+ 2 000 €  /  Monthly  ," Lisboa -   Odivelas, Pontinha e Famões  ",Warehouse,  447 m2 ,  2 ,  -- 
+ 1 250 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Store,  31 m2 ,  1 ,  -- 
+ 1 900 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Condo/Apartment,  108 m2 ,  2 ,  2 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Condo/Apartment,  60 m2 ,  1 ,  2 
+ 2 400 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  100 m2 ,  2 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Oeiras, Porto Salvo  ",Condo/Apartment,  138 m2 ,  2 ,  3 
+ 2 900 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Condo/Apartment,  173 m2 ,  3 ,  4 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Benfica  ",Condo/Apartment,  83 m2 ,  1 ,  1 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Condo/Apartment,  86 m2 ,  1 ,  2 
+ 1 050 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Business Office,  79 m2 ,  1 ,  -- 
+ 1 100 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Condo/Apartment,  30 m2 ,  1 ,  1 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Alcântara  ",Condo/Apartment,  96 m2 ,  2 ,  3 
+ 7 000 €  /  Monthly  ," Lisboa -   Lisboa, Marvila  ",Business Office,  360 m2 ,  0 ,  -- 
+ 2 250 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  99 m2 ,  2 ,  3 
+ 2 400 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Condo/Apartment,  171 m2 ,  3 ,  4 
+ 1 350 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Store,  46 m2 ,  1 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Condo/Apartment,  46 m2 ,  1 ,  1 
+ 2 950 €  /  Monthly  ," Lisboa -   Sintra, Queluz e Belas  ",Condo/Apartment,  237 m2 ,  3 ,  4 
+ 3 500 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Condo/Apartment,  258 m2 ,  4 ,  4 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Benfica  ",Store,  140 m2 ,  1 ,  -- 
+ 1 900 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  144 m2 ,  2 ,  3 
+ 650 €  /  Monthly  ," Lisboa -   Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)  ",Business Office,  82 m2 ,  2 ,  -- 
+ 125 €  /  Monthly  ," Lisboa -   Lisboa, Campolide  ",Garage,  15 m2 ,  0 ,  -- 
+ 500 €  /  Monthly  ," Lisboa -   Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães  ",Business Office,  62 m2 ,  1 ,  -- 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, São Vicente  ",Condo/Apartment,  42 m2 ,  1 ,  1 
+ 1 150 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Condo/Apartment,  50 m2 ,  1 ,  2 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Business Office,  79 m2 ,  1 ,  -- 
+ 25 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Building,  1060 m2 ,  0 ,  21 
+ 1 250 €  /  Monthly  ," Lisboa -   Lisboa, Areeiro  ",Store,  108 m2 ,  2 ,  -- 
+ 1 900 €  /  Monthly  ," Lisboa -   Lisboa, Benfica  ",Condo/Apartment,  105 m2 ,  2 ,  2 
+ 700 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Store,  81 m2 ,  1 ,  -- 
+ 3 750 €  /  Monthly  ," Lisboa -   Lisboa, Belém  ",Condo/Apartment,  210 m2 ,  3 ,  5 
+ 3 500 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  122 m2 ,  3 ,  3 
+ 1 500 €  /  Monthly  ," Lisboa -   Sintra, Agualva e Mira-Sintra  ",Business Office,  153 m2 ,  0 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Condo/Apartment,  71 m2 ,  1 ,  1 
+ 2 500 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Store,  652 m2 ,  1 ,  -- 
+ 2 550 €  /  Monthly  ," Lisboa -   Loures, Moscavide e Portela  ",Store,  138 m2 ,  2 ,  -- 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Benfica  ",Condo/Apartment,  79 m2 ,  1 ,  2 
+ 1 700 €  /  Monthly  ," Lisboa -   Odivelas, Odivelas  ",Condo/Apartment,  124 m2 ,  2 ,  3 
+ 3 100 €  /  Monthly  ," Lisboa -   Lisboa, Areeiro  ",Condo/Apartment,  130 m2 ,  3 ,  3 
+ 2 000 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Condo/Apartment,  124 m2 ,  2 ,  2 
+ 2 950 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  303 m2 ,  3 ,  3 
+ 4 000 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",House,  129 m2 ,  4 ,  4 
+ 2 700 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Condo/Apartment,  161 m2 ,  2 ,  4 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Condo/Apartment,  80 m2 ,  1 ,  2 
+ 125 €  /  Monthly  ," Lisboa -   Lisboa, Campolide  ",Garage,  15 m2 ,  0 ,  -- 
+ 3 500 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Condo/Apartment,  137 m2 ,  2 ,  4 
+ 1 200 €  /  Monthly  ," Lisboa -   Odivelas, Odivelas  ",Store,  82 m2 ,  1 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alcântara  ",Store,  263 m2 ,  2 ,  -- 
+ 950 €  /  Monthly  ," Lisboa -   Lisboa, Benfica  ",Condo/Apartment,  58 m2 ,  1 ,  2 
+ 800 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Warehouse,  84 m2 ,  1 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Amadora, Alfragide  ",Condo/Apartment,  139 m2 ,  2 ,  3 
+ 1 700 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  96 m2 ,  2 ,  4 
+ 3 000 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",House,  233 m2 ,  3 ,  4 
+ 4 000 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Condo/Apartment,  177 m2 ,  2 ,  3 
+ 1 500 €  /  Monthly  ," Lisboa -   Amadora, Alfragide  ",Condo/Apartment,  86 m2 ,  2 ,  3 
+ 1 800 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Warehouse,  453 m2 ,  2 ,  -- 
+ 2 250 €  /  Monthly  ," Lisboa -   Lisboa, Belém  ",Condo/Apartment,  120 m2 ,  2 ,  2 
+ 2 000 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Condo/Apartment,  75 m2 ,  1 ,  1 
+ 800 €  /  Monthly  ," Lisboa -   Alenquer, Alenquer (Santo Estêvão e Triana)  ",Store,  64 m2 ,  1 ,  -- 
+ 550 €  /  Monthly  ," Lisboa -   Alenquer, Alenquer (Santo Estêvão e Triana)  ",Store,  34 m2 ,  1 ,  -- 
+ 120 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Garage,  15 m2 ,  0 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Condo/Apartment,  100 m2 ,  3 ,  4 
+ 995 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Store,  80 m2 ,  1 ,  -- 
+ 14 900 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Condo/Apartment,  519 m2 ,  6 ,  6 
+ 850 €  /  Monthly  ," Lisboa -   Oeiras, Barcarena  ",Condo/Apartment,  92 m2 ,  1 ,  2 
+ 700 €  /  Monthly  ," Lisboa -   Odivelas, Póvoa de Santo Adrião e Olival Basto  ",Store,  90 m2 ,  1 ,  -- 
+ 1 050 €  /  Monthly  ," Lisboa -   Lisboa, Beato  ",Condo/Apartment,  68 m2 ,  1 ,  2 
+ 2 000 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Business Office,  77 m2 ,  1 ,  -- 
+ 4 775 €  /  Monthly  ," Lisboa -   Lisboa, Parque das Nações  ",Condo/Apartment,  169 m2 ,  3 ,  3 
+ 1 800 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  144 m2 ,  2 ,  2 
+ 900 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Warehouse,  218 m2 ,  0 ,  -- 
+ 3 488 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  218 m2 ,  0 ,  -- 
+ 4 500 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Business Office,  300 m2 ,  0 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Sintra, Rio de Mouro  ",House,  151 m2 ,  2 ,  4 
+ 150 €  /  Monthly  ," Lisboa -   Sintra, Agualva e Mira-Sintra  ",Garage,  12 m2 ,  0 ,  -- 
+ 750 €  /  Monthly  ," Lisboa -   Sintra, Agualva e Mira-Sintra  ",Business Office,  70 m2 ,  1 ,  -- 
+ 2 300 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  80 m2 ,  1 ,  2 
+ 490 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Store,  33 m2 ,  2 ,  -- 
+ 3 000 €  /  Monthly  ," Lisboa -   Lisboa, Areeiro  ",Condo/Apartment,  181 m2 ,  3 ,  3 
+ 1 300 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Condo/Apartment,  71 m2 ,  1 ,  2 
+ 8 000 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",House,  350 m2 ,  5 ,  6 
+ 150 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Garage,  15 m2 ,  0 ,  -- 
+ 1 250 €  /  Monthly  ," Lisboa -   Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)  ",Condo/Apartment,  146 m2 ,  2 ,  3 
+ 3 400 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",House,  177 m2 ,  3 ,  3 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Business Office,  58 m2 ,  1 ,  -- 
+ 1 700 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  113 m2 ,  0 ,  3 
+ 1 850 €  /  Monthly  ," Lisboa -   Lisboa, Alcântara  ",Condo/Apartment,  102 m2 ,  2 ,  3 
+ 780 €  /  Monthly  ," Lisboa -   Amadora, Águas Livres  ",Condo/Apartment,  48 m2 ,  1 ,  1 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Condo/Apartment,  215 m2 ,  0 ,  5 
+ 1 750 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Condo/Apartment,  90 m2 ,  1 ,  2 
+ 780 €  /  Monthly  ," Lisboa -   Amadora, Águas Livres  ",Condo/Apartment,  38 m2 ,  1 ,  1 
+ 1 650 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  83 m2 ,  1 ,  2 
+ 3 500 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  90 m2 ,  1 ,  3 
+ 2 500 €  /  Monthly  ," Lisboa -   Sintra, Cacém e São Marcos  ",Others - Commercial,  67 m2 ,  3 ,  -- 
+ 2 650 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Condo/Apartment,  107 m2 ,  2 ,  3 
+ 3 500 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Industrial,  698 m2 ,  0 ,  2 
+ 150 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Garage,  13 m2 ,  0 ,  -- 
+ 12 000 €  /  Monthly  ," Lisboa -   Lisboa, Belém  ",House,  737 m2 ,  6 ,  5 
+ 9 000 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Condo/Apartment,  257 m2 ,  0 ,  4 
+ 2 000 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Store,  170 m2 ,  2 ,  -- 
+ 900 €  /  Monthly  ," Lisboa -   Amadora, Águas Livres  ",Warehouse,  263 m2 ,  1 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  118 m2 ,  2 ,  4 
+ 2 225 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Store,  120 m2 ,  0 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Oeiras, Carnaxide e Queijas  ",Condo/Apartment,  93 m2 ,  0 ,  2 
+ 3 000 €  /  Monthly  ," Lisboa -   Torres Vedras, Carvoeira e Carmões  ",Farm,  425 m2 ,  4 ,  5 
+ 2 700 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Store,  374 m2 ,  0 ,  -- 
+ 650 €  /  Monthly  ," Lisboa -   Sintra, Cacém e São Marcos  ",Store,  115 m2 ,  0 ,  -- 
+ 7 000 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  189 m2 ,  4 ,  4 
+ 1 500 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Condo/Apartment,  100 m2 ,  2 ,  2 
+ 550 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Store,  38 m2 ,  1 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Oeiras, Carnaxide e Queijas  ",Store,  73 m2 ,  1 ,  -- 
+ 450 €  /  Monthly  ," Lisboa -   Sintra, Rio de Mouro  ",Store,  30 m2 ,  1 ,  -- 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Business Office,  55 m2 ,  0 ,  2 
+ 3 000 €  /  Monthly  ," Lisboa -   Torres Vedras, Freiria  ",House,  200 m2 ,  3 ,  4 
+ 2 000 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Store,  158 m2 ,  2 ,  -- 
+ 484 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Business Office,  44 m2 ,  1 ,  0 
+ 348 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Business Office,  29 m2 ,  1 ,  0 
+ 900 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Business Office,  59 m2 ,  0 ,  -- 
+ 1 970 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Condo/Apartment,  165 m2 ,  2 ,  3 
+ 45 000 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Sale of Business,  122 m2 ,  2 ,  -- 
+ 950 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Store,  50 m2 ,  0 ,  -- 
+ 5 750 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Condo/Apartment,  97 m2 ,  4 ,  3 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  118 m2 ,  2 ,  4 
+ 600 €  /  Monthly  ," Lisboa -   Sintra, Cacém e São Marcos  ",Warehouse,  78 m2 ,  1 ,  -- 
+ 1 400 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  62 m2 ,  0 ,  1 
+ 2 400 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Condo/Apartment,  196 m2 ,  3 ,  4 
+ 1 450 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Condo/Apartment,  41 m2 ,  1 ,  1 
+ 2 650 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Business Office,  135 m2 ,  2 ,  -- 
+ 3 000 €  /  Monthly  ," Lisboa -   Lisboa, Alcântara  ",Store,  150 m2 ,  2 ,  0 
+ 800 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Store,  87 m2 ,  0 ,  -- 
+ 1 600 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Others - Commercial,  330 m2 ,  3 ,  -- 
+ 700 €  /  Monthly  ," Lisboa -   Cadaval, Cadaval e Pêro Moniz  ",Condo/Apartment,  126 m2 ,  2 ,  3 
+ 700 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Store,  58 m2 ,  0 ,  -- 
+ 600 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Store,  16 m2 ,  1 ,  -- 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  55 m2 ,  1 ,  1 
+ 2 000 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Condo/Apartment,  72 m2 ,  1 ,  1 
+ 900 €  /  Monthly  ," Lisboa -   Sintra, Algueirão-Mem Martins  ",Store,  137 m2 ,  3 ,  -- 
+ 700 €  /  Monthly  ," Lisboa -   Sintra, Algueirão-Mem Martins  ",Store,  106 m2 ,  3 ,  -- 
+ 3 250 €  /  Monthly  ," Lisboa -   Lisboa, Parque das Nações  ",Condo/Apartment,  195 m2 ,  3 ,  4 
+ 1 080 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Store,  106 m2 ,  1 ,  -- 
+ 1 450 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Duplex,  98 m2 ,  2 ,  3 
+ 600 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Business Office,  56 m2 ,  1 ,  -- 
+ 2 000 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Store,  104 m2 ,  1 ,  -- 
+ 150 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Garage,  13 m2 ,  0 ,  0 
+ 3 000 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Business Office,  310 m2 ,  6 ,  -- 
+ 1 300 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",House,  76 m2 ,  1 ,  1 
+ 1 000 €  /  Monthly  ," Lisboa -   Mafra, Malveira e São Miguel de Alcainça  ",Store,  95 m2 ,  2 ,  -- 
+ 6 500 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Condo/Apartment,  196 m2 ,  3 ,  3 
+ 850 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  52 m2 ,  1 ,  1 
+ 600 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Store,  200 m2 ,  0 ,  -- 
+ 2 000 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Condo/Apartment,  107 m2 ,  0 ,  2 
+ 1 250 €  /  Monthly  ," Lisboa -   Lisboa, Benfica  ",Condo/Apartment,  90 m2 ,  1 ,  1 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Store,  52 m2 ,  1 ,  -- 
+ 2 900 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  140 m2 ,  2 ,  3 
+ 1 250 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Condo/Apartment,  95 m2 ,  0 ,  3 
+ 125 €  /  Monthly  ," Lisboa -   Lisboa, Campolide  ",Garage,  11 m2 ,  0 ,  -- 
+ 450 €  /  Monthly  ," Lisboa -   Amadora, Mina de Água  ",Store,  30 m2 ,  1 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Amadora, Encosta do Sol  ",Investment,  70 m2 ,  0 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Business Office,  218 m2 ,  1 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  102 m2 ,  0 ,  3 
+ 250 000 €  /  Monthly  ," Lisboa -   Cascais, Alcabideche  ",Sale of Business,  97 m2 ,  3 ,  0 
+ 1 000 €  /  Monthly  ," Lisboa -   Sintra, Cacém e São Marcos  ",Store,  205 m2 ,  0 ,  -- 
+ 3 000 €  /  Monthly  ," Lisboa -   Lisboa, Areeiro  ",Condo/Apartment,  140 m2 ,  2 ,  4 
+ 5 400 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Business Office,  368 m2 ,  2 ,  -- 
+ 5 400 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Business Office,  368 m2 ,  2 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Condo/Apartment,  45 m2 ,  0 ,  1 
+ 1 350 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Store,  215 m2 ,  2 ,  -- 
+ 750 €  /  Monthly  ," Lisboa -   Loures, Camarate, Unhos e Apelação  ",Store,  199 m2 ,  2 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  83 m2 ,  2 ,  2 
+ 490 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Store,  16 m2 ,  0 ,  -- 
+ 2 250 €  /  Monthly  ," Lisboa -   Loures, Camarate, Unhos e Apelação  ",Warehouse,  700 m2 ,  4 ,  -- 
+ 2 250 €  /  Monthly  ," Lisboa -   Loures, Camarate, Unhos e Apelação  ",Warehouse,  700 m2 ,  4 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Store,  120 m2 ,  2 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Business Office,  125 m2 ,  2 ,  -- 
+ 350 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Others - Commercial,  55 m2 ,  1 ,  -- 
+ 3 200 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  197 m2 ,  2 ,  3 
+ 2 400 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Condo/Apartment,  98 m2 ,  1 ,  1 
+ 550 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Vila Franca de Xira  ",Store,  136 m2 ,  0 ,  -- 
+ 1 750 €  /  Monthly  ," Lisboa -   Lisboa, Areeiro  ",Condo/Apartment,  88 m2 ,  2 ,  2 
+ 1 250 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Store,  76 m2 ,  2 ,  -- 
+ 550 €  /  Monthly  ," Lisboa -   Loures, Bucelas  ",Store,  77 m2 ,  2 ,  -- 
+ 700 €  /  Monthly  ," Lisboa -   Loures, Moscavide e Portela  ",Store,  50 m2 ,  1 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Business Office,  95 m2 ,  1 ,  0 
+ 1 648 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Condo/Apartment,  92 m2 ,  2 ,  2 
+ 1 400 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Others - Commercial,  16 m2 ,  0 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)  ",House,  303 m2 ,  4 ,  5 
+ 3 000 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  195 m2 ,  3 ,  4 
+ 2 125 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Business Office,  85 m2 ,  1 ,  0 
+ 1 550 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Business Office,  63 m2 ,  1 ,  0 
+ 7 600 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Store,  1125 m2 ,  0 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Warehouse,  204 m2 ,  1 ,  -- 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Store,  570 m2 ,  1 ,  -- 
+ 150 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Garage,  12 m2 ,  0 ,  -- 
+ 1 400 €  /  Monthly  ," Lisboa -   Mafra, Ericeira  ",Condo/Apartment,  140 m2 ,  2 ,  4 
+ 8 000 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Store,  165 m2 ,  0 ,  -- 
+ 6 000 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Condo/Apartment,  177 m2 ,  3 ,  4 
+ 150 €  /  Monthly  ," Lisboa -   Lourinhã, Lourinhã e Atalaia  ",Garage,  21 m2 ,  1 ,  0 
+ 800 €  /  Monthly  ," Lisboa -   Amadora, Águas Livres  ",Store,  99 m2 ,  2 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Penha de França  ",Business Office,  162 m2 ,  0 ,  0 
+ 5 000 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Business Office,  457 m2 ,  4 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Store,  50 m2 ,  1 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Odivelas, Ramada e Caneças  ",House,  126 m2 ,  3 ,  4 
+ 650 €  /  Monthly  ," Lisboa -   Sintra, Rio de Mouro  ",Warehouse,  98 m2 ,  0 ,  -- 
+ 80 €  /  Monthly  ," Lisboa -   Sintra, Algueirão-Mem Martins  ",Garage,  11 m2 ,  0 ,  -- 
+ 80 €  /  Monthly  ," Lisboa -   Sintra, Algueirão-Mem Martins  ",Garage,  11 m2 ,  0 ,  -- 
+ 80 €  /  Monthly  ," Lisboa -   Sintra, Algueirão-Mem Martins  ",Garage,  11 m2 ,  0 ,  -- 
+ 8 000 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Land,  6475 m2 ,  0 ,  -- 
+ 7 000 €  /  Monthly  ," Lisboa -   Lisboa, Parque das Nações  ",Warehouse,  752 m2 ,  0 ,  -- 
+ 4 500 €  /  Monthly  ," Lisboa -   Loures, Camarate, Unhos e Apelação  ",Warehouse,  1400 m2 ,  4 ,  -- 
+ 6 000 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Condo/Apartment,  130 m2 ,  3 ,  3 
+ 2 500 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Condo/Apartment,  190 m2 ,  3 ,  5 
+ 5 000 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Land,  -- m2 ,  0 ,  -- 
+ 650 €  /  Monthly  ," Lisboa -   Odivelas, Pontinha e Famões  ",Store,  71 m2 ,  1 ,  -- 
+ 650 €  /  Monthly  ," Lisboa -   Sintra, Rio de Mouro  ",Store,  48 m2 ,  1 ,  -- 
+ 9 000 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Building,  1250 m2 ,  6 ,  7 
+ 60 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Garage,  1100 m2 ,  0 ,  -- 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Store,  123 m2 ,  1 ,  -- 
+ 1 800 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Business Office,  107 m2 ,  0 ,  -- 
+ 2 000 €  /  Monthly  ," Lisboa -   Odivelas, Ramada e Caneças  ",Store,  211 m2 ,  0 ,  -- 
+ 3 000 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Store,  144 m2 ,  2 ,  -- 
+ 600 €  /  Monthly  ," Lisboa -   Amadora, Encosta do Sol  ",Warehouse,  138 m2 ,  1 ,  -- 
+ 350 €  /  Monthly  ," Lisboa -   Amadora, Encosta do Sol  ",Store,  38 m2 ,  1 ,  -- 
+ 6 415 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Business Office,  277 m2 ,  4 ,  -- 
+ 700 €  /  Monthly  ," Lisboa -   Lisboa, Ajuda  ",Store,  55 m2 ,  2 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Vila Franca de Xira  ",Store,  102 m2 ,  2 ,  -- 
+ 2 940 €  /  Monthly  ," Lisboa -   Loures, Lousa  ",Warehouse,  654 m2 ,  2 ,  -- 
+ 6 500 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Business Office,  262 m2 ,  2 ,  -- 
+ 2 150 €  /  Monthly  ," Lisboa -   Lisboa, Benfica  ",Store,  61 m2 ,  1 ,  -- 
+ 2 150 €  /  Monthly  ," Lisboa -   Lisboa, Benfica  ",Store,  62 m2 ,  1 ,  -- 
+ 2 150 €  /  Monthly  ," Lisboa -   Lisboa, Benfica  ",Store,  66 m2 ,  1 ,  -- 
+ 10 000 €  /  Monthly  ," Lisboa -   Amadora, Águas Livres  ",Warehouse,  2522 m2 ,  5 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Sintra, São João das Lampas e Terrugem  ",Land,  -- m2 ,  0 ,  -- 
+ 2 680 €  /  Monthly  ," Lisboa -   Loures, Lousa  ",Warehouse,  596 m2 ,  2 ,  -- 
+ 700 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Store,  22 m2 ,  1 ,  0 
+ 3 000 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Condo/Apartment,  131 m2 ,  4 ,  3 
+ 2 100 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Business Office,  89 m2 ,  1 ,  -- 
+ 7 500 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Others - Commercial,  420 m2 ,  2 ,  -- 
+ 12 000 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Business Office,  879 m2 ,  0 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Business Office,  110 m2 ,  0 ,  -- 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Business Office,  110 m2 ,  0 ,  -- 
+ 510 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Business Office,  14 m2 ,  -- ,  -- 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Carnide  ",Business Office,  27 m2 ,  0 ,  -- 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Business Office,  65 m2 ,  0 ,  -- 
+ 1 000 €  /  Monthly  ," Lisboa -   Odivelas, Pontinha e Famões  ",Store,  143 m2 ,  0 ,  -- 
+ 4 800 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Store,  329 m2 ,  0 ,  -- 
+ 15 000 €  /  Monthly  ," Lisboa -   Mafra, Carvoeira  ",House,  746 m2 ,  7 ,  8 
+ 450 €  /  Monthly  ," Lisboa -   Oeiras, Porto Salvo  ",Store,  49 m2 ,  1 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Others - Commercial,  17 m2 ,  2 ,  -- 
+ 1 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Others - Commercial,  12 m2 ,  2 ,  -- 
+ 1 100 €  /  Monthly  ," Lisboa -   Torres Vedras, Turcifal  ",Others - Commercial,  320 m2 ,  0 ,  -- 
+ 638 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Business Office,  58 m2 ,  1 ,  0 
+ 1 000 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Store,  84 m2 ,  3 ,  -- 
+ 750 €  /  Monthly  ," Lisboa -   Sintra, Rio de Mouro  ",Store,  136 m2 ,  2 ,  0 
+ 1 250 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  45 m2 ,  0 ,  -- 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Campolide  ",Business Office,  124 m2 ,  0 ,  -- 
+ 3 800 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Business Office,  215 m2 ,  2 ,  0 
+ 220 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Garage,  20 m2 ,  0 ,  -- 
+ 400 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Store,  18 m2 ,  0 ,  -- 
+ 4 500 €  /  Monthly  ," Lisboa -   Sintra, Almargem do Bispo, Pêro Pinheiro e Montelavar  ",Warehouse,  1483 m2 ,  5 ,  4 
+ 1 650 €  /  Monthly  ," Lisboa -   Lisboa, Campolide  ",Business Office,  78 m2 ,  1 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Lisboa, Ajuda  ",Store,  35 m2 ,  1 ,  -- 
+ 7 500 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Vila Franca de Xira  ",Warehouse,  715 m2 ,  0 ,  -- 
+ 850 €  /  Monthly  ," Lisboa -   Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)  ",Business Office,  77 m2 ,  1 ,  -- 
+ 850 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Business Office,  60 m2 ,  0 ,  -- 
+ 350 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Garage,  18 m2 ,  0 ,  -- 
+ 3 000 €  /  Monthly  ," Lisboa -   Loures, Santa Iria de Azoia, São João da Talha e Bobadela  ",Store,  371 m2 ,  2 ,  -- 
+ 350 €  /  Monthly  ," Lisboa -   Cascais, Carcavelos e Parede  ",Garage,  16 m2 ,  0 ,  -- 
+ 20 000 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Vila Franca de Xira  ",Warehouse,  2180 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Vialonga  ",Store,  212 m2 ,  1 ,  -- 
+ 450 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Vialonga  ",Store,  140 m2 ,  1 ,  -- 
+ 450 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Vialonga  ",Store,  140 m2 ,  1 ,  -- 
+ 550 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Vialonga  ",Store,  91 m2 ,  1 ,  -- 
+ 700 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Vila Franca de Xira  ",Business Office,  54 m2 ,  0 ,  -- 
+ 150 €  /  Monthly  ," Lisboa -   Oeiras, Barcarena  ",Garage,  55 m2 ,  0 ,  -- 
+ 650 €  /  Monthly  ," Lisboa -   Sintra, Algueirão-Mem Martins  ",Store,  55 m2 ,  2 ,  -- 
+ 2 800 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Store,  193 m2 ,  1 ,  -- 
+ 2 900 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Business Office,  230 m2 ,  2 ,  -- 
+ 1 300 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Store,  75 m2 ,  1 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Business Office,  137 m2 ,  0 ,  0 
+ 3 500 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Store,  200 m2 ,  1 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Benfica  ",Store,  86 m2 ,  0 ,  -- 
+ 4 750 €  /  Monthly  ," Lisboa -   Lisboa, Marvila  ",Business Office,  285 m2 ,  2 ,  -- 
+ 1 300 €  /  Monthly  ," Lisboa -   Sintra, Cacém e São Marcos  ",Warehouse,  97 m2 ,  0 ,  -- 
+ 450 €  /  Monthly  ," Lisboa -   Odivelas, Pontinha e Famões  ",Store,  25 m2 ,  0 ,  -- 
+ 836 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Business Office,  76 m2 ,  1 ,  0 
+ 50 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Vila Franca de Xira  ",Garage,  22 m2 ,  0 ,  0 
+ 3 500 €  /  Monthly  ," Lisboa -   Lisboa, Marvila  ",Business Office,  180 m2 ,  2 ,  0 
+ 1 000 €  /  Monthly  ," Lisboa -   Sintra, Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)  ",Store,  76 m2 ,  2 ,  -- 
+ 1 950 €  /  Monthly  ," Lisboa -   Lisboa, Marvila  ",Warehouse,  260 m2 ,  1 ,  -- 
+ 150 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Garage,  20 m2 ,  2 ,  0 
+ 3 500 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Store,  118 m2 ,  0 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Store,  45 m2 ,  0 ,  -- 
+ 4 500 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Store,  90 m2 ,  0 ,  -- 
+ 7 500 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Business Office,  267 m2 ,  2 ,  -- 
+ 990 €  /  Monthly  ," Lisboa -   Amadora, Águas Livres  ",Store,  140 m2 ,  0 ,  -- 
+ 330 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Business Office,  14 m2 ,  1 ,  -- 
+ 330 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Business Office,  14 m2 ,  1 ,  -- 
+ 510 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Business Office,  15 m2 ,  1 ,  -- 
+ 690 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Business Office,  21 m2 ,  1 ,  -- 
+ 1 284 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Business Office,  107 m2 ,  1 ,  0 
+ 600 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  58 m2 ,  1 ,  -- 
+ 950 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Business Office,  100 m2 ,  1 ,  -- 
+ 450 €  /  Monthly  ," Lisboa -   Cascais, São Domingos de Rana  ",Store,  43 m2 ,  0 ,  0 
+ 450 €  /  Monthly  ," Lisboa -   Sintra, Algueirão-Mem Martins  ",Store,  38 m2 ,  0 ,  -- 
+ 1 000 €  /  Monthly  ," Lisboa -   Sintra, Cacém e São Marcos  ",Business Office,  160 m2 ,  0 ,  -- 
+ 1 000 €  /  Monthly  ," Lisboa -   Sintra, Cacém e São Marcos  ",Business Office,  110 m2 ,  0 ,  0 
+ 2 900 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Store,  307 m2 ,  2 ,  -- 
+ 1 650 €  /  Monthly  ," Lisboa -   Amadora, Alfragide  ",Condo/Apartment,  118 m2 ,  2 ,  3 
+ 7 000 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Business Office,  364 m2 ,  0 ,  -- 
+ 1 150 €  /  Monthly  ," Lisboa -   Loures, Camarate, Unhos e Apelação  ",Condo/Apartment,  66 m2 ,  1 ,  2 
+ 2 000 €  /  Monthly  ," Lisboa -   Azambuja, Vale do Paraíso  ",Farm,  64 m2 ,  1 ,  2 
+ 4 500 €  /  Monthly  ," Lisboa -   Lisboa, Areeiro  ",Store,  240 m2 ,  3 ,  -- 
+ 2 800 €  /  Monthly  ," Lisboa -   Sintra, Colares  ",Homestead,  240 m2 ,  7 ,  -- 
+ 1 650 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Business Office,  64 m2 ,  1 ,  -- 
+ 1 487 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Business Office,  278 m2 ,  0 ,  -- 
+ 1 386 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Business Office,  259 m2 ,  0 ,  -- 
+ 1 455 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Business Office,  272 m2 ,  0 ,  -- 
+ 1 771 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Business Office,  331 m2 ,  0 ,  -- 
+ 1 477 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Business Office,  276 m2 ,  0 ,  -- 
+ 595 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Business Office,  68 m2 ,  0 ,  -- 
+ 9 900 €  /  Monthly  ," Lisboa -   Arruda dos Vinhos, Santiago dos Velhos  ",Warehouse,  2000 m2 ,  0 ,  -- 
+ 14 900 €  /  Monthly  ," Lisboa -   Loures, Santa Iria de Azoia, São João da Talha e Bobadela  ",Warehouse,  1871 m2 ,  0 ,  -- 
+ 3 500 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Condo/Apartment,  134 m2 ,  5 ,  5 
+ 580 €  /  Monthly  ," Lisboa -   Cascais, Alcabideche  ",Business Office,  32 m2 ,  0 ,  -- 
+ 620 €  /  Monthly  ," Lisboa -   Cascais, Alcabideche  ",Business Office,  37 m2 ,  1 ,  -- 
+ 550 €  /  Monthly  ," Lisboa -   Cascais, Alcabideche  ",Business Office,  34 m2 ,  0 ,  -- 
+ 1 100 €  /  Monthly  ," Lisboa -   Cascais, Alcabideche  ",Business Office,  64 m2 ,  1 ,  -- 
+ 3 900 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Business Office,  350 m2 ,  3 ,  -- 
+ 4 988 €  /  Monthly  ," Lisboa -   Loures, Lousa  ",Warehouse,  907 m2 ,  2 ,  -- 
+ 1 800 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Store,  162 m2 ,  3 ,  -- 
+ 1 116 €  /  Monthly  ," Lisboa -   Loures, Lousa  ",Warehouse,  203 m2 ,  1 ,  -- 
+ 160 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Garage,  13 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Lisboa -   Arruda dos Vinhos, Arruda dos Vinhos  ",Warehouse,  157 m2 ,  0 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Condo/Apartment,  95 m2 ,  2 ,  2 
+ 18 000 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Store,  330 m2 ,  2 ,  -- 
+ 100 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Garage,  12 m2 ,  0 ,  0 
+ 3 750 €  /  Monthly  ," Lisboa -   Sintra, São João das Lampas e Terrugem  ",Others - Commercial,  5480 m2 ,  0 ,  -- 
+ 1 900 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Store,  106 m2 ,  0 ,  -- 
+ 900 €  /  Monthly  ," Lisboa -   Odivelas, Ramada e Caneças  ",Warehouse,  150 m2 ,  3 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Store,  268 m2 ,  2 ,  -- 
+ 1 200 €  /  Monthly  ," Lisboa -   Mafra, Encarnação  ",Store,  148 m2 ,  2 ,  -- 
+ 4 600 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Business Office,  737 m2 ,  2 ,  -- 
+ 3 000 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Business Office,  337 m2 ,  0 ,  -- 
+ 550 €  /  Monthly  ," Lisboa -   Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães  ",Store,  109 m2 ,  2 ,  -- 
+ 65 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Others - Commercial,  12 m2 ,  0 ,  0 
+ 2 500 €  /  Monthly  ," Lisboa -   Amadora, Venteira  ",Others - Commercial,  236 m2 ,  1 ,  -- 
+ 5 600 €  /  Monthly  ," Lisboa -   Lisboa, São Vicente  ",Store,  1527 m2 ,  0 ,  -- 
+ 1 500 €  /  Monthly  ," Lisboa -   Arruda dos Vinhos, Arruda dos Vinhos  ",Store,  198 m2 ,  0 ,  0 
+ 520 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Business Office,  18 m2 ,  2 ,  -- 
+ 4 500 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Store,  400 m2 ,  2 ,  -- 
+ 400 €  /  Monthly  ," Lisboa -   Azambuja, Aveiras de Cima  ",Land,  11600 m2 ,  0 ,  -- 
+ 2 500 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Store,  182 m2 ,  0 ,  -- 
+ 350 €  /  Monthly  ," Lisboa -   Sintra, São João das Lampas e Terrugem  ",Land,  3440 m2 ,  0 ,  -- 
+ 450 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Others - Commercial,  86 m2 ,  0 ,  -- 
+ 2 650 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  119 m2 ,  3 ,  3 
+ 750 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Business Office,  85 m2 ,  2 ,  0 
+ 750 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Business Office,  85 m2 ,  2 ,  0 
+ 750 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Business Office,  85 m2 ,  2 ,  0 
+ 750 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Business Office,  85 m2 ,  2 ,  0 
+ 38 000 €  /  Monthly  ," Lisboa -   Lisboa, Santa Maria Maior  ",Store,  1030 m2 ,  6 ,  0 
+ 493 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Business Office,  47 m2 ,  1 ,  0 
+ 1 800 €  /  Monthly  ," Lisboa -   Lisboa, Estrela  ",Business Office,  170 m2 ,  5 ,  -- 
+ 900 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  60 m2 ,  1 ,  2 
+ 390 €  /  Monthly  ," Lisboa -   Sintra, Massamá e Monte Abraão  ",Business Office,  30 m2 ,  1 ,  0 
+ 40 000 €  /  Monthly  ," Lisboa -   Oeiras, Oeiras e São Julião da Barra, Paço de Arcos e Caxias  ",Business Office,  4000 m2 ,  0 ,  0 
+ 1 900 €  /  Monthly  ," Lisboa -   Oeiras, Carnaxide e Queijas  ",Business Office,  109 m2 ,  0 ,  0 
+ 1 900 €  /  Monthly  ," Lisboa -   Lisboa, Campo de Ourique  ",Condo/Apartment,  160 m2 ,  2 ,  3 
+ 750 €  /  Monthly  ," Lisboa -   Arruda dos Vinhos, Arranhó  ",Store,  103 m2 ,  4 ,  -- 
+ 2 750 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Condo/Apartment,  157 m2 ,  3 ,  3 
+ 120 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Garage,  13 m2 ,  0 ,  -- 
+ 75 €  /  Monthly  ," Lisboa -   Lisboa, Lumiar  ",Others - Commercial,  12 m2 ,  0 ,  0 
+ 25 000 €  /  Annually  ," Lisboa -   Amadora, Falagueira - Venda Nova  ",Store,  25 m2 ,  0 ,  0 
+ 650 €  /  Monthly  ," Lisboa -   Cascais, Alcabideche  ",Business Office,  12 m2 ,  0 ,  0 
+ 600 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Business Office,  18 m2 ,  0 ,  0 
+ 700 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Business Office,  27 m2 ,  0 ,  0 
+ 400 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Business Office,  11 m2 ,  0 ,  0 
+ 400 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Business Office,  10 m2 ,  0 ,  0 
+ 150 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Garage,  13 m2 ,  0 ,  0 
+ 517 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Business Office,  47 m2 ,  0 ,  0 
+ 836 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Business Office,  76 m2 ,  1 ,  0 
+ 850 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Store,  65 m2 ,  0 ,  0 
+ 1 500 €  /  Monthly  ," Lisboa -   Sintra, Casal de Cambra  ",Store,  115 m2 ,  2 ,  0 
+ 600 €  /  Monthly  ," Lisboa -   Torres Vedras, Torres Vedras (São Pedro, Santiago, Santa Maria do Castelo e São Miguel) e Matacães  ",Warehouse,  200 m2 ,  0 ,  0 
+ 3 500 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Business Office,  110 m2 ,  0 ,  0 
+ 3 500 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Condo/Apartment,  110 m2 ,  2 ,  3 
+ 100 €  /  Monthly  ," Lisboa -   Lisboa, São Domingos de Benfica  ",Garage,  13 m2 ,  0 ,  0 
+ 2 350 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Business Office,  139 m2 ,  0 ,  0 
+ 3 000 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Business Office,  151 m2 ,  0 ,  0 
+ 3 300 €  /  Monthly  ," Lisboa -   Lisboa, Olivais  ",Business Office,  166 m2 ,  0 ,  0 
+ 1 500 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Business Office,  252 m2 ,  0 ,  0 
+ 2 000 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Condo/Apartment,  145 m2 ,  2 ,  3 
+ 5 500 €  /  Monthly  ," Lisboa -   Lisboa, Santo António  ",Business Office,  213 m2 ,  -- ,  0 
+ 1 400 €  /  Monthly  ," Lisboa -   Sintra, Cacém e São Marcos  ",Warehouse,  290 m2 ,  0 ,  0 
+ 2 010 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Business Office,  335 m2 ,  0 ,  0 
+ 2 418 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Business Office,  403 m2 ,  0 ,  0 
+ 2 500 €  /  Monthly  ," Lisboa -   Lisboa, Misericórdia  ",Condo/Apartment,  3333 m2 ,  1 ,  2 
+ 3 500 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Warehouse,  703 m2 ,  0 ,  0 
+ 3 500 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Warehouse,  655 m2 ,  0 ,  0 
+ 7 000 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Warehouse,  1358 m2 ,  0 ,  0 
+ 880 €  /  Monthly  ," Lisboa -   Cascais, Alcabideche  ",Business Office,  22 m2 ,  0 ,  0 
+ 750 €  /  Monthly  ," Lisboa -   Cascais, Alcabideche  ",Business Office,  16 m2 ,  0 ,  0 
+ 650 €  /  Monthly  ," Lisboa -   Cascais, Alcabideche  ",Business Office,  12 m2 ,  0 ,  0 
+ 3 800 €  /  Monthly  ," Lisboa -   Lisboa, Arroios  ",Store,  -- m2 ,  -- ,  0 
+ 9 800 €  /  Monthly  ," Lisboa -   Loures, Sacavém e Prior Velho  ",Warehouse,  1862 m2 ,  0 ,  0 
+ 1 600 €  /  Monthly  ," Lisboa -   Lisboa, Avenidas Novas  ",Condo/Apartment,  108 m2 ,  2 ,  2 
+ 5 500 €  /  Monthly  ," Lisboa -   Sintra, São João das Lampas e Terrugem  ",Land,  10494 m2 ,  0 ,  0 
+ 3 750 €  /  Monthly  ," Lisboa -   Amadora, Encosta do Sol  ",Industrial,  1100 m2 ,  0 ,  0 
+ 1 200 €  /  Monthly  ," Lisboa -   Mafra, Mafra  ",Warehouse,  336 m2 ,  0 ,  0 
+ 1 500 €  /  Monthly  ," Lisboa -   Mafra, Mafra  ",Warehouse,  336 m2 ,  0 ,  0 
+ 836 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Business Office,  76 m2 ,  1 ,  0 
+ 836 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Business Office,  76 m2 ,  1 ,  0 
+ 517 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Business Office,  47 m2 ,  0 ,  0 
+ 792 €  /  Monthly  ," Lisboa -   Oeiras, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo  ",Business Office,  72 m2 ,  1 ,  0 
+ 3 000 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Vialonga  ",Building,  1050 m2 ,  0 ,  0 
+ 1 800 €  /  Monthly  ," Lisboa -   Odivelas, Odivelas  ",Business Office,  310 m2 ,  -- ,  0 
+ 1 800 €  /  Monthly  ," Lisboa -   Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  ",Business Office,  160 m2 ,  0 ,  0 
+ 7 000 €  /  Monthly  ," Lisboa -   Cascais, Cascais e Estoril  ",Land,  11726 m2 ,  0 ,  0 
+ 250 €  /  Monthly  ," Lisboa -   Alenquer, Alenquer (Santo Estêvão e Triana)  ",Business Office,  35 m2 ,  -- ,  0 
+ 100 €  /  Monthly  ," Lisboa -   Lisboa, Alvalade  ",Garage,  12 m2 ,  0 ,  0 
+ 650 €  /  Monthly  ," Lisboa -   Alenquer, Abrigada e Cabanas de Torres  ",Land,  37560 m2 ,  0 ,  0 
+ 600 €  /  Monthly  ," Braga -   Guimarães, Oliveira, São Paio e São Sebastião  ",Condo/Apartment,  34 m2 ,  1 ,  1 
+ 500 €  /  Monthly  ," Braga -   Guimarães, Oliveira, São Paio e São Sebastião  ",Store,  30 m2 ,  1 ,  -- 
+ 300 €  /  Monthly  ," Braga -   Guimarães, Caldelas  ",Store,  51 m2 ,  0 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Guimarães, Costa  ",House,  35 m2 ,  1 ,  1 
+ 390 €  /  Monthly  ," Braga -   Vieira do Minho, Vieira do Minho  ",Store,  50 m2 ,  0 ,  -- 
+ 320 €  /  Monthly  ," Braga -   Braga, Braga (São José de São Lázaro e São João do Souto)  ",Business Office,  37 m2 ,  0 ,  -- 
+ 1 350 €  /  Monthly  ," Braga -   Braga, Palmeira  ",House,  124 m2 ,  4 ,  3 
+ 500 €  /  Monthly  ," Braga -   Braga, Braga (São José de São Lázaro e São João do Souto)  ",Condo/Apartment,  65 m2 ,  1 ,  2 
+ 750 €  /  Monthly  ," Braga -   Amares, Lago  ",House,  288 m2 ,  2 ,  3 
+ 500 €  /  Monthly  ," Braga -   Fafe, Fafe  ",Store,  71 m2 ,  0 ,  -- 
+ 1 950 €  /  Monthly  ," Braga -   Guimarães, Costa  ",Condo/Apartment,  186 m2 ,  3 ,  3 
+ 400 €  /  Monthly  ," Braga -   Braga, Lomar e Arcos  ",Store,  200 m2 ,  1 ,  -- 
+ 590 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Condo/Apartment,  25 m2 ,  1 ,  0 
+ 650 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  120 m2 ,  1 ,  -- 
+ 1 800 €  /  Monthly  ," Braga -   Vila Verde, Lage  ",House,  287 m2 ,  0 ,  4 
+ 500 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Condo/Apartment,  25 m2 ,  1 ,  0 
+ 600 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Rendufinho  ",Farm,  0 m2 ,  0 ,  -- 
+ 400 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Póvoa de Lanhoso (Nossa Senhora do Amparo)  ",Store,  60 m2 ,  1 ,  -- 
+ 825 €  /  Monthly  ," Braga -   Braga, São Victor  ",Condo/Apartment,  94 m2 ,  2 ,  2 
+ 950 €  /  Monthly  ," Braga -   Braga, Real, Dume e Semelhe  ",Condo/Apartment,  103 m2 ,  2 ,  3 
+ 750 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  110 m2 ,  0 ,  3 
+ 1 250 €  /  Monthly  ," Braga -   Barcelos, Gamil e Midões  ",House,  190 m2 ,  4 ,  4 
+ 650 €  /  Monthly  ," Braga -   Amares, Ferreiros, Prozelo e Besteiros  ",Condo/Apartment,  105 m2 ,  4 ,  2 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  55 m2 ,  1 ,  -- 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  55 m2 ,  1 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  75 m2 ,  1 ,  -- 
+ 300 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Business Office,  75 m2 ,  1 ,  -- 
+ 600 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  119 m2 ,  0 ,  -- 
+ 1 600 €  /  Monthly  ," Braga -   Braga, Ferreiros e Gondizalves  ",House,  243 m2 ,  4 ,  3 
+ 1 000 €  /  Monthly  ," Braga -   Amares, Fiscal  ",Warehouse,  318 m2 ,  0 ,  -- 
+ 150 €  /  Monthly  ," Braga -   Amares, Fiscal  ",Business Office,  318 m2 ,  0 ,  -- 
+ 900 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Condo/Apartment,  125 m2 ,  2 ,  3 
+ 1 350 €  /  Monthly  ," Braga -   Braga, Celeirós, Aveleda e Vimieiro  ",Warehouse,  500 m2 ,  2 ,  0 
+ 500 €  /  Monthly  ," Braga -   Guimarães, Oliveira, São Paio e São Sebastião  ",Store,  88 m2 ,  -- ,  -- 
+ 1 700 €  /  Monthly  ," Braga -   Guimarães, Serzedo e Calvos  ",Industrial,  658 m2 ,  0 ,  -- 
+ 450 €  /  Monthly  ," Braga -   Vila Nova de Famalicão, Requião  ",Store,  108 m2 ,  0 ,  -- 
+ 700 €  /  Monthly  ," Braga -   Braga, Santa Lucrécia de Algeriz e Navarra  ",House,  140 m2 ,  1 ,  1 
+ 3 000 €  /  Monthly  ," Braga -   Vila Nova de Famalicão, Ribeirão  ",Warehouse,  950 m2 ,  0 ,  -- 
+ 1 500 €  /  Monthly  ," Braga -   Vila Nova de Famalicão, Esmeriz e Cabeçudos  ",Store,  77 m2 ,  0 ,  -- 
+ 750 €  /  Monthly  ," Braga -   Vila Verde, Vila Verde e Barbudo  ",Condo/Apartment,  101 m2 ,  2 ,  3 
+ 600 €  /  Monthly  ," Braga -   Guimarães, Oliveira, São Paio e São Sebastião  ",Warehouse,  161 m2 ,  0 ,  -- 
+ 1 700 €  /  Monthly  ," Braga -   Braga, São Vicente  ",Condo/Apartment,  186 m2 ,  3 ,  4 
+ 500 €  /  Monthly  ," Braga -   Braga, Braga (São José de São Lázaro e São João do Souto)  ",Store,  57 m2 ,  0 ,  1 
+ 850 €  /  Monthly  ," Braga -   Vila Verde, Ribeira do Neiva  ",House,  70 m2 ,  1 ,  2 
+ 475 €  /  Monthly  ," Braga -   Guimarães, Pencelo  ",Store,  98 m2 ,  10 ,  -- 
+ 800 €  /  Monthly  ," Braga -   Braga, Nogueira, Fraião e Lamaçães  ",Condo/Apartment,  113 m2 ,  2 ,  3 
+ 750 €  /  Monthly  ," Braga -   Vila Nova de Famalicão, Vila Nova de Famalicão e Calendário  ",Store,  112 m2 ,  2 ,  -- 
+ 300 €  /  Monthly  ," Braga -   Guimarães, Candoso São Tiago e Mascotelos  ",Store,  76 m2 ,  2 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Esposende, Belinho e Mar  ",Store,  50 m2 ,  1 ,  -- 
+ 1 000 €  /  Monthly  ," Braga -   Guimarães, Azurém  ",Store,  163 m2 ,  0 ,  -- 
+ 390 €  /  Monthly  ," Braga -   Amares, Ferreiros, Prozelo e Besteiros  ",Others - Commercial,  168 m2 ,  2 ,  -- 
+ 250 €  /  Monthly  ," Braga -   Braga, Braga (São José de São Lázaro e São João do Souto)  ",Others - Commercial,  934 m2 ,  1 ,  -- 
+ 200 €  /  Monthly  ," Braga -   Braga, São Vicente  ",Business Office,  32 m2 ,  0 ,  -- 
+ 300 €  /  Monthly  ," Braga -   Guimarães, Fermentões  ",Store,  60 m2 ,  1 ,  -- 
+ 200 €  /  Monthly  ," Braga -   Guimarães, Azurém  ",Store,  42 m2 ,  0 ,  -- 
+ 550 €  /  Monthly  ," Braga -   Guimarães, Costa  ",Store,  47 m2 ,  0 ,  -- 
+ 250 €  /  Monthly  ," Braga -   Braga, São Vicente  ",Business Office,  27 m2 ,  0 ,  -- 
+ 790 €  /  Monthly  ," Braga -   Braga, Ferreiros e Gondizalves  ",Condo/Apartment,  122 m2 ,  0 ,  3 
+ 400 €  /  Monthly  ," Braga -   Guimarães, São Jorge (Selho)  ",Store,  75 m2 ,  0 ,  -- 
+ 800 €  /  Monthly  ," Braga -   Guimarães, Gondar  ",Warehouse,  443 m2 ,  0 ,  -- 
+ 500 €  /  Monthly  ," Braga -   Celorico de Basto, Carvalho e Basto (Santa Tecla)  ",House,  150 m2 ,  2 ,  4 
+ 780 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  45 m2 ,  0 ,  -- 
+ 1 000 €  /  Monthly  ," Braga -   Fafe, Regadas  ",Others - Commercial,  198 m2 ,  2 ,  0 
+ 400 €  /  Monthly  ," Braga -   Guimarães, Ponte  ",Store,  116 m2 ,  1 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Guimarães, São Torcato  ",Store,  107 m2 ,  0 ,  -- 
+ 1 350 €  /  Monthly  ," Braga -   Guimarães, Urgezes  ",Warehouse,  415 m2 ,  3 ,  -- 
+ 1 000 €  /  Monthly  ," Braga -   Guimarães, Azurém  ",Condo/Apartment,  42 m2 ,  2 ,  1 
+ 1 000 €  /  Monthly  ," Braga -   Guimarães, Azurém  ",Condo/Apartment,  42 m2 ,  2 ,  1 
+ 2 500 €  /  Monthly  ," Braga -   Guimarães, Pencelo  ",Others - Commercial,  290 m2 ,  4 ,  -- 
+ 1 000 €  /  Monthly  ," Braga -   Fafe, São Martinho (Silvares)  ",Warehouse,  600 m2 ,  0 ,  0 
+ 1 200 €  /  Monthly  ," Braga -   Braga, Braga (São José de São Lázaro e São João do Souto)  ",Store,  166 m2 ,  1 ,  -- 
+ 1 500 €  /  Monthly  ," Braga -   Braga, Braga (São José de São Lázaro e São João do Souto)  ",Store,  136 m2 ,  0 ,  -- 
+ 1 100 €  /  Monthly  ," Braga -   Vila Nova de Famalicão, Pousada de Saramagos  ",Store,  115 m2 ,  2 ,  -- 
+ 150 €  /  Monthly  ," Braga -   Guimarães, Oliveira, São Paio e São Sebastião  ",Business Office,  20 m2 ,  1 ,  -- 
+ 1 535 €  /  Monthly  ," Braga -   Guimarães, Polvoreira  ",Warehouse,  96 m2 ,  0 ,  -- 
+ 600 €  /  Monthly  ," Braga -   Braga, São Victor  ",Store,  50 m2 ,  0 ,  -- 
+ 700 €  /  Monthly  ," Braga -   Barcelos, Airó  ",Store,  106 m2 ,  0 ,  -- 
+ 550 €  /  Monthly  ," Braga -   Amares, Ferreiros, Prozelo e Besteiros  ",Others - Commercial,  260 m2 ,  4 ,  0 
+ 1 200 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Póvoa de Lanhoso (Nossa Senhora do Amparo)  ",Store,  202 m2 ,  0 ,  -- 
+ 400 €  /  Monthly  ," Braga -   Barcelos, Arcozelo  ",Store,  70 m2 ,  0 ,  -- 
+ 500 €  /  Monthly  ," Braga -   Guimarães, Azurém  ",Store,  116 m2 ,  4 ,  -- 
+ 5 000 €  /  Monthly  ," Braga -   Guimarães, Mesão Frio  ",Warehouse,  1573 m2 ,  4 ,  -- 
+ 1 500 €  /  Monthly  ," Braga -   Guimarães, Costa  ",Store,  137 m2 ,  0 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Store,  119 m2 ,  1 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Esposende, Fonte Boa e Rio Tinto  ",Store,  46 m2 ,  1 ,  -- 
+ 400 €  /  Monthly  ," Braga -   Braga, Braga (São José de São Lázaro e São João do Souto)  ",Store,  96 m2 ,  0 ,  -- 
+ 1 500 €  /  Monthly  ," Braga -   Guimarães, Oliveira, São Paio e São Sebastião  ",House,  189 m2 ,  2 ,  5 
+ 500 €  /  Monthly  ," Braga -   Guimarães, Candoso São Tiago e Mascotelos  ",Store,  193 m2 ,  0 ,  -- 
+ 240 €  /  Monthly  ," Braga -   Amares, Ferreiros, Prozelo e Besteiros  ",Store,  110 m2 ,  0 ,  -- 
+ 1 500 €  /  Monthly  ," Braga -   Barcelos, Arcozelo  ",Store,  279 m2 ,  0 ,  -- 
+ 300 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Póvoa de Lanhoso (Nossa Senhora do Amparo)  ",Business Office,  45 m2 ,  0 ,  -- 
+ 250 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Póvoa de Lanhoso (Nossa Senhora do Amparo)  ",Business Office,  42 m2 ,  0 ,  -- 
+ 300 €  /  Monthly  ," Braga -   Barcelos, Barcelos, Vila Boa e Vila Frescainha (São Martinho e São Pedro)  ",Store,  44 m2 ,  0 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Store,  117 m2 ,  0 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Store,  117 m2 ,  0 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Store,  117 m2 ,  0 ,  -- 
+ 150 €  /  Monthly  ," Braga -   Braga, Braga (São José de São Lázaro e São João do Souto)  ",Business Office,  69 m2 ,  0 ,  -- 
+ 150 €  /  Monthly  ," Braga -   Braga, Braga (São José de São Lázaro e São João do Souto)  ",Business Office,  69 m2 ,  0 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Braga, Braga (São José de São Lázaro e São João do Souto)  ",Business Office,  52 m2 ,  0 ,  -- 
+ 1 200 €  /  Monthly  ," Braga -   Guimarães, Moreira de Cónegos  ",Industrial,  335 m2 ,  0 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Braga, Braga (São José de São Lázaro e São João do Souto)  ",Store,  63 m2 ,  0 ,  -- 
+ 1 845 €  /  Monthly  ," Braga -   Fafe, Arões (São Romão)  ",Warehouse,  420 m2 ,  0 ,  -- 
+ 1 500 €  /  Monthly  ," Braga -   Amares, Amares e Figueiredo  ",Others - Commercial,  327 m2 ,  2 ,  -- 
+ 550 €  /  Monthly  ," Braga -   Vieira do Minho, Vieira do Minho  ",Store,  85 m2 ,  1 ,  -- 
+ 450 €  /  Monthly  ," Braga -   Guimarães, São Torcato  ",Store,  77 m2 ,  1 ,  -- 
+ 500 €  /  Monthly  ," Braga -   Vila Nova de Famalicão, Ribeirão  ",Garage,  138 m2 ,  0 ,  -- 
+ 1 100 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Others - Commercial,  275 m2 ,  3 ,  -- 
+ 2 000 €  /  Monthly  ," Braga -   Guimarães, Polvoreira  ",Others - Commercial,  390 m2 ,  0 ,  -- 
+ 221 €  /  Monthly  ," Braga -   Guimarães, Polvoreira  ",Store,  23 m2 ,  0 ,  -- 
+ 400 €  /  Monthly  ," Braga -   Vila Verde, Vade  ",Others - Commercial,  190 m2 ,  0 ,  -- 
+ 413 €  /  Monthly  ," Braga -   Guimarães, Polvoreira  ",Store,  56 m2 ,  0 ,  -- 
+ 708 €  /  Monthly  ," Braga -   Guimarães, Polvoreira  ",Store,  96 m2 ,  0 ,  -- 
+ 310 €  /  Monthly  ," Braga -   Guimarães, Polvoreira  ",Store,  42 m2 ,  0 ,  -- 
+ 177 €  /  Monthly  ," Braga -   Guimarães, Polvoreira  ",Store,  19 m2 ,  0 ,  -- 
+ 646 €  /  Monthly  ," Braga -   Guimarães, Polvoreira  ",Store,  75 m2 ,  0 ,  -- 
+ 649 €  /  Monthly  ," Braga -   Guimarães, Polvoreira  ",Store,  75 m2 ,  0 ,  -- 
+ 810 €  /  Monthly  ," Braga -   Guimarães, Polvoreira  ",Store,  94 m2 ,  0 ,  -- 
+ 391 €  /  Monthly  ," Braga -   Guimarães, Polvoreira  ",Store,  53 m2 ,  0 ,  -- 
+ 551 €  /  Monthly  ," Braga -   Guimarães, Polvoreira  ",Store,  74 m2 ,  0 ,  -- 
+ 416 €  /  Monthly  ," Braga -   Guimarães, Polvoreira  ",Store,  56 m2 ,  0 ,  -- 
+ 418 €  /  Monthly  ," Braga -   Guimarães, Polvoreira  ",Store,  56 m2 ,  0 ,  -- 
+ 480 €  /  Monthly  ," Braga -   Guimarães, Polvoreira  ",Store,  65 m2 ,  0 ,  -- 
+ 231 €  /  Monthly  ," Braga -   Guimarães, Polvoreira  ",Store,  24 m2 ,  0 ,  -- 
+ 292 €  /  Monthly  ," Braga -   Guimarães, Polvoreira  ",Store,  34 m2 ,  0 ,  -- 
+ 1 000 €  /  Monthly  ," Braga -   Barcelos, Chorente, Góios, Courel, Pedra Furada e Gueral  ",Others - Commercial,  645 m2 ,  5 ,  -- 
+ 250 €  /  Monthly  ," Braga -   Celorico de Basto, Basto (São Clemente)  ",Store,  49 m2 ,  0 ,  -- 
+ 2 000 €  /  Monthly  ," Braga -   Guimarães, Oliveira, São Paio e São Sebastião  ",Store,  170 m2 ,  1 ,  -- 
+ 1 000 €  /  Monthly  ," Braga -   Braga, São Victor  ",Building,  70 m2 ,  0 ,  -- 
+ 300 €  /  Monthly  ," Braga -   Braga, Braga (São José de São Lázaro e São João do Souto)  ",Business Office,  22 m2 ,  1 ,  -- 
+ 130 €  /  Monthly  ," Braga -   Celorico de Basto, Vale de Bouro  ",Land,  1077 m2 ,  0 ,  -- 
+ 100 €  /  Monthly  ," Braga -   Guimarães, Costa  ",Garage,  26 m2 ,  0 ,  -- 
+ 300 €  /  Monthly  ," Braga -   Guimarães, Oliveira, São Paio e São Sebastião  ",Studio,  35 m2 ,  1 ,  0 
+ 200 €  /  Monthly  ," Braga -   Celorico de Basto, Britelo, Gémeos e Ourilhe  ",Store,  49 m2 ,  0 ,  -- 
+ 3 000 €  /  Monthly  ," Braga -   Barcelos, Aborim  ",Warehouse,  1830 m2 ,  0 ,  -- 
+ 600 €  /  Monthly  ," Braga -   Braga, Braga (São José de São Lázaro e São João do Souto)  ",Store,  81 m2 ,  0 ,  -- 
+ 350 €  /  Monthly  ," Braga -   Barcelos, Areias  ",Store,  55 m2 ,  0 ,  -- 
+ 700 €  /  Monthly  ," Braga -   Barcelos, Barcelinhos  ",Others - Habitacional,  240 m2 ,  0 ,  0 
+ 300 €  /  Monthly  ," Braga -   Braga, São Victor  ",Business Office,  53 m2 ,  0 ,  0 
+ 1 200 €  /  Monthly  ," Braga -   Braga, Sequeira  ",Business Office,  200 m2 ,  0 ,  -- 
+ 300 €  /  Monthly  ," Braga -   Braga, Ferreiros e Gondizalves  ",Store,  60 m2 ,  0 ,  0 
+ 300 €  /  Monthly  ," Braga -   Braga, Ferreiros e Gondizalves  ",Store,  71 m2 ,  0 ,  0 
+ 300 €  /  Monthly  ," Braga -   Braga, Ferreiros e Gondizalves  ",Store,  62 m2 ,  0 ,  0 
+ 350 €  /  Monthly  ," Braga -   Braga, Ferreiros e Gondizalves  ",Store,  90 m2 ,  0 ,  0 
+ 3 500 €  /  Monthly  ," Braga -   Guimarães, Airão Santa Maria, Airão São João e Vermil  ",House,  325 m2 ,  4 ,  4 
+ 1 250 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Store,  97 m2 ,  0 ,  0 
+ 150 €  /  Monthly  ," Braga -   Póvoa de Lanhoso, Póvoa de Lanhoso (Nossa Senhora do Amparo)  ",Land,  5500 m2 ,  0 ,  0 
+ 450 €  /  Monthly  ," Braga -   Braga, Gualtar  ",Store,  72 m2 ,  0 ,  0 
+ 400 €  /  Monthly  ," Braga -   Braga, Tadim  ",Store,  215 m2 ,  0 ,  0 
+ 2 400 €  /  Monthly  ," Braga -   Guimarães, Ponte  ",Industrial,  800 m2 ,  0 ,  -- 
+ 4 500 €  /  Monthly  ," Braga -   Guimarães, Ponte  ",Industrial,  1500 m2 ,  0 ,  -- 
+ 250 €  /  Monthly  ," Braga -   Terras de Bouro, Moimenta (Santo André)  ",Store,  125 m2 ,  -- ,  0 
+ 350 €  /  Monthly  ," Braga -   Braga, Ferreiros e Gondizalves  ",Store,  124 m2 ,  0 ,  0 
+ 450 €  /  Monthly  ," Braga -   Braga, Braga (São José de São Lázaro e São João do Souto)  ",Business Office,  20 m2 ,  0 ,  0 
+ 250 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Business Office,  51 m2 ,  0 ,  0 
+ 1 100 €  /  Monthly  ," Braga -   Vila Nova de Famalicão, Arnoso (Santa Maria e Santa Eulália) e Sezures  ",Store,  600 m2 ,  0 ,  0 
+ 1 200 €  /  Monthly  ," Braga -   Braga, Nogueiró e Tenões  ",Industrial,  120 m2 ,  -- ,  0 
+ 650 €  /  Monthly  ," Braga -   Braga, Braga (Maximinos, Sé e Cividade)  ",Store,  175 m2 ,  -- ,  0 
+ 1 000 €  /  Monthly  ," Braga -   Vila Verde, Geme  ",Land,  3000 m2 ,  0 ,  0 
