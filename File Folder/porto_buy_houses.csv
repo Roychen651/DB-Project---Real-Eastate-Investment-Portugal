@@ -1,0 +1,1357 @@
+,Price,Address,Prop_type,Size,Bath,Bed
+0, 295 000 € ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",House,  140 m2 ,  2 ,  3 
+1, 22 500 € ," Porto -   Baião, Ancede e Ribadouro  ",House,  46 m2 ,  0 ,  2 
+2, 485 000 € ," Porto -   Vila do Conde, Vila Chã  ",House,  152 m2 ,  3 ,  4 
+3, 1 250 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  527 m2 ,  0 ,  10 
+4, 67 000 € ," Porto -   Paços de Ferreira, Carvalhosa  ",House,  75 m2 ,  1 ,  2 
+5, 147 000 € ," Porto -   Trofa, Alvarelhos e Guidões  ",House,  475 m2 ,  4 ,  4 
+6, 280 000 € ," Porto -   Maia, Nogueira e Silva Escura  ",House,  120 m2 ,  4 ,  3 
+7, 459 000 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  149 m2 ,  8 ,  3 
+8, 150 000 € ," Porto -   Amarante, Candemil  ",House,  160 m2 ,  1 ,  3 
+9, 162 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  463 m2 ,  0 ,  5 
+10, 395 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  445 m2 ,  5 ,  4 
+11, 240 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  250 m2 ,  3 ,  3 
+12, 195 500 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  45 m2 ,  2 ,  2 
+13, 1 150 000 € ," Porto -   Porto, Ramalde  ",House,  288 m2 ,  4 ,  4 
+14, 670 000 € ," Porto -   Maia, Nogueira e Silva Escura  ",House,  253 m2 ,  3 ,  3 
+15, 850 000 € ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",House,  128 m2 ,  2 ,  4 
+16, 450 000 € ," Porto -   Trofa, Coronado (São Romão e São Mamede)  ",House,  319 m2 ,  6 ,  3 
+17, 170 000 € ," Porto -   Maia, Cidade da Maia  ",House,  85 m2 ,  1 ,  3 
+18, 270 000 € ," Porto -   Maia, Cidade da Maia  ",House,  85 m2 ,  1 ,  3 
+19, 850 000 € ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",House,  202 m2 ,  3 ,  4 
+20, 289 900 € ," Porto -   Vila Nova de Gaia, Arcozelo  ",House,  166 m2 ,  2 ,  4 
+21, 209 990 € ," Porto -   Santo Tirso, Roriz  ",House,  145 m2 ,  0 ,  3 
+22, 349 990 € ," Porto -   Póvoa de Varzim, Póvoa de Varzim, Beiriz e Argivai  ",House,  170 m2 ,  0 ,  5 
+23, 90 000 € ," Porto -   Marco de Canaveses, Paredes de Viadores e Manhuncelos  ",House,  96 m2 ,  2 ,  2 
+24, 291 000 € ," Porto -   Vila Nova de Gaia, Vilar de Andorinho  ",House,  183 m2 ,  5 ,  4 
+25, 45 000 € ," Porto -   Lousada, Lustosa e Barrosas (Santo Estêvão)  ",House,  44 m2 ,  1 ,  2 
+26, 208 050 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  77 m2 ,  1 ,  2 
+27, 349 000 € ," Porto -   Maia, Moreira  ",House,  1000 m2 ,  2 ,  4 
+28, 199 900 € ," Porto -   Felgueiras, Pedreira, Rande e Sernande  ",House,  160 m2 ,  4 ,  3 
+29, 235 000 € ," Porto -   Porto, Bonfim  ",House,  35 m2 ,  3 ,  4 
+30, 50 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  48 m2 ,  0 ,  2 
+31, 400 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  187 m2 ,  0 ,  2 
+32, 152 000 € ," Porto -   Baião, Teixeira e Teixeiró  ",House,  160 m2 ,  1 ,  3 
+33, 290 000 € ," Porto -   Valongo, Ermesinde  ",House,  208 m2 ,  4 ,  6 
+34, 255 000 € ," Porto -   Penafiel, Duas Igrejas  ",House,  172 m2 ,  2 ,  3 
+35, 749 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  621 m2 ,  4 ,  6 
+36, 58 000 € ," Porto -   Amarante, Fregim  ",House,  59 m2 ,  0 ,  1 
+37, 252 500 € ," Porto -   Penafiel, São Martinho Recezinhos  ",House,  168 m2 ,  2 ,  3 
+38, 57 000 € ," Porto -   Paredes, Vandoma  ",House,  94 m2 ,  1 ,  2 
+39, 295 000 € ," Porto -   Valongo, Valongo  ",House,  246 m2 ,  3 ,  4 
+40, 200 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  112 m2 ,  1 ,  2 
+41, 1 750 000 € ," Porto -   Paredes, Vandoma  ",House,  220 m2 ,  5 ,  6 
+42, 325 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  140 m2 ,  2 ,  3 
+43, 425 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  220 m2 ,  0 ,  3 
+44, 390 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  112 m2 ,  2 ,  3 
+45, 149 500 € ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",House,  100 m2 ,  2 ,  3 
+46, 59 900 € ," Porto -   Felgueiras, Torrados e Sousa  ",House,  479 m2 ,  0 ,  3 
+47, 165 000 € ," Porto -   Vila Nova de Gaia, Serzedo e Perosinho  ",House,  102 m2 ,  0 ,  2 
+48, 2 900 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  580 m2 ,  7 ,  6 
+49, 155 000 € ," Porto -   Santo Tirso, Rebordões  ",House,  639 m2 ,  2 ,  3 
+50, 357 000 € ," Porto -   Marco de Canaveses, Paredes de Viadores e Manhuncelos  ",House,  177 m2 ,  3 ,  3 
+51, 700 000 € ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",House,  245 m2 ,  4 ,  3 
+52, 75 000 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  80 m2 ,  0 ,  1 
+53, 355 000 € ," Porto -   Valongo, Alfena  ",House,  279 m2 ,  4 ,  4 
+54, 110 000 € ," Porto -   Amarante, Lomba  ",House,  72 m2 ,  0 ,  2 
+55, 849 500 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  220 m2 ,  4 ,  4 
+56, 150 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  26 m2 ,  1 ,  1 
+57, 180 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  40 m2 ,  1 ,  1 
+58, 350 000 € ," Porto -   Vila Nova de Gaia, Canidelo  ",House,  168 m2 ,  2 ,  4 
+59, 275 000 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  142 m2 ,  3 ,  3 
+60, 159 900 € ," Porto -   Santo Tirso, Rebordões  ",House,  112 m2 ,  2 ,  3 
+61, 106 500 € ," Porto -   Trofa, Alvarelhos e Guidões  ",House,  92 m2 ,  1 ,  3 
+62, 430 000 € ," Porto -   Maia, Pedrouços  ",House,  163 m2 ,  3 ,  3 
+63, 25 000 € ," Porto -   Santo Tirso, Vila Nova do Campo  ",House,  248 m2 ,  0 ,  2 
+64, 60 000 € ," Porto -   Lousada, Nevogilde  ",House,  50 m2 ,  1 ,  2 
+65, 35 000 € ," Porto -   Penafiel, Canelas  ",House,  90 m2 ,  0 ,  1 
+66, 167 500 € ," Porto -   Penafiel, Canelas  ",House,  88 m2 ,  2 ,  4 
+67, 79 950 € ," Porto -   Felgueiras, Vila Cova da Lixa e Borba de Godim  ",House,  94 m2 ,  0 ,  3 
+68, 215 000 € ," Porto -   Felgueiras, Airães  ",House,  122 m2 ,  3 ,  3 
+69, 51 500 € ," Porto -   Felgueiras, Pombeiro de Ribavizela  ",House,  120 m2 ,  0 ,  0 
+70, 106 000 € ," Porto -   Amarante, Fregim  ",House,  161 m2 ,  1 ,  2 
+71, 47 500 € ," Porto -   Baião, Teixeira e Teixeiró  ",House,  63 m2 ,  0 ,  0 
+72, 3 500 € ," Porto -   Baião, Teixeira e Teixeiró  ",House,  44 m2 ,  0 ,  1 
+73, 750 000 € ," Porto -   Maia, Cidade da Maia  ",House,  212 m2 ,  5 ,  4 
+74, 125 000 € ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",House,  265 m2 ,  6 ,  5 
+75, 449 000 € ," Porto -   Maia, Moreira  ",House,  190 m2 ,  4 ,  4 
+76, 265 000 € ," Porto -   Trofa, Coronado (São Romão e São Mamede)  ",House,  350 m2 ,  3 ,  4 
+77, 1 350 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  372 m2 ,  5 ,  4 
+78, 270 000 € ," Porto -   Santo Tirso, Roriz  ",House,  296 m2 ,  3 ,  3 
+79, 295 000 € ," Porto -   Santo Tirso, Areias, Sequeiró, Lama e Palmeira  ",House,  300 m2 ,  2 ,  3 
+80, 279 000 € ," Porto -   Valongo, Ermesinde  ",House,  209 m2 ,  3 ,  4 
+81, 55 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  82 m2 ,  1 ,  2 
+82, 139 000 € ," Porto -   Vila Nova de Gaia, Pedroso e Seixezelo  ",House,  84 m2 ,  2 ,  4 
+83, 1 200 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  165 m2 ,  10 ,  8 
+84, 130 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  43 m2 ,  1 ,  2 
+85, 165 000 € ," Porto -   Paredes, Vilela  ",House,  112 m2 ,  1 ,  2 
+86, 66 000 € ," Porto -   Paços de Ferreira, Eiriz  ",House,  93 m2 ,  0 ,  0 
+87, 585 000 € ," Porto -   Valongo, Valongo  ",House,  300 m2 ,  7 ,  4 
+88, 494 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  210 m2 ,  4 ,  4 
+89, 695 000 € ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",House,  278 m2 ,  4 ,  4 
+90, 155 000 € ," Porto -   Vila Nova de Gaia, Sandim, Olival, Lever e Crestuma  ",House,  56 m2 ,  1 ,  3 
+91, 36 500 € ," Porto -   Amarante, Figueiró (Santiago e Santa Cristina)  ",House,  102 m2 ,  0 ,  2 
+92, 450 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  154 m2 ,  4 ,  4 
+93, 530 000 € ," Porto -   Vila Nova de Gaia, Serzedo e Perosinho  ",House,  260 m2 ,  3 ,  3 
+94, 110 000 € ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",House,  40 m2 ,  1 ,  2 
+95, 170 000 € ," Porto -   Valongo, Ermesinde  ",House,  240 m2 ,  2 ,  3 
+96, 289 900 € ," Porto -   Vila Nova de Gaia, Serzedo e Perosinho  ",House,  174 m2 ,  3 ,  4 
+97, 175 000 € ," Porto -   Valongo, Ermesinde  ",House,  134 m2 ,  2 ,  3 
+98, 45 000 € ," Porto -   Marco de Canaveses, Sande e São Lourenço  ",House,  104 m2 ,  0 ,  2 
+99, 70 000 € ," Porto -   Vila Nova de Gaia, Serzedo e Perosinho  ",House,  90 m2 ,  2 ,  3 
+100, 435 000 € ," Porto -   Paredes, Vilela  ",House,  384 m2 ,  3 ,  5 
+101, 160 000 € ," Porto -   Amarante, Vila Meã  ",House,  200 m2 ,  1 ,  4 
+102, 125 000 € ," Porto -   Amarante, Real, Ataíde e Oliveira  ",House,  99 m2 ,  1 ,  2 
+103, 195 000 € ," Porto -   Penafiel, Paço de Sousa  ",House,  196 m2 ,  1 ,  2 
+104, 300 000 € ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",House,  144 m2 ,  2 ,  5 
+105, 199 000 € ," Porto -   Vila do Conde, Vila do Conde  ",House,  74 m2 ,  2 ,  3 
+106, 189 000 € ," Porto -   Penafiel, Eja  ",House,  52 m2 ,  1 ,  2 
+107, 430 000 € ," Porto -   Póvoa de Varzim, Póvoa de Varzim, Beiriz e Argivai  ",House,  168 m2 ,  3 ,  4 
+108, 1 300 000 € ," Porto -   Amarante, Amarante (São Gonçalo), Madalena, Cepelos e Gatão  ",House,  450 m2 ,  0 ,  6 
+109, 98 000 € ," Porto -   Vila Nova de Gaia, Oliveira do Douro  ",House,  110 m2 ,  1 ,  2 
+110, 175 000 € ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",House,  74 m2 ,  2 ,  2 
+111, 780 000 € ," Porto -   Vila Nova de Gaia, Madalena  ",House,  251 m2 ,  4 ,  4 
+112, 990 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  254 m2 ,  3 ,  4 
+113, 350 000 € ," Porto -   Penafiel, Guilhufe e Urrô  ",House,  130 m2 ,  0 ,  3 
+114, 729 750 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  188 m2 ,  4 ,  3 
+115, 330 000 € ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",House,  152 m2 ,  3 ,  5 
+116, 274 900 € ," Porto -   Santo Tirso, São Tomé Negrelos  ",House,  219 m2 ,  3 ,  3 
+117, 245 000 € ," Porto -   Trofa, Muro  ",House,  280 m2 ,  2 ,  5 
+118, 430 000 € ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",House,  277 m2 ,  3 ,  4 
+119, 228 000 € ," Porto -   Vila do Conde, Aveleda  ",House,  134 m2 ,  0 ,  3 
+120, 45 000 € ," Porto -   Penafiel, Valpedre  ",House,  132 m2 ,  1 ,  2 
+121, 245 000 € ," Porto -   Trofa, Bougado (São Martinho e Santiago)  ",House,  104 m2 ,  1 ,  3 
+122, 250 000 € ," Porto -   Maia, Águas Santas  ",House,  199 m2 ,  3 ,  2 
+123, 380 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  172 m2 ,  3 ,  3 
+124, 265 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  214 m2 ,  3 ,  3 
+125, 345 500 € ," Porto -   Vila Nova de Gaia, Canidelo  ",House,  158 m2 ,  3 ,  3 
+126, 1 800 000 € ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",House,  580 m2 ,  4 ,  8 
+127, 360 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  103 m2 ,  0 ,  2 
+128, 265 000 € ," Porto -   Porto, Bonfim  ",House,  80 m2 ,  2 ,  4 
+129, 120 000 € ," Porto -   Maia, Águas Santas  ",House,  30 m2 ,  1 ,  1 
+130, 126 500 € ," Porto -   Felgueiras, Vila Fria e Vizela (São Jorge)  ",House,  263 m2 ,  1 ,  2 
+131, 125 000 € ," Porto -   Valongo, Ermesinde  ",House,  60 m2 ,  2 ,  2 
+132, 348 500 € ," Porto -   Vila Nova de Gaia, São Felix da Marinha  ",House,  132 m2 ,  2 ,  3 
+133, 474 500 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  141 m2 ,  4 ,  3 
+134, 320 000 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  255 m2 ,  4 ,  4 
+135, 113 000 € ," Porto -   Paredes, Baltar  ",House,  126 m2 ,  1 ,  2 
+136, 85 000 € ," Porto -   Vila Nova de Gaia, Pedroso e Seixezelo  ",House,  170 m2 ,  2 ,  2 
+137, 69 000 € ," Porto -   Penafiel, Penafiel  ",House,  56 m2 ,  1 ,  2 
+138, 419 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  448 m2 ,  5 ,  4 
+139, 235 000 € ," Porto -   Amarante, Mancelos  ",House,  393 m2 ,  2 ,  3 
+140, 295 000 € ," Porto -   Maia, Vila Nova da Telha  ",House,  154 m2 ,  3 ,  3 
+141, 180 000 € ," Porto -   Valongo, Alfena  ",House,  120 m2 ,  0 ,  4 
+142, 215 000 € ," Porto -   Santo Tirso, Roriz  ",House,  190 m2 ,  0 ,  2 
+143, 300 000 € ," Porto -   Amarante, Amarante (São Gonçalo), Madalena, Cepelos e Gatão  ",House,  132 m2 ,  4 ,  3 
+144, 198 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  147 m2 ,  4 ,  3 
+145, 300 000 € ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",House,  282 m2 ,  4 ,  8 
+146, 370 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  238 m2 ,  3 ,  3 
+147, 110 000 € ," Porto -   Lousada, Nespereira e Casais  ",House,  74 m2 ,  1 ,  2 
+148, 119 000 € ," Porto -   Marco de Canaveses, Bem Viver  ",House,  235 m2 ,  4 ,  6 
+149, 298 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  135 m2 ,  3 ,  4 
+150, 529 900 € ," Porto -   Vila Nova de Gaia, Arcozelo  ",House,  246 m2 ,  4 ,  4 
+151, 340 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  248 m2 ,  4 ,  3 
+152, 69 000 € ," Porto -   Santo Tirso, Rebordões  ",House,  65 m2 ,  1 ,  2 
+153, 300 000 € ," Porto -   Paredes, Parada de Todeia  ",House,  140 m2 ,  2 ,  3 
+154, 314 900 € ," Porto -   Vila Nova de Gaia, Avintes  ",House,  151 m2 ,  3 ,  3 
+155, 240 000 € ," Porto -   Marco de Canaveses, Sande e São Lourenço  ",House,  140 m2 ,  3 ,  3 
+156, 170 000 € ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",House,  132 m2 ,  3 ,  3 
+157, 374 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  73 m2 ,  2 ,  2 
+158, 180 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  90 m2 ,  2 ,  3 
+159, 285 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  230 m2 ,  4 ,  3 
+160, 265 000 € ," Porto -   Felgueiras, Idães  ",House,  392 m2 ,  0 ,  3 
+161, 185 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  55 m2 ,  1 ,  2 
+162, 147 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  36 m2 ,  1 ,  1 
+163, 150 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  35 m2 ,  1 ,  1 
+164, 157 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  36 m2 ,  1 ,  1 
+165, 155 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  32 m2 ,  1 ,  1 
+166, 160 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  35 m2 ,  1 ,  1 
+167, 147 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  36 m2 ,  1 ,  1 
+168, 495 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  390 m2 ,  3 ,  6 
+169, 82 500 € ," Porto -   Felgueiras, Pombeiro de Ribavizela  ",House,  136 m2 ,  1 ,  2 
+170, 185 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  115 m2 ,  1 ,  2 
+171, 150 000 € ," Porto -   Paços de Ferreira, Raimonda  ",House,  124 m2 ,  1 ,  3 
+172, 485 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  154 m2 ,  3 ,  3 
+173, 160 000 € ," Porto -   Felgueiras, Aião  ",House,  168 m2 ,  2 ,  3 
+174, 449 000 € ," Porto -   Porto, Paranhos  ",House,  185 m2 ,  4 ,  3 
+175, 230 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  180 m2 ,  3 ,  3 
+176, 495 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  280 m2 ,  5 ,  5 
+177, 110 000 € ," Porto -   Felgueiras, Torrados e Sousa  ",House,  419 m2 ,  2 ,  0 
+178, 1 095 000 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  428 m2 ,  7 ,  4 
+179, 215 000 € ," Porto -   Lousada, Nespereira e Casais  ",House,  112 m2 ,  2 ,  3 
+180, 269 000 € ," Porto -   Vila Nova de Gaia, Pedroso e Seixezelo  ",House,  1946 m2 ,  5 ,  3 
+181, 100 000 € ," Porto -   Penafiel, Croca  ",House,  131 m2 ,  1 ,  2 
+182, 262 500 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  140 m2 ,  2 ,  5 
+183, 549 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  312 m2 ,  4 ,  5 
+184, 549 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  312 m2 ,  4 ,  5 
+185, 270 000 € ," Porto -   Gondomar, Foz do Sousa e Covelo  ",House,  183 m2 ,  3 ,  3 
+186, 949 000 € ," Porto -   Vila Nova de Gaia, Canidelo  ",House,  350 m2 ,  4 ,  3 
+187, 335 000 € ," Porto -   Póvoa de Varzim, Estela  ",House,  185 m2 ,  4 ,  4 
+188, 475 000 € ," Porto -   Maia, Castêlo da Maia  ",House,  450 m2 ,  6 ,  5 
+189, 237 500 € ," Porto -   Paredes, Rebordosa  ",House,  1924 m2 ,  6 ,  3 
+190, 190 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  163 m2 ,  3 ,  3 
+191, 230 000 € ," Porto -   Felgueiras, Revinhade  ",House,  325 m2 ,  3 ,  3 
+192, 155 000 € ," Porto -   Felgueiras, Refontoura  ",House,  118 m2 ,  1 ,  2 
+193, 140 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  68 m2 ,  1 ,  2 
+194, 140 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  72 m2 ,  1 ,  2 
+195, 250 000 € ," Porto -   Santo Tirso, Lamelas e Guimarei  ",House,  2990 m2 ,  2 ,  2 
+196, 314 500 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  240 m2 ,  6 ,  3 
+197, 170 000 € ," Porto -   Marco de Canaveses, Livração  ",House,  110 m2 ,  2 ,  3 
+198, 105 000 € ," Porto -   Marco de Canaveses, Vila Boa de Quires e Maureles  ",House,  204 m2 ,  2 ,  4 
+199, 87 500 € ," Porto -   Marco de Canaveses, Vila Boa de Quires e Maureles  ",House,  86 m2 ,  1 ,  2 
+200, 95 000 € ," Porto -   Marco de Canaveses, Vila Boa de Quires e Maureles  ",House,  70 m2 ,  1 ,  3 
+201, 205 000 € ," Porto -   Marco de Canaveses, Vila Boa de Quires e Maureles  ",House,  500 m2 ,  4 ,  9 
+202, 120 000 € ," Porto -   Lousada, Caíde de Rei  ",House,  121 m2 ,  1 ,  4 
+203, 445 000 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  350 m2 ,  4 ,  4 
+204, 350 000 € ," Porto -   Porto, Campanhã  ",House,  327 m2 ,  6 ,  14 
+205, 165 000 € ," Porto -   Penafiel, Duas Igrejas  ",House,  150 m2 ,  0 ,  7 
+206, 169 500 € ," Porto -   Valongo, Ermesinde  ",House,  76 m2 ,  2 ,  2 
+207, 295 000 € ," Porto -   Vila do Conde, Vila Chã  ",House,  176 m2 ,  2 ,  3 
+208, 280 000 € ," Porto -   Vila do Conde, Retorta e Tougues  ",House,  222 m2 ,  0 ,  3 
+209, 290 000 € ," Porto -   Paredes, Paredes  ",House,  140 m2 ,  4 ,  3 
+210, 130 000 € ," Porto -   Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada  ",House,  40 m2 ,  0 ,  2 
+211, 305 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  212 m2 ,  3 ,  4 
+212, 350 000 € ," Porto -   Penafiel, Penafiel  ",House,  120 m2 ,  3 ,  3 
+213, 750 000 € ," Porto -   Maia, Folgosa  ",House,  199 m2 ,  3 ,  3 
+214, 170 000 € ," Porto -   Paredes, Duas Igrejas  ",House,  108 m2 ,  0 ,  1 
+215, 75 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  53 m2 ,  1 ,  3 
+216, 350 000 € ," Porto -   Paredes, Aguiar de Sousa  ",House,  229 m2 ,  3 ,  4 
+217, 1 000 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  144 m2 ,  3 ,  4 
+218, 205 000 € ," Porto -   Lousada, Figueiras e Covas  ",House,  137 m2 ,  2 ,  3 
+219, 435 000 € ," Porto -   Valongo, Valongo  ",House,  243 m2 ,  4 ,  3 
+220, 500 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  230 m2 ,  4 ,  4 
+221, 580 000 € ," Porto -   Porto, Campanhã  ",House,  443 m2 ,  7 ,  6 
+222, 180 000 € ," Porto -   Felgueiras, Vila Fria e Vizela (São Jorge)  ",House,  233 m2 ,  1 ,  3 
+223, 330 000 € ," Porto -   Maia, Cidade da Maia  ",House,  180 m2 ,  2 ,  5 
+224, 510 000 € ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",House,  168 m2 ,  3 ,  3 
+225, 1 289 000 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  260 m2 ,  4 ,  4 
+226, 280 000 € ," Porto -   Felgueiras, Macieira da Lixa e Caramos  ",House,  350 m2 ,  4 ,  4 
+227, 89 900 € ," Porto -   Vila Nova de Gaia, Oliveira do Douro  ",House,  80 m2 ,  1 ,  2 
+228, 107 500 € ," Porto -   Baião, Santa Marinha do Zêzere  ",House,  100 m2 ,  0 ,  3 
+229, 182 500 € ," Porto -   Baião, Santa Marinha do Zêzere  ",House,  100 m2 ,  0 ,  3 
+230, 92 500 € ," Porto -   Marco de Canaveses, Soalhães  ",House,  18 m2 ,  0 ,  1 
+231, 350 000 € ," Porto -   Maia, Castêlo da Maia  ",House,  233 m2 ,  4 ,  4 
+232, 98 000 € ," Porto -   Paredes, Lordelo  ",House,  60 m2 ,  1 ,  2 
+233, 300 000 € ," Porto -   Felgueiras, Vila Fria e Vizela (São Jorge)  ",House,  642 m2 ,  3 ,  4 
+234, 235 000 € ," Porto -   Marco de Canaveses, Tabuado  ",House,  200 m2 ,  2 ,  3 
+235, 1 490 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  358 m2 ,  4 ,  3 
+236, 250 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  120 m2 ,  2 ,  5 
+237, 49 000 € ," Porto -   Penafiel, Boelhe  ",House,  455 m2 ,  0 ,  3 
+238, 532 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  96 m2 ,  0 ,  3 
+239, 295 500 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  108 m2 ,  0 ,  2 
+240, 262 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  113 m2 ,  0 ,  3 
+241, 139 500 € ," Porto -   Amarante, Vila Meã  ",House,  57 m2 ,  1 ,  3 
+242, 220 000 € ," Porto -   Vila Nova de Gaia, Madalena  ",House,  89 m2 ,  1 ,  3 
+243, 215 000 € ," Porto -   Santo Tirso, Monte Córdova  ",House,  156 m2 ,  0 ,  3 
+244, 125 000 € ," Porto -   Santo Tirso, São Tomé Negrelos  ",House,  101 m2 ,  0 ,  3 
+245, 135 000 € ," Porto -   Porto, Bonfim  ",House,  41 m2 ,  0 ,  1 
+246, 12 500 € ," Porto -   Baião, Gestaçô  ",House,  45 m2 ,  0 ,  1 
+247, 380 000 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  207 m2 ,  3 ,  4 
+248, 325 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  158 m2 ,  2 ,  2 
+249, 800 000 € ," Porto -   Amarante, Gondar  ",House,  351 m2 ,  5 ,  3 
+250, 125 000 € ," Porto -   Lousada, Macieira  ",House,  86 m2 ,  1 ,  3 
+251, 590 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  245 m2 ,  3 ,  4 
+252, 300 000 € ," Porto -   Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada  ",House,  129 m2 ,  2 ,  3 
+253, 190 000 € ," Porto -   Vila Nova de Gaia, Serzedo e Perosinho  ",House,  651 m2 ,  4 ,  7 
+254, 265 000 € ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",House,  108 m2 ,  2 ,  3 
+255, 280 000 € ," Porto -   Vila Nova de Gaia, Arcozelo  ",House,  50 m2 ,  2 ,  2 
+256, 259 000 € ," Porto -   Santo Tirso, Aves  ",House,  104 m2 ,  2 ,  3 
+257, 155 000 € ," Porto -   Vila Nova de Gaia, Serzedo e Perosinho  ",House,  180 m2 ,  0 ,  4 
+258, 45 000 € ," Porto -   Lousada, Meinedo  ",House,  130 m2 ,  1 ,  2 
+259, 182 500 € ," Porto -   Paredes, Rebordosa  ",House,  83 m2 ,  2 ,  2 
+260, 397 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  220 m2 ,  0 ,  4 
+261, 320 000 € ," Porto -   Marco de Canaveses, Paredes de Viadores e Manhuncelos  ",House,  125 m2 ,  4 ,  3 
+262, 615 000 € ," Porto -   Porto, Bonfim  ",House,  114 m2 ,  3 ,  4 
+263, 165 000 € ," Porto -   Amarante, Vila Garcia, Aboim e Chapa  ",House,  129 m2 ,  1 ,  3 
+264, 215 000 € ," Porto -   Trofa, Bougado (São Martinho e Santiago)  ",House,  182 m2 ,  2 ,  3 
+265, 185 000 € ," Porto -   Valongo, Valongo  ",House,  106 m2 ,  3 ,  2 
+266, 189 900 € ," Porto -   Maia, Nogueira e Silva Escura  ",House,  141 m2 ,  0 ,  3 
+267, 95 000 € ," Porto -   Vila Nova de Gaia, Sandim, Olival, Lever e Crestuma  ",House,  146 m2 ,  3 ,  3 
+268, 325 000 € ," Porto -   Marco de Canaveses, Sobretâmega  ",House,  200 m2 ,  3 ,  4 
+269, 290 000 € ," Porto -   Marco de Canaveses, Marco  ",House,  540 m2 ,  2 ,  3 
+270, 395 000 € ," Porto -   Trofa, Coronado (São Romão e São Mamede)  ",House,  177 m2 ,  4 ,  3 
+271, 275 000 € ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",House,  148 m2 ,  3 ,  3 
+272, 380 000 € ," Porto -   Vila do Conde, Vila do Conde  ",House,  160 m2 ,  0 ,  3 
+273, 128 000 € ," Porto -   Baião, Gestaçô  ",House,  135 m2 ,  1 ,  2 
+274, 285 000 € ," Porto -   Porto, Campanhã  ",House,  296 m2 ,  1 ,  3 
+275, 130 000 € ," Porto -   Lousada, Silvares, Pias, Nogueira e Alvarenga  ",House,  170 m2 ,  2 ,  3 
+276, 590 000 € ," Porto -   Amarante, Gondar  ",House,  554 m2 ,  4 ,  6 
+277, 450 000 € ," Porto -   Santo Tirso, Carreira e Refojos de Riba de Ave  ",House,  400 m2 ,  5 ,  4 
+278, 1 150 000 € ," Porto -   Santo Tirso, Carreira e Refojos de Riba de Ave  ",House,  2000 m2 ,  0 ,  8 
+279, 58 000 € ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",House,  548 m2 ,  0 ,  2 
+280, 50 000 € ," Porto -   Lousada, Silvares, Pias, Nogueira e Alvarenga  ",House,  50 m2 ,  1 ,  2 
+281, 55 000 € ," Porto -   Lousada, Silvares, Pias, Nogueira e Alvarenga  ",House,  50 m2 ,  2 ,  3 
+282, 210 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  55 m2 ,  0 ,  2 
+283, 750 000 € ," Porto -   Santo Tirso, Carreira e Refojos de Riba de Ave  ",House,  200 m2 ,  5 ,  4 
+284, 372 000 € ," Porto -   Porto, Campanhã  ",House,  210 m2 ,  4 ,  3 
+285, 185 000 € ," Porto -   Santo Tirso, Rebordões  ",House,  157 m2 ,  1 ,  5 
+286, 475 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  155 m2 ,  3 ,  3 
+287, 175 000 € ," Porto -   Valongo, Valongo  ",House,  99 m2 ,  2 ,  2 
+288, 360 000 € ," Porto -   Porto, Paranhos  ",House,  237 m2 ,  0 ,  5 
+289, 325 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  182 m2 ,  5 ,  3 
+290, 295 000 € ," Porto -   Maia, Castêlo da Maia  ",House,  184 m2 ,  3 ,  3 
+291, 439 900 € ," Porto -   Vila Nova de Gaia, São Felix da Marinha  ",House,  280 m2 ,  5 ,  5 
+292, 265 500 € ," Porto -   Marco de Canaveses, Paredes de Viadores e Manhuncelos  ",House,  150 m2 ,  3 ,  3 
+293, 470 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  214 m2 ,  4 ,  4 
+294, 400 000 € ," Porto -   Felgueiras, Sendim  ",House,  326 m2 ,  4 ,  3 
+295, 212 000 € ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",House,  110 m2 ,  2 ,  2 
+296, 210 000 € ," Porto -   Vila Nova de Gaia, Canelas  ",House,  125 m2 ,  2 ,  2 
+297, 480 000 € ," Porto -   Vila Nova de Gaia, Madalena  ",House,  301 m2 ,  4 ,  3 
+298, 325 000 € ," Porto -   Vila do Conde, Mindelo  ",House,  167 m2 ,  3 ,  3 
+299, 235 000 € ," Porto -   Felgueiras, Airães  ",House,  180 m2 ,  0 ,  3 
+300, 268 000 € ," Porto -   Penafiel, Irivo  ",House,  202 m2 ,  3 ,  3 
+301, 280 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  184 m2 ,  3 ,  3 
+302, 595 000 € ," Porto -   Maia, Cidade da Maia  ",House,  247 m2 ,  5 ,  3 
+303, 600 000 € ," Porto -   Gondomar, Melres e Medas  ",House,  307 m2 ,  0 ,  6 
+304, 245 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  117 m2 ,  0 ,  3 
+305, 50 000 € ," Porto -   Paços de Ferreira, Sanfins Lamoso Codessos  ",House,  156 m2 ,  1 ,  1 
+306, 247 000 € ," Porto -   Penafiel, Termas de São Vicente  ",House,  190 m2 ,  3 ,  3 
+307, 350 000 € ," Porto -   Vila Nova de Gaia, Pedroso e Seixezelo  ",House,  140 m2 ,  2 ,  3 
+308, 129 800 € ," Porto -   Maia, Cidade da Maia  ",House,  68 m2 ,  1 ,  2 
+309, 1 199 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  310 m2 ,  6 ,  5 
+310, 405 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  288 m2 ,  5 ,  4 
+311, 267 000 € ," Porto -   Felgueiras, Friande  ",House,  348 m2 ,  3 ,  4 
+312, 107 000 € ," Porto -   Santo Tirso, Aves  ",House,  139 m2 ,  0 ,  2 
+313, 235 000 € ," Porto -   Lousada, Silvares, Pias, Nogueira e Alvarenga  ",House,  206 m2 ,  2 ,  4 
+314, 160 000 € ," Porto -   Marco de Canaveses, Marco  ",House,  80 m2 ,  0 ,  2 
+315, 275 000 € ," Porto -   Marco de Canaveses, Sobretâmega  ",House,  167 m2 ,  2 ,  5 
+316, 194 500 € ," Porto -   Maia, Pedrouços  ",House,  159 m2 ,  0 ,  2 
+317, 300 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  240 m2 ,  2 ,  4 
+318, 169 000 € ," Porto -   Maia, Castêlo da Maia  ",House,  231 m2 ,  0 ,  4 
+319, 329 900 € ," Porto -   Valongo, Campo e Sobrado  ",House,  257 m2 ,  3 ,  3 
+320, 240 000 € ," Porto -   Vila Nova de Gaia, Serzedo e Perosinho  ",House,  165 m2 ,  2 ,  4 
+321, 800 000 € ," Porto -   Felgueiras, Jugueiros  ",House,  978 m2 ,  3 ,  6 
+322, 162 000 € ," Porto -   Porto, Bonfim  ",House,  208 m2 ,  2 ,  2 
+323, 82 500 € ," Porto -   Felgueiras, Vila Cova da Lixa e Borba de Godim  ",House,  53 m2 ,  1 ,  3 
+324, 349 000 € ," Porto -   Penafiel, Penafiel  ",House,  196 m2 ,  3 ,  3 
+325, 390 000 € ," Porto -   Maia, Cidade da Maia  ",House,  154 m2 ,  3 ,  3 
+326, 265 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  132 m2 ,  2 ,  3 
+327, 279 000 € ," Porto -   Santo Tirso, Rebordões  ",House,  176 m2 ,  0 ,  3 
+328, 262 500 € ," Porto -   Gondomar, Baguim do Monte  ",House,  237 m2 ,  2 ,  3 
+329, 395 000 € ," Porto -   Vila do Conde, Vilar de Pinheiro  ",House,  180 m2 ,  3 ,  3 
+330, 390 000 € ," Porto -   Penafiel, Valpedre  ",House,  209 m2 ,  5 ,  5 
+331, 445 000 € ," Porto -   Lousada, Lustosa e Barrosas (Santo Estêvão)  ",House,  632 m2 ,  6 ,  7 
+332, 176 000 € ," Porto -   Santo Tirso, Monte Córdova  ",House,  177 m2 ,  1 ,  3 
+333, 78 500 € ," Porto -   Paços de Ferreira, Sanfins Lamoso Codessos  ",House,  90 m2 ,  1 ,  4 
+334, 129 500 € ," Porto -   Paços de Ferreira, Sanfins Lamoso Codessos  ",House,  90 m2 ,  1 ,  4 
+335, 52 500 € ," Porto -   Baião, Campelo e Ovil  ",House,  90 m2 ,  1 ,  2 
+336, 42 500 € ," Porto -   Baião, Campelo e Ovil  ",House,  80 m2 ,  1 ,  1 
+337, 15 000 € ," Porto -   Baião, Campelo e Ovil  ",House,  62 m2 ,  0 ,  2 
+338, 130 000 € ," Porto -   Baião, Campelo e Ovil  ",House,  270 m2 ,  0 ,  3 
+339, 750 000 € ," Porto -   Vila Nova de Gaia, Arcozelo  ",House,  389 m2 ,  6 ,  4 
+340, 99 500 € ," Porto -   Penafiel, Guilhufe e Urrô  ",House,  72 m2 ,  1 ,  2 
+341, 89 500 € ," Porto -   Penafiel, Guilhufe e Urrô  ",House,  97 m2 ,  1 ,  2 
+342, 425 000 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  212 m2 ,  3 ,  5 
+343, 399 990 € ," Porto -   Vila do Conde, Vila do Conde  ",House,  157 m2 ,  3 ,  3 
+344, 950 000 € ," Porto -   Vila Nova de Gaia, Pedroso e Seixezelo  ",House,  180 m2 ,  2 ,  4 
+345, 205 000 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  160 m2 ,  1 ,  3 
+346, 278 000 € ," Porto -   Marco de Canaveses, Soalhães  ",House,  180 m2 ,  3 ,  3 
+347, 349 900 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  273 m2 ,  3 ,  3 
+348, 159 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  78 m2 ,  0 ,  2 
+349, 240 000 € ," Porto -   Amarante, Vila Meã  ",House,  360 m2 ,  4 ,  4 
+350, 219 500 € ," Porto -   Santo Tirso, Rebordões  ",House,  200 m2 ,  3 ,  3 
+351, 389 900 € ," Porto -   Vila do Conde, Gião  ",House,  161 m2 ,  3 ,  4 
+352, 128 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  18 m2 ,  2 ,  0 
+353, 155 000 € ," Porto -   Lousada, Macieira  ",House,  95 m2 ,  1 ,  2 
+354, 235 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  269 m2 ,  1 ,  2 
+355, 249 500 € ," Porto -   Trofa, Alvarelhos e Guidões  ",House,  294 m2 ,  2 ,  4 
+356, 120 000 € ," Porto -   Santo Tirso, Rebordões  ",House,  1652 m2 ,  4 ,  4 
+357, 480 000 € ," Porto -   Vila Nova de Gaia, Arcozelo  ",House,  211 m2 ,  0 ,  4 
+358, 490 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  220 m2 ,  2 ,  4 
+359, 365 000 € ," Porto -   Gondomar, Baguim do Monte  ",House,  180 m2 ,  4 ,  4 
+360, 424 500 € ," Porto -   Trofa, Bougado (São Martinho e Santiago)  ",House,  225 m2 ,  3 ,  3 
+361, 320 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  160 m2 ,  4 ,  3 
+362, 299 500 € ," Porto -   Felgueiras, Sendim  ",House,  492 m2 ,  3 ,  5 
+363, 155 000 € ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",House,  258 m2 ,  1 ,  2 
+364, 465 000 € ," Porto -   Penafiel, Paço de Sousa  ",House,  170 m2 ,  3 ,  3 
+365, 1 100 000 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  250 m2 ,  5 ,  6 
+366, 180 000 € ," Porto -   Amarante, Fregim  ",House,  204 m2 ,  2 ,  3 
+367, 289 000 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  168 m2 ,  3 ,  3 
+368, 600 000 € ," Porto -   Maia, Cidade da Maia  ",House,  321 m2 ,  6 ,  3 
+369, 420 000 € ," Porto -   Maia, Moreira  ",House,  199 m2 ,  5 ,  4 
+370, 490 000 € ," Porto -   Gondomar, Foz do Sousa e Covelo  ",House,  283 m2 ,  4 ,  3 
+371, 69 900 € ," Porto -   Baião, Teixeira e Teixeiró  ",House,  120 m2 ,  2 ,  3 
+372, 179 000 € ," Porto -   Valongo, Campo e Sobrado  ",House,  195 m2 ,  0 ,  3 
+373, 287 000 € ," Porto -   Vila Nova de Gaia, Serzedo e Perosinho  ",House,  155 m2 ,  3 ,  4 
+374, 620 000 € ," Porto -   Santo Tirso, Areias, Sequeiró, Lama e Palmeira  ",House,  331 m2 ,  0 ,  7 
+375, 80 000 € ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",House,  107 m2 ,  1 ,  3 
+376, 140 000 € ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",House,  84 m2 ,  1 ,  2 
+377, 75 000 € ," Porto -   Penafiel, Cabeça Santa  ",House,  192 m2 ,  3 ,  3 
+378, 235 000 € ," Porto -   Paços de Ferreira, Raimonda  ",House,  327 m2 ,  2 ,  4 
+379, 90 000 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  38 m2 ,  1 ,  1 
+380, 199 000 € ," Porto -   Amarante, Figueiró (Santiago e Santa Cristina)  ",House,  393 m2 ,  2 ,  3 
+381, 235 750 € ," Porto -   Valongo, Ermesinde  ",House,  200 m2 ,  6 ,  4 
+382, 318 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  139 m2 ,  3 ,  3 
+383, 290 000 € ," Porto -   Valongo, Campo e Sobrado  ",House,  168 m2 ,  0 ,  4 
+384, 350 000 € ," Porto -   Vila Nova de Gaia, Vilar de Andorinho  ",House,  180 m2 ,  4 ,  5 
+385, 275 000 € ," Porto -   Amarante, Fregim  ",House,  197 m2 ,  3 ,  3 
+386, 150 000 € ," Porto -   Felgueiras, Macieira da Lixa e Caramos  ",House,  72 m2 ,  1 ,  3 
+387, 43 000 € ," Porto -   Felgueiras, Torrados e Sousa  ",House,  147 m2 ,  0 ,  0 
+388, 99 000 € ," Porto -   Felgueiras, Friande  ",House,  106 m2 ,  1 ,  1 
+389, 285 000 € ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",House,  96 m2 ,  2 ,  3 
+390, 182 500 € ," Porto -   Porto, Campanhã  ",House,  208 m2 ,  2 ,  4 
+391, 165 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  120 m2 ,  0 ,  3 
+392, 449 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  176 m2 ,  2 ,  3 
+393, 350 000 € ," Porto -   Maia, Nogueira e Silva Escura  ",House,  404 m2 ,  4 ,  4 
+394, 249 900 € ," Porto -   Trofa, Bougado (São Martinho e Santiago)  ",House,  210 m2 ,  2 ,  4 
+395, 69 500 € ," Porto -   Felgueiras, Macieira da Lixa e Caramos  ",House,  174 m2 ,  1 ,  4 
+396, 400 000 € ," Porto -   Paredes, Recarei  ",House,  498 m2 ,  5 ,  3 
+397, 310 000 € ," Porto -   Póvoa de Varzim, Estela  ",House,  230 m2 ,  2 ,  4 
+398, 210 000 € ," Porto -   Maia, Moreira  ",House,  251 m2 ,  3 ,  5 
+399, 85 000 € ," Porto -   Marco de Canaveses, Sobretâmega  ",House,  68 m2 ,  2 ,  2 
+400, 2 500 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  312 m2 ,  4 ,  4 
+401, 72 000 € ," Porto -   Amarante, Vila Chã do Marão  ",House,  144 m2 ,  1 ,  2 
+402, 95 000 € ," Porto -   Porto, Bonfim  ",House,  33 m2 ,  1 ,  1 
+403, 374 900 € ," Porto -   Vila Nova de Gaia, São Felix da Marinha  ",House,  168 m2 ,  4 ,  3 
+404, 31 500 € ," Porto -   Baião, Ancede e Ribadouro  ",House,  72 m2 ,  0 ,  2 
+405, 345 000 € ," Porto -   Porto, Paranhos  ",House,  168 m2 ,  0 ,  3 
+406, 345 000 € ," Porto -   Paredes, Vilela  ",House,  192 m2 ,  3 ,  4 
+407, 219 000 € ," Porto -   Paredes, Duas Igrejas  ",House,  201 m2 ,  2 ,  3 
+408, 72 000 € ," Porto -   Póvoa de Varzim, Balazar  ",House,  110 m2 ,  2 ,  3 
+409, 325 000 € ," Porto -   Vila Nova de Gaia, Pedroso e Seixezelo  ",House,  200 m2 ,  4 ,  5 
+410, 559 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  239 m2 ,  5 ,  4 
+411, 465 000 € ," Porto -   Paredes, Aguiar de Sousa  ",House,  381 m2 ,  5 ,  4 
+412, 260 000 € ," Porto -   Valongo, Ermesinde  ",House,  144 m2 ,  2 ,  3 
+413, 400 000 € ," Porto -   Santo Tirso, Vila Nova do Campo  ",House,  201 m2 ,  2 ,  3 
+414, 565 000 € ," Porto -   Vila do Conde, Guilhabreu  ",House,  338 m2 ,  3 ,  4 
+415, 750 000 € ," Porto -   Maia, Vila Nova da Telha  ",House,  252 m2 ,  5 ,  4 
+416, 750 000 € ," Porto -   Maia, Vila Nova da Telha  ",House,  325 m2 ,  5 ,  4 
+417, 750 000 € ," Porto -   Maia, Vila Nova da Telha  ",House,  252 m2 ,  5 ,  4 
+418, 750 000 € ," Porto -   Maia, Vila Nova da Telha  ",House,  252 m2 ,  5 ,  4 
+419, 750 000 € ," Porto -   Maia, Vila Nova da Telha  ",House,  252 m2 ,  5 ,  4 
+420, 750 000 € ," Porto -   Maia, Vila Nova da Telha  ",House,  328 m2 ,  5 ,  4 
+421, 750 000 € ," Porto -   Maia, Vila Nova da Telha  ",House,  325 m2 ,  5 ,  4 
+422, 282 000 € ," Porto -   Paredes, Duas Igrejas  ",House,  296 m2 ,  2 ,  3 
+423, 175 000 € ," Porto -   Penafiel, Termas de São Vicente  ",House,  125 m2 ,  2 ,  3 
+424, 325 000 € ," Porto -   Vila Nova de Gaia, Pedroso e Seixezelo  ",House,  208 m2 ,  4 ,  3 
+425, 640 000 € ," Porto -   Porto, Ramalde  ",House,  150 m2 ,  3 ,  3 
+426, 120 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  192 m2 ,  1 ,  3 
+427, 169 000 € ," Porto -   Vila Nova de Gaia, Canidelo  ",House,  70 m2 ,  1 ,  2 
+428, 350 000 € ," Porto -   Valongo, Ermesinde  ",House,  180 m2 ,  4 ,  3 
+429, 260 000 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  174 m2 ,  2 ,  3 
+430, 565 000 € ," Porto -   Maia, Cidade da Maia  ",House,  360 m2 ,  5 ,  4 
+431, 265 000 € ," Porto -   Felgueiras, Vila Fria e Vizela (São Jorge)  ",House,  307 m2 ,  0 ,  3 
+432, 235 000 € ," Porto -   Lousada, Vilar do Torno e Alentém  ",House,  182 m2 ,  2 ,  3 
+433, 780 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  198 m2 ,  3 ,  3 
+434, 315 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  110 m2 ,  3 ,  3 
+435, 225 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  90 m2 ,  2 ,  2 
+436, 375 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  216 m2 ,  0 ,  4 
+437, 120 000 € ," Porto -   Lousada, Meinedo  ",House,  1605 m2 ,  1 ,  1 
+438, 275 000 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  103 m2 ,  2 ,  3 
+439, 165 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  126 m2 ,  0 ,  3 
+440, 315 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  110 m2 ,  0 ,  3 
+441, 590 000 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  129 m2 ,  2 ,  3 
+442, 105 000 € ," Porto -   Santo Tirso, Rebordões  ",House,  275 m2 ,  2 ,  6 
+443, 250 000 € ," Porto -   Maia, Moreira  ",House,  110 m2 ,  2 ,  3 
+444, 490 000 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  167 m2 ,  0 ,  3 
+445, 925 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  311 m2 ,  6 ,  4 
+446, 460 000 € ," Porto -   Lousada, Silvares, Pias, Nogueira e Alvarenga  ",House,  2400 m2 ,  5 ,  4 
+447, 550 000 € ," Porto -   Maia, Águas Santas  ",House,  369 m2 ,  5 ,  5 
+448, 799 000 € ," Porto -   Maia, Castêlo da Maia  ",House,  312 m2 ,  0 ,  5 
+449, 340 000 € ," Porto -   Maia, Nogueira e Silva Escura  ",House,  136 m2 ,  0 ,  3 
+450, 928 000 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  396 m2 ,  5 ,  9 
+451, 315 000 € ," Porto -   Vila Nova de Gaia, Canidelo  ",House,  45 m2 ,  1 ,  2 
+452, 320 000 € ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",House,  50 m2 ,  1 ,  1 
+453, 210 000 € ," Porto -   Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada  ",House,  80 m2 ,  1 ,  2 
+454, 450 000 € ," Porto -   Vila Nova de Gaia, Arcozelo  ",House,  212 m2 ,  4 ,  4 
+455, 297 500 € ," Porto -   Santo Tirso, Areias, Sequeiró, Lama e Palmeira  ",House,  675 m2 ,  0 ,  4 
+456, 320 000 € ," Porto -   Porto, Paranhos  ",House,  136 m2 ,  2 ,  4 
+457, 180 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  146 m2 ,  3 ,  4 
+458, 375 000 € ," Porto -   Gondomar, Baguim do Monte  ",House,  180 m2 ,  0 ,  4 
+459, 110 000 € ," Porto -   Valongo, Ermesinde  ",House,  56 m2 ,  2 ,  2 
+460, 750 000 € ," Porto -   Porto, Ramalde  ",House,  258 m2 ,  3 ,  11 
+461, 225 000 € ," Porto -   Penafiel, Penafiel  ",House,  140 m2 ,  3 ,  5 
+462, 535 000 € ," Porto -   Maia, Castêlo da Maia  ",House,  237 m2 ,  3 ,  3 
+463, 180 000 € ," Porto -   Baião, Baião (Santa Leocádia) e Mesquinhata  ",House,  211 m2 ,  0 ,  2 
+464, 165 000 € ," Porto -   Lousada, Lustosa e Barrosas (Santo Estêvão)  ",House,  280 m2 ,  0 ,  5 
+465, 219 800 € ," Porto -   Penafiel, Penafiel  ",House,  100 m2 ,  2 ,  4 
+466, 340 000 € ," Porto -   Amarante, Freixo de Cima e de Baixo  ",House,  215 m2 ,  5 ,  4 
+467, 330 000 € ," Porto -   Amarante, Freixo de Cima e de Baixo  ",House,  215 m2 ,  5 ,  4 
+468, 283 100 € ," Porto -   Gondomar, Rio Tinto  ",House,  352 m2 ,  3 ,  5 
+469, 360 000 € ," Porto -   Baião, Santa Marinha do Zêzere  ",House,  140 m2 ,  0 ,  3 
+470, 440 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  220 m2 ,  4 ,  3 
+471, 250 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  308 m2 ,  0 ,  5 
+472, 850 000 € ," Porto -   Amarante, Vila Meã  ",House,  520 m2 ,  5 ,  5 
+473, 255 000 € ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",House,  984 m2 ,  0 ,  8 
+474, 79 900 € ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",House,  438 m2 ,  0 ,  2 
+475, 1 050 000 € ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",House,  380 m2 ,  5 ,  5 
+476, 137 500 € ," Porto -   Porto, Bonfim  ",House,  42 m2 ,  1 ,  1 
+477, 261 250 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  80 m2 ,  2 ,  3 
+478, 110 000 € ," Porto -   Paços de Ferreira, Seroa  ",House,  103 m2 ,  0 ,  3 
+479, 249 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  522 m2 ,  0 ,  3 
+480, 95 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  102 m2 ,  2 ,  2 
+481, 720 000 € ," Porto -   Valongo, Alfena  ",House,  330 m2 ,  4 ,  3 
+482, 430 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  193 m2 ,  3 ,  3 
+483, 85 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  81 m2 ,  0 ,  3 
+484, 160 000 € ," Porto -   Felgueiras, Refontoura  ",House,  191 m2 ,  0 ,  2 
+485, 310 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  331 m2 ,  3 ,  4 
+486, 190 000 € ," Porto -   Marco de Canaveses, Sande e São Lourenço  ",House,  133 m2 ,  0 ,  3 
+487, 167 500 € ," Porto -   Santo Tirso, Vila Nova do Campo  ",House,  100 m2 ,  2 ,  3 
+488, 398 500 € ," Porto -   Vila do Conde, Vilar de Pinheiro  ",House,  228 m2 ,  4 ,  4 
+489, 266 000 € ," Porto -   Maia, Milheirós  ",House,  151 m2 ,  2 ,  3 
+490, 69 000 € ," Porto -   Paços de Ferreira, Ferreira  ",House,  74 m2 ,  0 ,  3 
+491, 349 900 € ," Porto -   Maia, Nogueira e Silva Escura  ",House,  284 m2 ,  0 ,  3 
+492, 450 000 € ," Porto -   Paços de Ferreira, Meixomil  ",House,  2700 m2 ,  5 ,  5 
+493, 308 000 € ," Porto -   Santo Tirso, Lamelas e Guimarei  ",House,  152 m2 ,  3 ,  3 
+494, 169 000 € ," Porto -   Vila Nova de Gaia, Madalena  ",House,  65 m2 ,  2 ,  2 
+495, 87 500 € ," Porto -   Marco de Canaveses, Penhalonga e Paços de Gaiolo  ",House,  93 m2 ,  0 ,  4 
+496, 60 000 € ," Porto -   Felgueiras, Vila Cova da Lixa e Borba de Godim  ",House,  180 m2 ,  1 ,  2 
+497, 870 000 € ," Porto -   Vila Nova de Gaia, Arcozelo  ",House,  278 m2 ,  4 ,  3 
+498, 545 000 € ," Porto -   Porto, Campanhã  ",House,  220 m2 ,  2 ,  3 
+499, 159 900 € ," Porto -   Paços de Ferreira, Penamaior  ",House,  500 m2 ,  0 ,  4 
+500, 175 000 € ," Porto -   Paços de Ferreira, Freamunde  ",House,  336 m2 ,  1 ,  3 
+501, 344 900 € ," Porto -   Maia, Cidade da Maia  ",House,  170 m2 ,  2 ,  3 
+502, 425 000 € ," Porto -   Felgueiras, Idães  ",House,  278 m2 ,  4 ,  4 
+503, 119 500 € ," Porto -   Felgueiras, Pombeiro de Ribavizela  ",House,  242 m2 ,  0 ,  3 
+504, 559 000 € ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",House,  186 m2 ,  5 ,  3 
+505, 290 000 € ," Porto -   Maia, Águas Santas  ",House,  116 m2 ,  1 ,  4 
+506, 315 000 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  120 m2 ,  2 ,  3 
+507, 1 250 000 € ," Porto -   Maia, Vila Nova da Telha  ",House,  819 m2 ,  0 ,  12 
+508, 698 000 € ," Porto -   Maia, Nogueira e Silva Escura  ",House,  298 m2 ,  5 ,  4 
+509, 320 000 € ," Porto -   Vila Nova de Gaia, Serzedo e Perosinho  ",House,  138 m2 ,  0 ,  4 
+510, 435 000 € ," Porto -   Vila Nova de Gaia, São Felix da Marinha  ",House,  150 m2 ,  3 ,  3 
+511, 699 000 € ," Porto -   Penafiel, Bustelo  ",House,  480 m2 ,  5 ,  4 
+512, 140 000 € ," Porto -   Penafiel, Penafiel  ",House,  50 m2 ,  1 ,  1 
+513, 44 000 € ," Porto -   Penafiel, Penafiel  ",House,  40 m2 ,  1 ,  1 
+514, 330 000 € ," Porto -   Maia, Vila Nova da Telha  ",House,  200 m2 ,  3 ,  4 
+515, 170 000 € ," Porto -   Marco de Canaveses, Vila Boa do Bispo  ",House,  124 m2 ,  1 ,  3 
+516, 430 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  270 m2 ,  3 ,  4 
+517, 550 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  156 m2 ,  3 ,  4 
+518, 1 250 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  365 m2 ,  6 ,  4 
+519, 65 000 € ," Porto -   Paços de Ferreira, Paços de Ferreira  ",House,  64 m2 ,  1 ,  2 
+520, 750 000 € ," Porto -   Vila Nova de Gaia, Madalena  ",House,  208 m2 ,  0 ,  5 
+521, 832 000 € ," Porto -   Vila Nova de Gaia, Madalena  ",House,  243 m2 ,  0 ,  4 
+522, 115 000 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  155 m2 ,  2 ,  2 
+523, 630 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  205 m2 ,  4 ,  3 
+524, 549 000 € ," Porto -   Maia, Cidade da Maia  ",House,  271 m2 ,  4 ,  4 
+525, 116 700 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  56 m2 ,  1 ,  2 
+526, 116 700 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  63 m2 ,  1 ,  2 
+527, 234 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  119 m2 ,  2 ,  2 
+528, 360 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  252 m2 ,  3 ,  4 
+529, 449 000 € ," Porto -   Vila Nova de Gaia, Madalena  ",House,  179 m2 ,  5 ,  3 
+530, 280 000 € ," Porto -   Maia, Castêlo da Maia  ",House,  262 m2 ,  4 ,  4 
+531, 17 500 € ," Porto -   Baião, Ancede e Ribadouro  ",House,  70 m2 ,  0 ,  2 
+532, 140 000 € ," Porto -   Baião, Santa Marinha do Zêzere  ",House,  65 m2 ,  1 ,  2 
+533, 215 000 € ," Porto -   Porto, Campanhã  ",House,  83 m2 ,  2 ,  2 
+534, 750 000 € ," Porto -   Maia, Nogueira e Silva Escura  ",House,  432 m2 ,  8 ,  4 
+535, 379 500 € ," Porto -   Maia, São Pedro Fins  ",House,  349 m2 ,  5 ,  4 
+536, 360 000 € ," Porto -   Porto, Campanhã  ",House,  120 m2 ,  3 ,  3 
+537, 595 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  180 m2 ,  5 ,  3 
+538, 42 500 € ," Porto -   Amarante, Bustelo, Carneiro e Carvalho de Rei  ",House,  88 m2 ,  0 ,  0 
+539, 195 000 € ," Porto -   Maia, Águas Santas  ",House,  97 m2 ,  1 ,  2 
+540, 25 000 € ," Porto -   Marco de Canaveses, Sande e São Lourenço  ",House,  46 m2 ,  0 ,  2 
+541, 440 000 € ," Porto -   Porto, Bonfim  ",House,  83 m2 ,  3 ,  3 
+542, 130 000 € ," Porto -   Porto, Campanhã  ",House,  103 m2 ,  1 ,  2 
+543, 399 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  147 m2 ,  3 ,  3 
+544, 195 000 € ," Porto -   Felgueiras, Idães  ",House,  307 m2 ,  2 ,  3 
+545, 299 600 € ," Porto -   Valongo, Ermesinde  ",House,  266 m2 ,  3 ,  3 
+546, 95 000 € ," Porto -   Penafiel, Croca  ",House,  70 m2 ,  0 ,  3 
+547, 1 350 000 € ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",House,  371 m2 ,  0 ,  4 
+548, 290 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  396 m2 ,  2 ,  4 
+549, 975 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  502 m2 ,  3 ,  3 
+550, 165 000 € ," Porto -   Penafiel, Rio de Moinhos  ",House,  179 m2 ,  1 ,  3 
+551, 89 000 € ," Porto -   Vila Nova de Gaia, São Felix da Marinha  ",House,  32 m2 ,  0 ,  2 
+552, 36 500 € ," Porto -   Lousada, Macieira  ",House,  95 m2 ,  0 ,  0 
+553, 235 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  260 m2 ,  2 ,  3 
+554, 280 000 € ," Porto -   Maia, Cidade da Maia  ",House,  111 m2 ,  3 ,  3 
+555, 165 000 € ," Porto -   Paredes, Sobreira  ",House,  120 m2 ,  1 ,  2 
+556, 120 000 € ," Porto -   Penafiel, Duas Igrejas  ",House,  61 m2 ,  1 ,  2 
+557, 125 000 € ," Porto -   Vila Nova de Gaia, Serzedo e Perosinho  ",House,  258 m2 ,  5 ,  5 
+558, 385 000 € ," Porto -   Baião, Loivos da Ribeira e Tresouras  ",House,  313 m2 ,  4 ,  4 
+559, 495 000 € ," Porto -   Trofa, Coronado (São Romão e São Mamede)  ",House,  330 m2 ,  3 ,  6 
+560, 249 000 € ," Porto -   Maia, Cidade da Maia  ",House,  87 m2 ,  2 ,  3 
+561, 320 000 € ," Porto -   Penafiel, Sebolido  ",House,  299 m2 ,  3 ,  4 
+562, 232 000 € ," Porto -   Maia, Castêlo da Maia  ",House,  178 m2 ,  2 ,  4 
+563, 497 500 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  93 m2 ,  1 ,  3 
+564, 83 000 € ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",House,  51 m2 ,  0 ,  2 
+565, 470 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  233 m2 ,  3 ,  3 
+566, 337 500 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  123 m2 ,  3 ,  3 
+567, 320 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  137 m2 ,  2 ,  3 
+568, 349 000 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  182 m2 ,  3 ,  4 
+569, 330 000 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  254 m2 ,  3 ,  3 
+570, 255 000 € ," Porto -   Paredes, Baltar  ",House,  201 m2 ,  3 ,  3 
+571, 335 000 € ," Porto -   Gondomar, Baguim do Monte  ",House,  164 m2 ,  0 ,  4 
+572, 250 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  169 m2 ,  4 ,  4 
+573, 235 000 € ," Porto -   Amarante, Travanca  ",House,  204 m2 ,  3 ,  3 
+574, 235 000 € ," Porto -   Amarante, Travanca  ",House,  204 m2 ,  3 ,  3 
+575, 235 000 € ," Porto -   Amarante, Travanca  ",House,  204 m2 ,  3 ,  3 
+576, 250 000 € ," Porto -   Amarante, Travanca  ",House,  204 m2 ,  3 ,  3 
+577, 55 000 € ," Porto -   Amarante, Vila Caiz  ",House,  42 m2 ,  2 ,  1 
+578, 320 000 € ," Porto -   Vila Nova de Gaia, Oliveira do Douro  ",House,  135 m2 ,  3 ,  3 
+579, 850 000 € ," Porto -   Vila Nova de Gaia, São Felix da Marinha  ",House,  240 m2 ,  5 ,  3 
+580, 285 000 € ," Porto -   Penafiel, Bustelo  ",House,  154 m2 ,  0 ,  3 
+581, 260 000 € ," Porto -   Lousada, Meinedo  ",House,  268 m2 ,  3 ,  3 
+582, 291 000 € ," Porto -   Maia, Cidade da Maia  ",House,  120 m2 ,  2 ,  3 
+583, 1 500 000 € ," Porto -   Vila Nova de Gaia, Oliveira do Douro  ",House,  682 m2 ,  9 ,  6 
+584, 107 500 € ," Porto -   Porto, Ramalde  ",House,  90 m2 ,  0 ,  2 
+585, 72 500 € ," Porto -   Porto, Ramalde  ",House,  40 m2 ,  0 ,  2 
+586, 94 000 € ," Porto -   Santo Tirso, Carreira e Refojos de Riba de Ave  ",House,  64 m2 ,  2 ,  3 
+587, 145 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  72 m2 ,  0 ,  3 
+588, 1 780 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  361 m2 ,  6 ,  4 
+589, 350 000 € ," Porto -   Paços de Ferreira, Penamaior  ",House,  450 m2 ,  2 ,  7 
+590, 250 000 € ," Porto -   Maia, Nogueira e Silva Escura  ",House,  134 m2 ,  0 ,  2 
+591, 120 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  42 m2 ,  1 ,  2 
+592, 250 000 € ," Porto -   Vila Nova de Gaia, Arcozelo  ",House,  56 m2 ,  0 ,  2 
+593, 225 000 € ," Porto -   Lousada, Silvares, Pias, Nogueira e Alvarenga  ",House,  140 m2 ,  3 ,  4 
+594, 250 000 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  222 m2 ,  4 ,  5 
+595, 2 200 000 € ," Porto -   Maia, Moreira  ",House,  5764 m2 ,  11 ,  5 
+596, 32 000 € ," Porto -   Marco de Canaveses, Penhalonga e Paços de Gaiolo  ",House,  43 m2 ,  0 ,  1 
+597, 399 500 € ," Porto -   Maia, Castêlo da Maia  ",House,  351 m2 ,  3 ,  3 
+598, 399 500 € ," Porto -   Maia, Castêlo da Maia  ",House,  352 m2 ,  3 ,  3 
+599, 399 500 € ," Porto -   Maia, Castêlo da Maia  ",House,  359 m2 ,  3 ,  3 
+600, 399 500 € ," Porto -   Maia, Castêlo da Maia  ",House,  352 m2 ,  3 ,  3 
+601, 399 500 € ," Porto -   Maia, Castêlo da Maia  ",House,  347 m2 ,  3 ,  3 
+602, 399 500 € ," Porto -   Maia, Castêlo da Maia  ",House,  355 m2 ,  3 ,  3 
+603, 404 500 € ," Porto -   Maia, Castêlo da Maia  ",House,  355 m2 ,  3 ,  3 
+604, 404 500 € ," Porto -   Maia, Castêlo da Maia  ",House,  355 m2 ,  3 ,  3 
+605, 409 500 € ," Porto -   Maia, Castêlo da Maia  ",House,  354 m2 ,  3 ,  3 
+606, 404 500 € ," Porto -   Maia, Castêlo da Maia  ",House,  347 m2 ,  3 ,  3 
+607, 490 000 € ," Porto -   Vila do Conde, Vila Chã  ",House,  208 m2 ,  4 ,  3 
+608, 480 000 € ," Porto -   Vila do Conde, Vila Chã  ",House,  208 m2 ,  4 ,  3 
+609, 480 000 € ," Porto -   Vila do Conde, Vila Chã  ",House,  208 m2 ,  4 ,  3 
+610, 575 000 € ," Porto -   Vila do Conde, Vila Chã  ",House,  240 m2 ,  4 ,  3 
+611, 480 000 € ," Porto -   Vila do Conde, Vila Chã  ",House,  204 m2 ,  4 ,  3 
+612, 480 000 € ," Porto -   Vila do Conde, Vila Chã  ",House,  208 m2 ,  4 ,  3 
+613, 480 000 € ," Porto -   Vila do Conde, Vila Chã  ",House,  208 m2 ,  4 ,  3 
+614, 480 000 € ," Porto -   Vila do Conde, Vila Chã  ",House,  208 m2 ,  4 ,  3 
+615, 480 000 € ," Porto -   Vila do Conde, Vila Chã  ",House,  208 m2 ,  4 ,  3 
+616, 580 000 € ," Porto -   Vila do Conde, Vila Chã  ",House,  240 m2 ,  4 ,  3 
+617, 565 000 € ," Porto -   Vila do Conde, Vila Chã  ",House,  240 m2 ,  4 ,  3 
+618, 292 500 € ," Porto -   Paredes, Baltar  ",House,  266 m2 ,  3 ,  3 
+619, 135 000 € ," Porto -   Santo Tirso, Roriz  ",House,  94 m2 ,  1 ,  1 
+620, 231 000 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  303 m2 ,  3 ,  3 
+621, 359 900 € ," Porto -   Valongo, Valongo  ",House,  273 m2 ,  3 ,  4 
+622, 499 000 € ," Porto -   Maia, Cidade da Maia  ",House,  273 m2 ,  4 ,  4 
+623, 170 000 € ," Porto -   Vila do Conde, Mindelo  ",House,  110 m2 ,  2 ,  2 
+624, 269 900 € ," Porto -   Vila do Conde, Guilhabreu  ",House,  145 m2 ,  3 ,  4 
+625, 299 500 € ," Porto -   Penafiel, Capela  ",House,  211 m2 ,  2 ,  3 
+626, 305 000 € ," Porto -   Vila Nova de Gaia, Pedroso e Seixezelo  ",House,  215 m2 ,  2 ,  4 
+627, 250 000 € ," Porto -   Maia, Castêlo da Maia  ",House,  201 m2 ,  0 ,  2 
+628, 525 000 € ," Porto -   Maia, Moreira  ",House,  443 m2 ,  5 ,  4 
+629, 690 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  718 m2 ,  9 ,  4 
+630, 320 000 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  117 m2 ,  4 ,  5 
+631, 144 900 € ," Porto -   Amarante, Telões  ",House,  102 m2 ,  2 ,  3 
+632, 129 000 € ," Porto -   Santo Tirso, Aves  ",House,  212 m2 ,  2 ,  3 
+633, 350 000 € ," Porto -   Maia, Vila Nova da Telha  ",House,  343 m2 ,  4 ,  3 
+634, 590 000 € ," Porto -   Amarante, Amarante (São Gonçalo), Madalena, Cepelos e Gatão  ",House,  310 m2 ,  4 ,  4 
+635, 430 000 € ," Porto -   Vila Nova de Gaia, Serzedo e Perosinho  ",House,  192 m2 ,  4 ,  4 
+636, 120 000 € ," Porto -   Porto, Campanhã  ",House,  50 m2 ,  0 ,  3 
+637, 195 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  435 m2 ,  2 ,  4 
+638, 165 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  254 m2 ,  2 ,  3 
+639, 1 150 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  184 m2 ,  4 ,  4 
+640, 225 000 € ," Porto -   Paredes, Rebordosa  ",House,  145 m2 ,  3 ,  4 
+641, 159 000 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  283 m2 ,  1 ,  2 
+642, 96 500 € ," Porto -   Felgueiras, Pinheiro  ",House,  263 m2 ,  1 ,  3 
+643, 255 000 € ," Porto -   Maia, Castêlo da Maia  ",House,  195 m2 ,  3 ,  3 
+644, 362 500 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  290 m2 ,  4 ,  4 
+645, 785 000 € ," Porto -   Porto, Bonfim  ",House,  322 m2 ,  5 ,  3 
+646, 470 000 € ," Porto -   Vila Nova de Gaia, Canelas  ",House,  120 m2 ,  3 ,  4 
+647, 480 000 € ," Porto -   Vila Nova de Gaia, Canelas  ",House,  120 m2 ,  3 ,  4 
+648, 365 000 € ," Porto -   Maia, Nogueira e Silva Escura  ",House,  176 m2 ,  3 ,  4 
+649, 690 000 € ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",House,  190 m2 ,  4 ,  5 
+650, 155 000 € ," Porto -   Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada  ",House,  110 m2 ,  0 ,  3 
+651, 295 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  237 m2 ,  5 ,  5 
+652, 330 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  278 m2 ,  3 ,  4 
+653, 49 900 € ," Porto -   Baião, Viariz  ",House,  55 m2 ,  1 ,  2 
+654, 120 000 € ," Porto -   Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada  ",House,  66 m2 ,  1 ,  2 
+655, 787 500 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  346 m2 ,  0 ,  4 
+656, 160 000 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  46 m2 ,  1 ,  3 
+657, 179 000 € ," Porto -   Santo Tirso, Roriz  ",House,  266 m2 ,  3 ,  3 
+658, 340 000 € ," Porto -   Porto, Bonfim  ",House,  90 m2 ,  3 ,  3 
+659, 140 000 € ," Porto -   Paços de Ferreira, Ferreira  ",House,  90 m2 ,  0 ,  2 
+660, 199 000 € ," Porto -   Felgueiras, Macieira da Lixa e Caramos  ",House,  180 m2 ,  0 ,  3 
+661, 960 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  350 m2 ,  5 ,  4 
+662, 160 000 € ," Porto -   Vila Nova de Gaia, Avintes  ",House,  272 m2 ,  0 ,  2 
+663, 390 000 € ," Porto -   Amarante, Vila Chã do Marão  ",House,  290 m2 ,  7 ,  6 
+664, 39 500 € ," Porto -   Marco de Canaveses, Penhalonga e Paços de Gaiolo  ",House,  66 m2 ,  0 ,  2 
+665, 545 000 € ," Porto -   Maia, Pedrouços  ",House,  227 m2 ,  4 ,  3 
+666, 750 000 € ," Porto -   Vila Nova de Gaia, Arcozelo  ",House,  311 m2 ,  5 ,  5 
+667, 370 000 € ," Porto -   Maia, Castêlo da Maia  ",House,  296 m2 ,  4 ,  4 
+668, 530 000 € ," Porto -   Marco de Canaveses, Bem Viver  ",House,  417 m2 ,  3 ,  4 
+669, 375 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  250 m2 ,  3 ,  3 
+670, 242 000 € ," Porto -   Vila do Conde, Vila do Conde  ",House,  280 m2 ,  6 ,  5 
+671, 105 000 € ," Porto -   Marco de Canaveses, Soalhães  ",House,  150 m2 ,  0 ,  2 
+672, 249 000 € ," Porto -   Maia, Cidade da Maia  ",House,  85 m2 ,  3 ,  2 
+673, 320 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  152 m2 ,  4 ,  4 
+674, 550 000 € ," Porto -   Vila do Conde, Vilar de Pinheiro  ",House,  576 m2 ,  4 ,  4 
+675, 222 500 € ," Porto -   Vila Nova de Gaia, Pedroso e Seixezelo  ",House,  140 m2 ,  3 ,  3 
+676, 179 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  528 m2 ,  0 ,  3 
+677, 450 000 € ," Porto -   Valongo, Campo e Sobrado  ",House,  139 m2 ,  2 ,  3 
+678, 270 000 € ," Porto -   Marco de Canaveses, Bem Viver  ",House,  214 m2 ,  4 ,  6 
+679, 229 500 € ," Porto -   Felgueiras, Penacova  ",House,  255 m2 ,  4 ,  3 
+680, 130 000 € ," Porto -   Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada  ",House,  70 m2 ,  1 ,  2 
+681, 262 000 € ," Porto -   Amarante, Fregim  ",House,  156 m2 ,  3 ,  3 
+682, 1 500 000 € ," Porto -   Porto, Bonfim  ",House,  336 m2 ,  17 ,  15 
+683, 277 000 € ," Porto -   Vila Nova de Gaia, Serzedo e Perosinho  ",House,  175 m2 ,  4 ,  4 
+684, 95 000 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  93 m2 ,  0 ,  2 
+685, 769 990 € ," Porto -   Felgueiras, Refontoura  ",House,  239 m2 ,  1 ,  4 
+686, 520 000 € ," Porto -   Valongo, Alfena  ",House,  237 m2 ,  5 ,  4 
+687, 395 000 € ," Porto -   Penafiel, Penafiel  ",House,  194 m2 ,  3 ,  4 
+688, 298 000 € ," Porto -   Paredes, Vilela  ",House,  233 m2 ,  3 ,  4 
+689, 339 000 € ," Porto -   Valongo, Ermesinde  ",House,  170 m2 ,  4 ,  3 
+690, 475 000 € ," Porto -   Vila Nova de Gaia, Canidelo  ",House,  368 m2 ,  2 ,  4 
+691, 280 000 € ," Porto -   Maia, Águas Santas  ",House,  200 m2 ,  3 ,  2 
+692, 880 000 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  1243 m2 ,  6 ,  4 
+693, 390 000 € ," Porto -   Vila Nova de Gaia, Madalena  ",House,  318 m2 ,  2 ,  3 
+694, 800 000 € ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",House,  218 m2 ,  4 ,  3 
+695, 860 000 € ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",House,  206 m2 ,  4 ,  4 
+696, 845 000 € ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",House,  210 m2 ,  4 ,  4 
+697, 845 000 € ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",House,  210 m2 ,  4 ,  4 
+698, 890 000 € ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",House,  212 m2 ,  4 ,  4 
+699, 170 000 € ," Porto -   Valongo, Ermesinde  ",House,  94 m2 ,  2 ,  3 
+700, 145 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  132 m2 ,  1 ,  3 
+701, 2 400 000 € ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",House,  540 m2 ,  0 ,  17 
+702, 270 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  230 m2 ,  3 ,  3 
+703, 170 000 € ," Porto -   Baião, Frende  ",House,  265 m2 ,  0 ,  3 
+704, 280 000 € ," Porto -   Felgueiras, Pedreira, Rande e Sernande  ",House,  282 m2 ,  3 ,  3 
+705, 489 000 € ," Porto -   Trofa, Muro  ",House,  179 m2 ,  4 ,  3 
+706, 185 000 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  164 m2 ,  1 ,  3 
+707, 214 000 € ," Porto -   Vila Nova de Gaia, Oliveira do Douro  ",House,  112 m2 ,  2 ,  2 
+708, 280 000 € ," Porto -   Felgueiras, Pedreira, Rande e Sernande  ",House,  282 m2 ,  3 ,  3 
+709, 230 000 € ," Porto -   Lousada, Cristelos, Boim e Ordem  ",House,  236 m2 ,  2 ,  3 
+710, 85 000 € ," Porto -   Paços de Ferreira, Sanfins Lamoso Codessos  ",House,  156 m2 ,  1 ,  1 
+711, 360 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  243 m2 ,  3 ,  3 
+712, 1 650 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  286 m2 ,  5 ,  4 
+713, 440 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  286 m2 ,  3 ,  3 
+714, 440 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  286 m2 ,  3 ,  3 
+715, 440 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  286 m2 ,  3 ,  3 
+716, 440 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  286 m2 ,  3 ,  3 
+717, 440 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  286 m2 ,  3 ,  3 
+718, 440 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  286 m2 ,  3 ,  3 
+719, 440 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  286 m2 ,  3 ,  3 
+720, 460 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  286 m2 ,  3 ,  3 
+721, 440 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  286 m2 ,  3 ,  3 
+722, 440 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  286 m2 ,  3 ,  3 
+723, 440 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  286 m2 ,  3 ,  3 
+724, 460 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  286 m2 ,  3 ,  3 
+725, 460 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  286 m2 ,  3 ,  3 
+726, 440 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  286 m2 ,  3 ,  3 
+727, 460 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  286 m2 ,  3 ,  3 
+728, 36 000 € ," Porto -   Paredes, Paredes  ",House,  47 m2 ,  0 ,  0 
+729, 299 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  211 m2 ,  3 ,  3 
+730, 41 000 € ," Porto -   Felgueiras, Torrados e Sousa  ",House,  178 m2 ,  0 ,  2 
+731, 52 500 € ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",House,  34 m2 ,  0 ,  1 
+732, 315 000 € ," Porto -   Porto, Ramalde  ",House,  224 m2 ,  4 ,  4 
+733, 37 500 € ," Porto -   Baião, Loivos da Ribeira e Tresouras  ",House,  107 m2 ,  1 ,  2 
+734, 490 000 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  285 m2 ,  0 ,  3 
+735, 399 000 € ," Porto -   Vila Nova de Gaia, Avintes  ",House,  299 m2 ,  6 ,  6 
+736, 22 500 € ," Porto -   Baião, Santa Cruz do Douro e São Tomé de Covelas  ",House,  40 m2 ,  0 ,  1 
+737, 190 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  88 m2 ,  2 ,  3 
+738, 270 000 € ," Porto -   Vila Nova de Gaia, Canidelo  ",House,  154 m2 ,  2 ,  4 
+739, 250 000 € ," Porto -   Vila Nova de Gaia, Canidelo  ",House,  126 m2 ,  2 ,  3 
+740, 288 530 € ," Porto -   Trofa, Bougado (São Martinho e Santiago)  ",House,  277 m2 ,  3 ,  3 
+741, 283 284 € ," Porto -   Trofa, Bougado (São Martinho e Santiago)  ",House,  261 m2 ,  3 ,  3 
+742, 277 050 € ," Porto -   Trofa, Bougado (São Martinho e Santiago)  ",House,  252 m2 ,  3 ,  3 
+743, 299 022 € ," Porto -   Trofa, Bougado (São Martinho e Santiago)  ",House,  283 m2 ,  3 ,  3 
+744, 356 728 € ," Porto -   Trofa, Bougado (São Martinho e Santiago)  ",House,  286 m2 ,  3 ,  3 
+745, 212 500 € ," Porto -   Marco de Canaveses, Bem Viver  ",House,  62 m2 ,  2 ,  3 
+746, 220 000 € ," Porto -   Maia, Nogueira e Silva Escura  ",House,  101 m2 ,  2 ,  3 
+747, 220 000 € ," Porto -   Maia, Nogueira e Silva Escura  ",House,  114 m2 ,  2 ,  3 
+748, 220 000 € ," Porto -   Maia, Nogueira e Silva Escura  ",House,  101 m2 ,  2 ,  3 
+749, 220 000 € ," Porto -   Maia, Nogueira e Silva Escura  ",House,  114 m2 ,  2 ,  3 
+750, 230 000 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  160 m2 ,  2 ,  3 
+751, 255 500 € ," Porto -   Penafiel, Guilhufe e Urrô  ",House,  275 m2 ,  4 ,  7 
+752, 140 000 € ," Porto -   Valongo, Ermesinde  ",House,  55 m2 ,  1 ,  1 
+753, 295 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  98 m2 ,  2 ,  2 
+754, 580 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  162 m2 ,  2 ,  2 
+755, 247 500 € ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",House,  424 m2 ,  4 ,  12 
+756, 790 000 € ," Porto -   Vila Nova de Gaia, Madalena  ",House,  368 m2 ,  4 ,  4 
+757, 420 000 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  273 m2 ,  3 ,  5 
+758, 450 000 € ," Porto -   Felgueiras, Torrados e Sousa  ",House,  433 m2 ,  3 ,  4 
+759, 310 000 € ," Porto -   Valongo, Alfena  ",House,  192 m2 ,  3 ,  3 
+760, 325 000 € ," Porto -   Póvoa de Varzim, Estela  ",House,  259 m2 ,  6 ,  3 
+761, 429 900 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  210 m2 ,  4 ,  4 
+762, 260 000 € ," Porto -   Valongo, Alfena  ",House,  241 m2 ,  4 ,  3 
+763, 1 300 000 € ," Porto -   Póvoa de Varzim, Póvoa de Varzim, Beiriz e Argivai  ",House,  574 m2 ,  4 ,  11 
+764, 225 000 € ," Porto -   Vila Nova de Gaia, Pedroso e Seixezelo  ",House,  168 m2 ,  2 ,  4 
+765, 325 000 € ," Porto -   Baião, Santa Marinha do Zêzere  ",House,  184 m2 ,  2 ,  3 
+766, 665 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  499 m2 ,  4 ,  3 
+767, 105 000 € ," Porto -   Paredes, Cete  ",House,  144 m2 ,  0 ,  3 
+768, 150 000 € ," Porto -   Trofa, Coronado (São Romão e São Mamede)  ",House,  92 m2 ,  1 ,  2 
+769, 155 000 € ," Porto -   Vila Nova de Gaia, Avintes  ",House,  120 m2 ,  0 ,  2 
+770, 249 900 € ," Porto -   Maia, Castêlo da Maia  ",House,  90 m2 ,  2 ,  3 
+771, 266 000 € ," Porto -   Maia, Águas Santas  ",House,  192 m2 ,  2 ,  4 
+772, 265 000 € ," Porto -   Porto, Ramalde  ",House,  120 m2 ,  1 ,  3 
+773, 420 000 € ," Porto -   Porto, Paranhos  ",House,  285 m2 ,  3 ,  5 
+774, 599 990 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  200 m2 ,  2 ,  3 
+775, 200 000 € ," Porto -   Porto, Ramalde  ",House,  45 m2 ,  0 ,  3 
+776, 499 990 € ," Porto -   Felgueiras, Vila Cova da Lixa e Borba de Godim  ",House,  80 m2 ,  0 ,  1 
+777, 375 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  95 m2 ,  1 ,  2 
+778, 375 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  98 m2 ,  1 ,  2 
+779, 395 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  135 m2 ,  1 ,  2 
+780, 165 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  61 m2 ,  1 ,  2 
+781, 332 500 € ," Porto -   Gondomar, Rio Tinto  ",House,  125 m2 ,  2 ,  3 
+782, 430 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  372 m2 ,  5 ,  5 
+783, 160 000 € ," Porto -   Felgueiras, Pombeiro de Ribavizela  ",House,  218 m2 ,  2 ,  3 
+784, 132 500 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  55 m2 ,  1 ,  2 
+785, 295 000 € ," Porto -   Vila Nova de Gaia, Madalena  ",House,  89 m2 ,  1 ,  3 
+786, 750 000 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  4632 m2 ,  0 ,  5 
+787, 55 000 € ," Porto -   Penafiel, Valpedre  ",House,  84 m2 ,  0 ,  3 
+788, 240 000 € ," Porto -   Maia, Cidade da Maia  ",House,  124 m2 ,  2 ,  3 
+789, 205 000 € ," Porto -   Felgueiras, Regilde  ",House,  155 m2 ,  3 ,  3 
+790, 210 000 € ," Porto -   Felgueiras, Regilde  ",House,  160 m2 ,  3 ,  3 
+791, 132 500 € ," Porto -   Marco de Canaveses, Avessadas e Rosém  ",House,  280 m2 ,  2 ,  3 
+792, 149 900 € ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",House,  29 m2 ,  1 ,  1 
+793, 173 000 € ," Porto -   Marco de Canaveses, Soalhães  ",House,  80 m2 ,  2 ,  3 
+794, 337 500 € ," Porto -   Porto, Bonfim  ",House,  240 m2 ,  2 ,  4 
+795, 65 000 € ," Porto -   Baião, Loivos da Ribeira e Tresouras  ",House,  140 m2 ,  2 ,  3 
+796, 1 995 000 € ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",House,  600 m2 ,  5 ,  21 
+797, 190 000 € ," Porto -   Porto, Campanhã  ",House,  61 m2 ,  1 ,  3 
+798, 265 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  250 m2 ,  2 ,  3 
+799, 378 500 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  360 m2 ,  0 ,  3 
+800, 45 000 € ," Porto -   Penafiel, Penafiel  ",House,  92 m2 ,  0 ,  3 
+801, 110 000 € ," Porto -   Paços de Ferreira, Freamunde  ",House,  117 m2 ,  0 ,  2 
+802, 275 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  240 m2 ,  2 ,  4 
+803, 375 000 € ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",House,  166 m2 ,  3 ,  3 
+804, 665 000 € ," Porto -   Vila Nova de Gaia, Arcozelo  ",House,  360 m2 ,  3 ,  5 
+805, 149 900 € ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",House,  29 m2 ,  1 ,  1 
+806, 580 000 € ," Porto -   Paços de Ferreira, Sanfins Lamoso Codessos  ",House,  426 m2 ,  5 ,  3 
+807, 129 000 € ," Porto -   Paredes, Lordelo  ",House,  143 m2 ,  1 ,  4 
+808, 235 000 € ," Porto -   Felgueiras, Airães  ",House,  180 m2 ,  3 ,  3 
+809, 340 000 € ," Porto -   Vila Nova de Gaia, Madalena  ",House,  195 m2 ,  0 ,  4 
+810, 250 000 € ," Porto -   Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada  ",House,  62 m2 ,  0 ,  2 
+811, 260 000 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  160 m2 ,  0 ,  4 
+812, 42 000 € ," Porto -   Penafiel, Guilhufe e Urrô  ",House,  76 m2 ,  0 ,  2 
+813, 330 000 € ," Porto -   Maia, Vila Nova da Telha  ",House,  184 m2 ,  4 ,  4 
+814, 150 000 € ," Porto -   Amarante, Padronelo  ",House,  56 m2 ,  0 ,  2 
+815, 399 000 € ," Porto -   Vila Nova de Gaia, Pedroso e Seixezelo  ",House,  204 m2 ,  3 ,  3 
+816, 350 000 € ," Porto -   Penafiel, Termas de São Vicente  ",House,  258 m2 ,  0 ,  3 
+817, 42 500 € ," Porto -   Paredes, Paredes  ",House,  65 m2 ,  1 ,  1 
+818, 350 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  207 m2 ,  2 ,  4 
+819, 135 000 € ," Porto -   Penafiel, Croca  ",House,  100 m2 ,  1 ,  2 
+820, 125 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  90 m2 ,  1 ,  4 
+821, 64 900 € ," Porto -   Santo Tirso, Roriz  ",House,  60 m2 ,  2 ,  3 
+822, 110 000 € ," Porto -   Valongo, Ermesinde  ",House,  303 m2 ,  0 ,  10 
+823, 311 000 € ," Porto -   Vila do Conde, Malta e Canidelo  ",House,  184 m2 ,  1 ,  2 
+824, 289 000 € ," Porto -   Vila do Conde, Malta e Canidelo  ",House,  190 m2 ,  2 ,  2 
+825, 309 000 € ," Porto -   Vila do Conde, Malta e Canidelo  ",House,  210 m2 ,  2 ,  3 
+826, 309 000 € ," Porto -   Vila do Conde, Malta e Canidelo  ",House,  212 m2 ,  2 ,  3 
+827, 343 000 € ," Porto -   Vila do Conde, Malta e Canidelo  ",House,  250 m2 ,  2 ,  4 
+828, 354 000 € ," Porto -   Vila do Conde, Malta e Canidelo  ",House,  263 m2 ,  2 ,  3 
+829, 343 000 € ," Porto -   Vila do Conde, Malta e Canidelo  ",House,  248 m2 ,  2 ,  4 
+830, 230 000 € ," Porto -   Lousada, Cristelos, Boim e Ordem  ",House,  368 m2 ,  2 ,  5 
+831, 350 000 € ," Porto -   Vila Nova de Gaia, Serzedo e Perosinho  ",House,  186 m2 ,  0 ,  4 
+832, 410 000 € ," Porto -   Penafiel, São Mamede Recezinhos  ",House,  229 m2 ,  2 ,  3 
+833, 69 000 € ," Porto -   Lousada, Silvares, Pias, Nogueira e Alvarenga  ",House,  164 m2 ,  0 ,  2 
+834, 490 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  543 m2 ,  3 ,  3 
+835, 160 000 € ," Porto -   Trofa, Bougado (São Martinho e Santiago)  ",House,  213 m2 ,  3 ,  4 
+836, 322 000 € ," Porto -   Vila Nova de Gaia, Pedroso e Seixezelo  ",House,  200 m2 ,  4 ,  4 
+837, 198 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  65 m2 ,  2 ,  3 
+838, 25 000 € ," Porto -   Baião, Campelo e Ovil  ",House,  30 m2 ,  1 ,  2 
+839, 199 000 € ," Porto -   Marco de Canaveses, Constance  ",House,  295 m2 ,  0 ,  4 
+840, 750 000 € ," Porto -   Gondomar, Foz do Sousa e Covelo  ",House,  180 m2 ,  3 ,  3 
+841, 215 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  223 m2 ,  3 ,  3 
+842, 80 000 € ," Porto -   Penafiel, Lagares e Figueira  ",House,  133 m2 ,  1 ,  3 
+843, 166 000 € ," Porto -   Marco de Canaveses, Penhalonga e Paços de Gaiolo  ",House,  338 m2 ,  0 ,  6 
+844, 65 000 € ," Porto -   Baião, Santa Cruz do Douro e São Tomé de Covelas  ",House,  200 m2 ,  0 ,  2 
+845, 332 500 € ," Porto -   Baião, Ancede e Ribadouro  ",House,  152 m2 ,  0 ,  3 
+846, 1 450 000 € ," Porto -   Vila Nova de Gaia, Canidelo  ",House,  300 m2 ,  5 ,  3 
+847, 482 000 € ," Porto -   Amarante, Figueiró (Santiago e Santa Cristina)  ",House,  840 m2 ,  0 ,  4 
+848, 305 000 € ," Porto -   Póvoa de Varzim, Laúndos  ",House,  243 m2 ,  4 ,  5 
+849, 299 000 € ," Porto -   Vila Nova de Gaia, Sandim, Olival, Lever e Crestuma  ",House,  260 m2 ,  2 ,  2 
+850, 450 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  249 m2 ,  4 ,  3 
+851, 287 500 € ," Porto -   Trofa, Bougado (São Martinho e Santiago)  ",House,  131 m2 ,  2 ,  3 
+852, 180 000 € ," Porto -   Porto, Ramalde  ",House,  213 m2 ,  0 ,  2 
+853, 3 500 000 € ," Porto -   Vila Nova de Gaia, Canidelo  ",House,  412 m2 ,  4 ,  4 
+854, 75 000 € ," Porto -   Valongo, Alfena  ",House,  55 m2 ,  1 ,  1 
+855, 370 000 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  240 m2 ,  4 ,  3 
+856, 259 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  102 m2 ,  2 ,  2 
+857, 750 000 € ," Porto -   Paredes, Paredes  ",House,  721 m2 ,  5 ,  6 
+858, 125 000 € ," Porto -   Felgueiras, Vila Fria e Vizela (São Jorge)  ",House,  267 m2 ,  2 ,  4 
+859, 79 000 € ," Porto -   Marco de Canaveses, Sande e São Lourenço  ",House,  118 m2 ,  0 ,  3 
+860, 79 000 € ," Porto -   Marco de Canaveses, Penhalonga e Paços de Gaiolo  ",House,  50 m2 ,  0 ,  2 
+861, 775 000 € ," Porto -   Porto, Bonfim  ",House,  212 m2 ,  5 ,  5 
+862, 215 000 € ," Porto -   Amarante, Vila Meã  ",House,  200 m2 ,  4 ,  4 
+863, 700 000 € ," Porto -   Penafiel, Penafiel  ",House,  268 m2 ,  5 ,  5 
+864, 250 000 € ," Porto -   Porto, Paranhos  ",House,  170 m2 ,  2 ,  4 
+865, 790 000 € ," Porto -   Paços de Ferreira, Figueiró  ",House,  254 m2 ,  7 ,  5 
+866, 384 500 € ," Porto -   Paredes, Sobreira  ",House,  225 m2 ,  3 ,  3 
+867, 1 500 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  336 m2 ,  6 ,  5 
+868, 99 500 € ," Porto -   Amarante, Padronelo  ",House,  120 m2 ,  0 ,  4 
+869, 695 000 € ," Porto -   Porto, Paranhos  ",House,  312 m2 ,  3 ,  5 
+870, 218 405 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  251 m2 ,  2 ,  7 
+871, 420 000 € ," Porto -   Paredes, Rebordosa  ",House,  129 m2 ,  3 ,  3 
+872, 17 500 € ," Porto -   Marco de Canaveses, Sande e São Lourenço  ",House,  34 m2 ,  0 ,  0 
+873, 325 000 € ," Porto -   Valongo, Campo e Sobrado  ",House,  251 m2 ,  4 ,  3 
+874, 296 000 € ," Porto -   Porto, Campanhã  ",House,  105 m2 ,  2 ,  3 
+875, 375 000 € ," Porto -   Paredes, Paredes  ",House,  200 m2 ,  0 ,  4 
+876, 32 000 € ," Porto -   Penafiel, Bustelo  ",House,  65 m2 ,  0 ,  0 
+877, 499 000 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  224 m2 ,  4 ,  4 
+878, 120 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  103 m2 ,  1 ,  2 
+879, 42 000 € ," Porto -   Lousada, Caíde de Rei  ",House,  47 m2 ,  1 ,  2 
+880, 538 500 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  313 m2 ,  5 ,  4 
+881, 300 000 € ," Porto -   Paços de Ferreira, Freamunde  ",House,  238 m2 ,  1 ,  3 
+882, 270 000 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  168 m2 ,  2 ,  3 
+883, 350 000 € ," Porto -   Vila Nova de Gaia, Oliveira do Douro  ",House,  139 m2 ,  3 ,  3 
+884, 320 000 € ," Porto -   Vila Nova de Gaia, Oliveira do Douro  ",House,  135 m2 ,  3 ,  3 
+885, 345 000 € ," Porto -   Vila Nova de Gaia, Oliveira do Douro  ",House,  139 m2 ,  3 ,  3 
+886, 89 000 € ," Porto -   Porto, Campanhã  ",House,  44 m2 ,  0 ,  2 
+887, 100 000 € ," Porto -   Lousada, Cristelos, Boim e Ordem  ",House,  28 m2 ,  0 ,  1 
+888, 160 000 € ," Porto -   Santo Tirso, Rebordões  ",House,  252 m2 ,  0 ,  2 
+889, 750 000 € ," Porto -   Lousada, Lustosa e Barrosas (Santo Estêvão)  ",House,  454 m2 ,  6 ,  5 
+890, 280 000 € ," Porto -   Vila Nova de Gaia, Pedroso e Seixezelo  ",House,  158 m2 ,  2 ,  3 
+891, 350 000 € ," Porto -   Valongo, Alfena  ",House,  277 m2 ,  5 ,  4 
+892, 329 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  367 m2 ,  3 ,  4 
+893, 330 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  190 m2 ,  2 ,  4 
+894, 240 000 € ," Porto -   Maia, Vila Nova da Telha  ",House,  202 m2 ,  1 ,  6 
+895, 365 000 € ," Porto -   Vila do Conde, Vila Chã  ",House,  286 m2 ,  3 ,  3 
+896, 290 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  219 m2 ,  0 ,  4 
+897, 56 500 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  80 m2 ,  0 ,  2 
+898, 900 000 € ," Porto -   Porto, Bonfim  ",House,  294 m2 ,  2 ,  5 
+899, 255 000 € ," Porto -   Penafiel, Eja  ",House,  432 m2 ,  5 ,  6 
+900, 297 500 € ," Porto -   Amarante, Fregim  ",House,  250 m2 ,  3 ,  3 
+901, 200 000 € ," Porto -   Amarante, Louredo  ",House,  259 m2 ,  3 ,  3 
+902, 55 000 € ," Porto -   Lousada, Figueiras e Covas  ",House,  49 m2 ,  1 ,  1 
+903, 295 000 € ," Porto -   Marco de Canaveses, Várzea, Aliviada e Folhada  ",House,  275 m2 ,  2 ,  4 
+904, 423 100 € ," Porto -   Paredes, Lordelo  ",House,  263 m2 ,  0 ,  3 
+905, 155 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  112 m2 ,  2 ,  3 
+906, 750 000 € ," Porto -   Gondomar, Baguim do Monte  ",House,  345 m2 ,  5 ,  5 
+907, 26 500 € ," Porto -   Baião, Santa Cruz do Douro e São Tomé de Covelas  ",House,  73 m2 ,  0 ,  1 
+908, 59 000 € ," Porto -   Penafiel, São Martinho Recezinhos  ",House,  293 m2 ,  0 ,  5 
+909, 599 000 € ," Porto -   Gondomar, Foz do Sousa e Covelo  ",House,  161 m2 ,  0 ,  4 
+910, 650 000 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  324 m2 ,  2 ,  3 
+911, 309 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  200 m2 ,  3 ,  3 
+912, 474 000 € ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",House,  191 m2 ,  0 ,  4 
+913, 90 000 € ," Porto -   Felgueiras, Aião  ",House,  480 m2 ,  2 ,  3 
+914, 740 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  264 m2 ,  5 ,  4 
+915, 377 500 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  241 m2 ,  4 ,  5 
+916, 45 000 € ," Porto -   Baião, Santa Cruz do Douro e São Tomé de Covelas  ",House,  75 m2 ,  1 ,  4 
+917, 1 535 000 € ," Porto -   Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada  ",House,  1050 m2 ,  8 ,  4 
+918, 375 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  183 m2 ,  2 ,  3 
+919, 250 000 € ," Porto -   Maia, Pedrouços  ",House,  103 m2 ,  1 ,  2 
+920, 720 000 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  366 m2 ,  3 ,  4 
+921, 96 500 € ," Porto -   Amarante, Figueiró (Santiago e Santa Cristina)  ",House,  109 m2 ,  1 ,  2 
+922, 210 000 € ," Porto -   Felgueiras, Sendim  ",House,  295 m2 ,  2 ,  3 
+923, 210 000 € ," Porto -   Felgueiras, Sendim  ",House,  295 m2 ,  2 ,  3 
+924, 225 000 € ," Porto -   Felgueiras, Sendim  ",House,  295 m2 ,  2 ,  3 
+925, 225 000 € ," Porto -   Felgueiras, Sendim  ",House,  295 m2 ,  2 ,  3 
+926, 153 000 € ," Porto -   Maia, Folgosa  ",House,  213 m2 ,  1 ,  3 
+927, 420 000 € ," Porto -   Porto, Campanhã  ",House,  115 m2 ,  2 ,  3 
+928, 335 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  166 m2 ,  3 ,  3 
+929, 950 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  322 m2 ,  4 ,  4 
+930, 175 000 € ," Porto -   Penafiel, Guilhufe e Urrô  ",House,  96 m2 ,  1 ,  3 
+931, 280 000 € ," Porto -   Maia, Moreira  ",House,  412 m2 ,  3 ,  3 
+932, 565 000 € ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",House,  127 m2 ,  3 ,  3 
+933, 750 000 € ," Porto -   Vila do Conde, Azurara  ",House,  325 m2 ,  3 ,  4 
+934, 1 100 000 € ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",House,  218 m2 ,  5 ,  5 
+935, 44 500 € ," Porto -   Felgueiras, Macieira da Lixa e Caramos  ",House,  110 m2 ,  0 ,  2 
+936, 550 000 € ," Porto -   Vila Nova de Gaia, Arcozelo  ",House,  244 m2 ,  4 ,  4 
+937, 165 000 € ," Porto -   Paredes, Paredes  ",House,  153 m2 ,  0 ,  3 
+938, 74 000 € ," Porto -   Marco de Canaveses, Marco  ",House,  32 m2 ,  0 ,  2 
+939, 299 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  117 m2 ,  4 ,  3 
+940, 499 000 € ," Porto -   Felgueiras, Pinheiro  ",House,  477 m2 ,  3 ,  5 
+941, 82 000 € ," Porto -   Felgueiras, Vila Verde e Santão  ",House,  455 m2 ,  0 ,  4 
+942, price on request ," Porto -   Baião, Ancede e Ribadouro  ",House,  700 m2 ,  4 ,  4 
+943, 219 500 € ," Porto -   Valongo, Ermesinde  ",House,  111 m2 ,  1 ,  2 
+944, 169 000 € ," Porto -   Felgueiras, Idães  ",House,  280 m2 ,  1 ,  3 
+945, 129 000 € ," Porto -   Marco de Canaveses, Penhalonga e Paços de Gaiolo  ",House,  96 m2 ,  0 ,  2 
+946, 270 000 € ," Porto -   Amarante, Amarante (São Gonçalo), Madalena, Cepelos e Gatão  ",House,  153 m2 ,  2 ,  2 
+947, 199 500 € ," Porto -   Penafiel, Penafiel  ",House,  116 m2 ,  4 ,  3 
+948, 112 500 € ," Porto -   Porto, Campanhã  ",House,  68 m2 ,  0 ,  3 
+949, 480 000 € ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",House,  252 m2 ,  5 ,  4 
+950, 315 000 € ," Porto -   Trofa, Muro  ",House,  252 m2 ,  3 ,  4 
+951, 66 500 € ," Porto -   Felgueiras, Macieira da Lixa e Caramos  ",House,  200 m2 ,  0 ,  3 
+952, 65 000 € ," Porto -   Baião, Ancede e Ribadouro  ",House,  104 m2 ,  2 ,  3 
+953, 52 500 € ," Porto -   Baião, Santa Marinha do Zêzere  ",House,  86 m2 ,  1 ,  2 
+954, 265 000 € ," Porto -   Lousada, Macieira  ",House,  369 m2 ,  3 ,  3 
+955, 260 000 € ," Porto -   Lousada, Nespereira e Casais  ",House,  297 m2 ,  3 ,  3 
+956, 245 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  91 m2 ,  3 ,  3 
+957, 760 000 € ," Porto -   Porto, Bonfim  ",House,  264 m2 ,  1 ,  8 
+958, 255 000 € ," Porto -   Lousada, Macieira  ",House,  326 m2 ,  3 ,  3 
+959, 265 000 € ," Porto -   Lousada, Macieira  ",House,  346 m2 ,  3 ,  3 
+960, 255 000 € ," Porto -   Lousada, Macieira  ",House,  345 m2 ,  3 ,  3 
+961, 255 000 € ," Porto -   Lousada, Macieira  ",House,  369 m2 ,  3 ,  3 
+962, 2 825 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  415 m2 ,  6 ,  5 
+963, 1 990 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  271 m2 ,  5 ,  4 
+964, 2 724 540 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  419 m2 ,  6 ,  5 
+965, 490 000 € ," Porto -   Marco de Canaveses, Várzea, Aliviada e Folhada  ",House,  400 m2 ,  4 ,  4 
+966, 439 000 € ," Porto -   Maia, Nogueira e Silva Escura  ",House,  481 m2 ,  5 ,  4 
+967, 295 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  84 m2 ,  2 ,  3 
+968, 480 000 € ," Porto -   Maia, Cidade da Maia  ",House,  249 m2 ,  4 ,  6 
+969, 68 000 € ," Porto -   Baião, Campelo e Ovil  ",House,  102 m2 ,  1 ,  2 
+970, 800 000 € ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",House,  202 m2 ,  4 ,  6 
+971, 160 000 € ," Porto -   Maia, Castêlo da Maia  ",House,  110 m2 ,  2 ,  3 
+972, 54 000 € ," Porto -   Baião, Baião (Santa Leocádia) e Mesquinhata  ",House,  42 m2 ,  1 ,  2 
+973, 200 000 € ," Porto -   Baião, Santa Marinha do Zêzere  ",House,  225 m2 ,  1 ,  3 
+974, 260 000 € ," Porto -   Vila Nova de Gaia, Oliveira do Douro  ",House,  139 m2 ,  4 ,  3 
+975, 160 000 € ," Porto -   Baião, Frende  ",House,  300 m2 ,  2 ,  3 
+976, 1 200 000 € ," Porto -   Maia, Moreira  ",House,  1051 m2 ,  8 ,  7 
+977, 209 000 € ," Porto -   Felgueiras, Friande  ",House,  195 m2 ,  3 ,  3 
+978, 650 000 € ," Porto -   Porto, Paranhos  ",House,  282 m2 ,  2 ,  5 
+979, 225 000 € ," Porto -   Porto, Campanhã  ",House,  197 m2 ,  4 ,  4 
+980, 360 000 € ," Porto -   Penafiel, Fonte Arcada  ",House,  260 m2 ,  3 ,  4 
+981, 255 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  108 m2 ,  2 ,  2 
+982, 165 000 € ," Porto -   Santo Tirso, Rebordões  ",House,  113 m2 ,  0 ,  3 
+983, 215 000 € ," Porto -   Santo Tirso, Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães  ",House,  107 m2 ,  2 ,  4 
+984, 130 000 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  130 m2 ,  0 ,  4 
+985, 330 000 € ," Porto -   Gondomar, Baguim do Monte  ",House,  195 m2 ,  0 ,  3 
+986, 850 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  231 m2 ,  4 ,  3 
+987, 390 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  189 m2 ,  4 ,  4 
+988, 565 000 € ," Porto -   Vila Nova de Gaia, Arcozelo  ",House,  340 m2 ,  12 ,  4 
+989, 630 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  174 m2 ,  4 ,  4 
+990, 299 000 € ," Porto -   Vila Nova de Gaia, Canidelo  ",House,  162 m2 ,  2 ,  2 
+991, 279 000 € ," Porto -   Vila Nova de Gaia, Serzedo e Perosinho  ",House,  180 m2 ,  5 ,  5 
+992, 86 500 € ," Porto -   Felgueiras, Pinheiro  ",House,  124 m2 ,  0 ,  3 
+993, 395 000 € ," Porto -   Porto, Paranhos  ",House,  150 m2 ,  2 ,  4 
+994, 285 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  180 m2 ,  2 ,  3 
+995, 890 000 € ," Porto -   Póvoa de Varzim, Laúndos  ",House,  844 m2 ,  7 ,  5 
+996, 360 000 € ," Porto -   Valongo, Valongo  ",House,  262 m2 ,  3 ,  4 
+997, 295 000 € ," Porto -   Valongo, Valongo  ",House,  172 m2 ,  4 ,  3 
+998, 395 000 € ," Porto -   Gondomar, Baguim do Monte  ",House,  270 m2 ,  4 ,  4 
+999, 175 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  249 m2 ,  2 ,  3 
+1000, 490 000 € ," Porto -   Porto, Paranhos  ",House,  468 m2 ,  2 ,  4 
+1001, 299 000 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  140 m2 ,  0 ,  3 
+1002, 1 166 000 € ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",House,  347 m2 ,  0 ,  3 
+1003, 1 272 000 € ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",House,  371 m2 ,  0 ,  4 
+1004, 1 219 000 € ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",House,  360 m2 ,  0 ,  3 
+1005, 23 000 € ," Porto -   Baião, Ancede e Ribadouro  ",House,  50 m2 ,  0 ,  2 
+1006, 855 000 € ," Porto -   Maia, Moreira  ",House,  287 m2 ,  4 ,  4 
+1007, 170 000 € ," Porto -   Felgueiras, Airães  ",House,  139 m2 ,  2 ,  6 
+1008, 595 000 € ," Porto -   Porto, Campanhã  ",House,  203 m2 ,  5 ,  4 
+1009, 448 500 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  200 m2 ,  4 ,  4 
+1010, 145 000 € ," Porto -   Marco de Canaveses, Alpendorada, Várzea e Torrão  ",House,  90 m2 ,  2 ,  3 
+1011, 435 000 € ," Porto -   Vila Nova de Gaia, Serzedo e Perosinho  ",House,  228 m2 ,  4 ,  4 
+1012, 34 000 € ," Porto -   Marco de Canaveses, Banho e Carvalhosa  ",House,  54 m2 ,  0 ,  0 
+1013, 360 000 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  252 m2 ,  3 ,  3 
+1014, 360 000 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  297 m2 ,  3 ,  3 
+1015, 144 500 € ," Porto -   Gondomar, Baguim do Monte  ",House,  99 m2 ,  1 ,  1 
+1016, 220 000 € ," Porto -   Vila Nova de Gaia, Pedroso e Seixezelo  ",House,  113 m2 ,  3 ,  4 
+1017, 185 000 € ," Porto -   Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada  ",House,  133 m2 ,  0 ,  4 
+1018, 145 000 € ," Porto -   Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada  ",House,  95 m2 ,  0 ,  3 
+1019, 55 000 € ," Porto -   Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada  ",House,  38 m2 ,  0 ,  1 
+1020, 750 000 € ," Porto -   Porto, Bonfim  ",House,  200 m2 ,  4 ,  6 
+1021, 950 000 € ," Porto -   Maia, Nogueira e Silva Escura  ",House,  319 m2 ,  4 ,  4 
+1022, 199 000 € ," Porto -   Maia, Folgosa  ",House,  315 m2 ,  3 ,  6 
+1023, 699 000 € ," Porto -   Porto, Paranhos  ",House,  210 m2 ,  7 ,  5 
+1024, 99 500 € ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",House,  37 m2 ,  2 ,  4 
+1025, 1 400 000 € ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",House,  789 m2 ,  7 ,  7 
+1026, 880 000 € ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",House,  228 m2 ,  5 ,  4 
+1027, 1 490 000 € ," Porto -   Vila Nova de Gaia, Canidelo  ",House,  373 m2 ,  5 ,  3 
+1028, 1 490 000 € ," Porto -   Vila Nova de Gaia, Canidelo  ",House,  373 m2 ,  5 ,  3 
+1029, 300 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  220 m2 ,  2 ,  3 
+1030, 497 500 € ," Porto -   Porto, Paranhos  ",House,  187 m2 ,  3 ,  2 
+1031, 1 100 000 € ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",House,  261 m2 ,  4 ,  3 
+1032, 124 600 € ," Porto -   Amarante, Gondar  ",House,  232 m2 ,  0 ,  4 
+1033, 535 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  284 m2 ,  3 ,  10 
+1034, 180 000 € ," Porto -   Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada  ",House,  282 m2 ,  2 ,  3 
+1035, 950 000 € ," Porto -   Valongo, Ermesinde  ",House,  265 m2 ,  5 ,  4 
+1036, 171 000 € ," Porto -   Amarante, Figueiró (Santiago e Santa Cristina)  ",House,  303 m2 ,  2 ,  4 
+1037, 950 000 € ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",House,  489 m2 ,  0 ,  6 
+1038, 650 000 € ," Porto -   Penafiel, Fonte Arcada  ",House,  462 m2 ,  4 ,  4 
+1039, 209 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  437 m2 ,  2 ,  5 
+1040, 720 000 € ," Porto -   Porto, Ramalde  ",House,  330 m2 ,  0 ,  3 
+1041, 85 000 € ," Porto -   Baião, Gestaçô  ",House,  136 m2 ,  1 ,  3 
+1042, 1 350 000 € ," Porto -   Amarante, Figueiró (Santiago e Santa Cristina)  ",House,  1250 m2 ,  5 ,  5 
+1043, 78 000 € ," Porto -   Felgueiras, Aião  ",House,  116 m2 ,  0 ,  2 
+1044, 325 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  79 m2 ,  2 ,  1 
+1045, 445 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  170 m2 ,  3 ,  3 
+1046, 445 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  170 m2 ,  3 ,  3 
+1047, 505 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  170 m2 ,  3 ,  3 
+1048, 490 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  170 m2 ,  3 ,  3 
+1049, 430 000 € ," Porto -   Matosinhos, Perafita, Lavra e Santa Cruz do Bispo  ",House,  170 m2 ,  3 ,  3 
+1050, 425 000 € ," Porto -   Santo Tirso, São Tomé Negrelos  ",House,  293 m2 ,  3 ,  3 
+1051, 730 000 € ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",House,  705 m2 ,  4 ,  4 
+1052, 33 500 € ," Porto -   Lousada, Silvares, Pias, Nogueira e Alvarenga  ",House,  39 m2 ,  1 ,  1 
+1053, 209 900 € ," Porto -   Felgueiras, Airães  ",House,  367 m2 ,  4 ,  3 
+1054, 255 700 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  183 m2 ,  2 ,  3 
+1055, 74 500 € ," Porto -   Amarante, Travanca  ",House,  202 m2 ,  0 ,  4 
+1056, 87 500 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  89 m2 ,  2 ,  2 
+1057, 149 900 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  107 m2 ,  1 ,  2 
+1058, 171 000 € ," Porto -   Felgueiras, Sendim  ",House,  240 m2 ,  3 ,  6 
+1059, 300 000 € ," Porto -   Vila Nova de Gaia, Vilar de Andorinho  ",House,  361 m2 ,  2 ,  4 
+1060, 350 000 € ," Porto -   Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada  ",House,  375 m2 ,  0 ,  3 
+1061, 850 000 € ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",House,  720 m2 ,  3 ,  2 
+1062, 1 200 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  570 m2 ,  4 ,  3 
+1063, 92 500 € ," Porto -   Lousada, Vilar do Torno e Alentém  ",House,  177 m2 ,  2 ,  4 
+1064, 215 000 € ," Porto -   Póvoa de Varzim, Aver-o-Mar, Amorim e Terroso  ",House,  190 m2 ,  0 ,  4 
+1065, 440 000 € ," Porto -   Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada  ",House,  214 m2 ,  4 ,  3 
+1066, 389 000 € ," Porto -   Lousada, Figueiras e Covas  ",House,  285 m2 ,  3 ,  3 
+1067, 245 000 € ," Porto -   Trofa, Coronado (São Romão e São Mamede)  ",House,  224 m2 ,  3 ,  4 
+1068, 128 000 € ," Porto -   Paredes, Rebordosa  ",House,  91 m2 ,  0 ,  1 
+1069, 440 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  270 m2 ,  4 ,  3 
+1070, 450 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  279 m2 ,  4 ,  3 
+1071, 430 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  270 m2 ,  4 ,  3 
+1072, 660 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  412 m2 ,  4 ,  4 
+1073, 645 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  403 m2 ,  4 ,  4 
+1074, 645 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  403 m2 ,  4 ,  4 
+1075, 645 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  403 m2 ,  4 ,  4 
+1076, 520 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  325 m2 ,  4 ,  4 
+1077, 440 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  270 m2 ,  4 ,  3 
+1078, 440 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  270 m2 ,  4 ,  3 
+1079, 520 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  325 m2 ,  4 ,  4 
+1080, 440 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  270 m2 ,  4 ,  3 
+1081, 450 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  279 m2 ,  4 ,  3 
+1082, 430 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  270 m2 ,  4 ,  3 
+1083, 430 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  270 m2 ,  4 ,  3 
+1084, 660 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  413 m2 ,  4 ,  4 
+1085, 645 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  403 m2 ,  4 ,  4 
+1086, 645 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  403 m2 ,  4 ,  4 
+1087, 630 000 € ," Porto -   Vila Nova de Gaia, Madalena  ",House,  242 m2 ,  4 ,  4 
+1088, 1 500 000 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  498 m2 ,  5 ,  6 
+1089, 750 000 € ," Porto -   Santo Tirso, Areias, Sequeiró, Lama e Palmeira  ",House,  125 m2 ,  2 ,  3 
+1090, 445 000 € ," Porto -   Santo Tirso, Areias, Sequeiró, Lama e Palmeira  ",House,  125 m2 ,  2 ,  3 
+1091, 539 000 € ," Porto -   Felgueiras, Vila Verde e Santão  ",House,  1787 m2 ,  3 ,  3 
+1092, 129 000 € ," Porto -   Felgueiras, Macieira da Lixa e Caramos  ",House,  114 m2 ,  2 ,  5 
+1093, 360 000 € ," Porto -   Trofa, Bougado (São Martinho e Santiago)  ",House,  260 m2 ,  3 ,  5 
+1094, 325 000 € ," Porto -   Santo Tirso, Aves  ",House,  1627 m2 ,  5 ,  7 
+1095, 215 000 € ," Porto -   Maia, Águas Santas  ",House,  100 m2 ,  3 ,  4 
+1096, 280 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  132 m2 ,  2 ,  3 
+1097, 245 000 € ," Porto -   Paços de Ferreira, Raimonda  ",House,  215 m2 ,  2 ,  6 
+1098, 275 000 € ," Porto -   Felgueiras, Vila Cova da Lixa e Borba de Godim  ",House,  600 m2 ,  0 ,  3 
+1099, 950 000 € ," Porto -   Porto, Ramalde  ",House,  322 m2 ,  6 ,  3 
+1100, 1 250 000 € ," Porto -   Porto, Ramalde  ",House,  322 m2 ,  6 ,  3 
+1101, 1 250 000 € ," Porto -   Porto, Ramalde  ",House,  322 m2 ,  6 ,  3 
+1102, 1 250 000 € ," Porto -   Porto, Ramalde  ",House,  322 m2 ,  6 ,  3 
+1103, 1 000 000 € ," Porto -   Porto, Ramalde  ",House,  322 m2 ,  6 ,  3 
+1104, 1 100 000 € ," Porto -   Porto, Ramalde  ",House,  322 m2 ,  6 ,  3 
+1105, 225 000 € ," Porto -   Felgueiras, Unhão e Lordelo  ",House,  220 m2 ,  2 ,  3 
+1106, 445 000 € ," Porto -   Porto, Ramalde  ",House,  235 m2 ,  3 ,  4 
+1107, 65 000 € ," Porto -   Marco de Canaveses, Avessadas e Rosém  ",House,  124 m2 ,  0 ,  0 
+1108, 299 250 € ," Porto -   Gondomar, Foz do Sousa e Covelo  ",House,  117 m2 ,  1 ,  3 
+1109, 249 000 € ," Porto -   Baião, Gove  ",House,  218 m2 ,  4 ,  3 
+1110, 245 000 € ," Porto -   Paredes, Astromil  ",House,  130 m2 ,  0 ,  3 
+1111, 190 000 € ," Porto -   Baião, Campelo e Ovil  ",House,  206 m2 ,  4 ,  3 
+1112, 1 125 000 € ," Porto -   Porto, Bonfim  ",House,  430 m2 ,  8 ,  15 
+1113, 59 900 € ," Porto -   Santo Tirso, Monte Córdova  ",House,  60 m2 ,  0 ,  2 
+1114, 230 000 € ," Porto -   Marco de Canaveses, Marco  ",House,  226 m2 ,  3 ,  3 
+1115, 175 000 € ," Porto -   Valongo, Campo e Sobrado  ",House,  72 m2 ,  1 ,  3 
+1116, 310 000 € ," Porto -   Trofa, Bougado (São Martinho e Santiago)  ",House,  185 m2 ,  2 ,  3 
+1117, 345 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  626 m2 ,  4 ,  13 
+1118, 37 500 € ," Porto -   Marco de Canaveses, Vila Boa de Quires e Maureles  ",House,  66 m2 ,  1 ,  1 
+1119, 319 500 € ," Porto -   Gondomar, Fânzeres e São Pedro da Cova  ",House,  188 m2 ,  0 ,  4 
+1120, 299 999 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  150 m2 ,  3 ,  3 
+1121, 298 000 € ," Porto -   Penafiel, Cabeça Santa  ",House,  282 m2 ,  0 ,  3 
+1122, 130 000 € ," Porto -   Valongo, Alfena  ",House,  364 m2 ,  0 ,  3 
+1123, 290 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  464 m2 ,  4 ,  6 
+1124, 395 000 € ," Porto -   Maia, Castêlo da Maia  ",House,  307 m2 ,  4 ,  4 
+1125, 330 000 € ," Porto -   Vila Nova de Gaia, São Felix da Marinha  ",House,  100 m2 ,  2 ,  3 
+1126, 88 000 € ," Porto -   Vila Nova de Gaia, Sandim, Olival, Lever e Crestuma  ",House,  176 m2 ,  1 ,  2 
+1127, 71 000 € ," Porto -   Penafiel, Termas de São Vicente  ",House,  74 m2 ,  1 ,  1 
+1128, 99 000 € ," Porto -   Felgueiras, Vila Fria e Vizela (São Jorge)  ",House,  167 m2 ,  2 ,  8 
+1129, 270 000 € ," Porto -   Marco de Canaveses, Sande e São Lourenço  ",House,  190 m2 ,  3 ,  4 
+1130, 395 000 € ," Porto -   Porto, Paranhos  ",House,  119 m2 ,  4 ,  3 
+1131, 25 500 € ," Porto -   Baião, Gestaçô  ",House,  60 m2 ,  0 ,  2 
+1132, 12 500 € ," Porto -   Baião, Loivos da Ribeira e Tresouras  ",House,  60 m2 ,  0 ,  3 
+1133, 189 000 € ," Porto -   Marco de Canaveses, Banho e Carvalhosa  ",House,  133 m2 ,  2 ,  3 
+1134, 149 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  176 m2 ,  0 ,  7 
+1135, 275 000 € ," Porto -   Marco de Canaveses, Avessadas e Rosém  ",House,  285 m2 ,  3 ,  5 
+1136, 120 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  144 m2 ,  1 ,  3 
+1137, 260 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  140 m2 ,  0 ,  7 
+1138, 120 000 € ," Porto -   Marco de Canaveses, Várzea, Aliviada e Folhada  ",House,  70 m2 ,  0 ,  0 
+1139, 47 500 € ," Porto -   Baião, Valadares  ",House,  45 m2 ,  2 ,  3 
+1140, 790 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  348 m2 ,  3 ,  4 
+1141, 239 000 € ," Porto -   Felgueiras, Pombeiro de Ribavizela  ",House,  280 m2 ,  3 ,  3 
+1142, 20 000 € ," Porto -   Penafiel, Eja  ",House,  105 m2 ,  0 ,  3 
+1143, 81 000 € ," Porto -   Santo Tirso, São Tomé Negrelos  ",House,  46 m2 ,  1 ,  2 
+1144, 590 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  200 m2 ,  0 ,  9 
+1145, 250 000 € ," Porto -   Paços de Ferreira, Paços de Ferreira  ",House,  280 m2 ,  3 ,  4 
+1146, 68 000 € ," Porto -   Penafiel, Luzim e Vila Cova  ",House,  52 m2 ,  0 ,  1 
+1147, 57 000 € ," Porto -   Marco de Canaveses, Bem Viver  ",House,  53 m2 ,  0 ,  1 
+1148, 50 000 € ," Porto -   Marco de Canaveses, Várzea, Aliviada e Folhada  ",House,  106 m2 ,  0 ,  1 
+1149, 159 000 € ," Porto -   Baião, Santa Marinha do Zêzere  ",House,  157 m2 ,  3 ,  3 
+1150, 400 000 € ," Porto -   Marco de Canaveses, Alpendorada, Várzea e Torrão  ",House,  232 m2 ,  3 ,  4 
+1151, 420 000 € ," Porto -   Vila Nova de Gaia, Arcozelo  ",House,  121 m2 ,  1 ,  2 
+1152, 315 600 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  180 m2 ,  2 ,  4 
+1153, 490 000 € ," Porto -   Vila Nova de Gaia, Oliveira do Douro  ",House,  250 m2 ,  5 ,  3 
+1154, 120 000 € ," Porto -   Paredes, Recarei  ",House,  60 m2 ,  0 ,  1 
+1155, 85 000 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  40 m2 ,  0 ,  2 
+1156, 2 000 000 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  9900 m2 ,  5 ,  4 
+1157, 147 500 € ," Porto -   Felgueiras, Pombeiro de Ribavizela  ",House,  319 m2 ,  0 ,  5 
+1158, 61 500 € ," Porto -   Santo Tirso, São Tomé Negrelos  ",House,  68 m2 ,  2 ,  2 
+1159, 350 000 € ," Porto -   Paços de Ferreira, Freamunde  ",House,  384 m2 ,  3 ,  3 
+1160, 635 000 € ," Porto -   Paços de Ferreira, Frazão Arreigada  ",House,  494 m2 ,  2 ,  5 
+1161, 120 000 € ," Porto -   Porto, Ramalde  ",House,  265 m2 ,  0 ,  4 
+1162, 1 980 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  415 m2 ,  6 ,  5 
+1163, 230 000 € ," Porto -   Felgueiras, Torrados e Sousa  ",House,  330 m2 ,  0 ,  3 
+1164, 320 000 € ," Porto -   Porto, Ramalde  ",House,  102 m2 ,  0 ,  3 
+1165, 1 100 000 € ," Porto -   Vila do Conde, Vila do Conde  ",House,  795 m2 ,  11 ,  7 
+1166, 699 000 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  236 m2 ,  6 ,  6 
+1167, 179 000 € ," Porto -   Trofa, Coronado (São Romão e São Mamede)  ",House,  186 m2 ,  0 ,  3 
+1168, 180 000 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  102 m2 ,  1 ,  2 
+1169, 38 000 € ," Porto -   Marco de Canaveses, Várzea, Aliviada e Folhada  ",House,  30 m2 ,  0 ,  2 
+1170, 350 000 € ," Porto -   Porto, Bonfim  ",House,  166 m2 ,  9 ,  3 
+1171, 230 000 € ," Porto -   Baião, Santa Marinha do Zêzere  ",House,  132 m2 ,  3 ,  3 
+1172, 330 000 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  150 m2 ,  3 ,  7 
+1173, 110 000 € ," Porto -   Santo Tirso, Monte Córdova  ",House,  41 m2 ,  0 ,  1 
+1174, 48 000 € ," Porto -   Penafiel, Rans  ",House,  43 m2 ,  0 ,  1 
+1175, 180 000 € ," Porto -   Maia, Moreira  ",House,  176 m2 ,  0 ,  0 
+1176, 23 000 € ," Porto -   Marco de Canaveses, Várzea, Aliviada e Folhada  ",House,  75 m2 ,  0 ,  0 
+1177, 350 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  135 m2 ,  4 ,  7 
+1178, 12 000 € ," Porto -   Baião, Campelo e Ovil  ",House,  35 m2 ,  2 ,  2 
+1179, 650 000 € ," Porto -   Porto, Lordelo do Ouro e Massarelos  ",House,  504 m2 ,  3 ,  7 
+1180, 349 000 € ," Porto -   Paços de Ferreira, Paços de Ferreira  ",House,  220 m2 ,  4 ,  3 
+1181, 225 000 € ," Porto -   Felgueiras, Pombeiro de Ribavizela  ",House,  320 m2 ,  2 ,  3 
+1182, 820 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  375 m2 ,  4 ,  3 
+1183, 820 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  375 m2 ,  4 ,  3 
+1184, 820 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  375 m2 ,  4 ,  3 
+1185, 710 000 € ," Porto -   Marco de Canaveses, Bem Viver  ",House,  263 m2 ,  0 ,  5 
+1186, 129 000 € ," Porto -   Marco de Canaveses, Sobretâmega  ",House,  198 m2 ,  0 ,  0 
+1187, 29 500 € ," Porto -   Paredes, Lordelo  ",House,  86 m2 ,  0 ,  3 
+1188, 350 000 € ," Porto -   Vila Nova de Gaia, Canidelo  ",House,  176 m2 ,  0 ,  4 
+1189, 525 000 € ," Porto -   Porto, Ramalde  ",House,  200 m2 ,  4 ,  6 
+1190, 320 000 € ," Porto -   Valongo, Ermesinde  ",House,  250 m2 ,  3 ,  5 
+1191, 935 000 € ," Porto -   Porto, Paranhos  ",House,  302 m2 ,  10 ,  10 
+1192, 440 000 € ," Porto -   Porto, Ramalde  ",House,  66 m2 ,  1 ,  2 
+1193, 150 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  70 m2 ,  0 ,  4 
+1194, 80 000 € ," Porto -   Vila Nova de Gaia, Grijó e Sermonde  ",House,  120 m2 ,  0 ,  2 
+1195, 650 000 € ," Porto -   Porto, Ramalde  ",House,  237 m2 ,  4 ,  4 
+1196, 1 200 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  272 m2 ,  4 ,  4 
+1197, 160 000 € ," Porto -   Paços de Ferreira, Raimonda  ",House,  125 m2 ,  0 ,  5 
+1198, 48 000 € ," Porto -   Amarante, Aboadela, Sanche e Várzea  ",House,  120 m2 ,  0 ,  3 
+1199, 130 000 € ," Porto -   Felgueiras, Pombeiro de Ribavizela  ",House,  165 m2 ,  1 ,  2 
+1200, 323 250 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  70 m2 ,  2 ,  2 
+1201, 458 450 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  109 m2 ,  2 ,  2 
+1202, 263 750 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  62 m2 ,  2 ,  1 
+1203, 253 450 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  61 m2 ,  2 ,  1 
+1204, 271 200 € ," Porto -   Santo Tirso, Lamelas e Guimarei  ",House,  200 m2 ,  3 ,  6 
+1205, 80 000 € ," Porto -   Marco de Canaveses, Várzea, Aliviada e Folhada  ",House,  115 m2 ,  0 ,  2 
+1206, 80 000 € ," Porto -   Marco de Canaveses, Marco  ",House,  94 m2 ,  0 ,  0 
+1207, 180 000 € ," Porto -   Penafiel, Rio Mau  ",House,  236 m2 ,  0 ,  2 
+1208, 82 500 € ," Porto -   Penafiel, Guilhufe e Urrô  ",House,  76 m2 ,  0 ,  2 
+1209, 260 000 € ," Porto -   Maia, Cidade da Maia  ",House,  170 m2 ,  3 ,  3 
+1210, 105 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  300 m2 ,  1 ,  5 
+1211, 94 000 € ," Porto -   Baião, Santa Marinha do Zêzere  ",House,  199 m2 ,  2 ,  5 
+1212, 180 000 € ," Porto -   Maia, Pedrouços  ",House,  186 m2 ,  0 ,  4 
+1213, 24 000 € ," Porto -   Baião, Santa Marinha do Zêzere  ",House,  90 m2 ,  0 ,  0 
+1214, 160 000 € ," Porto -   Felgueiras, Pedreira, Rande e Sernande  ",House,  221 m2 ,  1 ,  3 
+1215, 250 000 € ," Porto -   Porto, Campanhã  ",House,  236 m2 ,  9 ,  2 
+1216, 280 000 € ," Porto -   Vila Nova de Gaia, Gulpilhares e Valadares  ",House,  488 m2 ,  0 ,  4 
+1217, 570 000 € ," Porto -   Vila Nova de Gaia, São Felix da Marinha  ",House,  211 m2 ,  4 ,  3 
+1218, 850 000 € ," Porto -   Vila Nova de Gaia, São Felix da Marinha  ",House,  240 m2 ,  4 ,  3 
+1219, 750 000 € ," Porto -   Vila Nova de Gaia, São Felix da Marinha  ",House,  207 m2 ,  4 ,  3 
+1220, 265 000 € ," Porto -   Marco de Canaveses, Soalhães  ",House,  227 m2 ,  3 ,  4 
+1221, 290 000 € ," Porto -   Baião, Ancede e Ribadouro  ",House,  183 m2 ,  8 ,  5 
+1222, 220 000 € ," Porto -   Porto, Campanhã  ",House,  445 m2 ,  0 ,  4 
+1223, 260 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  223 m2 ,  2 ,  2 
+1224, 159 000 € ," Porto -   Maia, Milheirós  ",House,  142 m2 ,  2 ,  3 
+1225, 600 000 € ," Porto -   Porto, Ramalde  ",House,  254 m2 ,  5 ,  4 
+1226, 575 000 € ," Porto -   Porto, Ramalde  ",House,  229 m2 ,  5 ,  4 
+1227, 295 000 € ," Porto -   Felgueiras, Airães  ",House,  692 m2 ,  3 ,  4 
+1228, 76 500 € ," Porto -   Felgueiras, Idães  ",House,  136 m2 ,  0 ,  2 
+1229, 330 000 € ," Porto -   Amarante, Figueiró (Santiago e Santa Cristina)  ",House,  300 m2 ,  4 ,  4 
+1230, 1 350 000 € ," Porto -   Baião, Campelo e Ovil  ",House,  790 m2 ,  18 ,  8 
+1231, 545 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  810 m2 ,  4 ,  4 
+1232, 200 000 € ," Porto -   Valongo, Valongo  ",House,  132 m2 ,  2 ,  6 
+1233, 60 000 € ," Porto -   Baião, Ancede e Ribadouro  ",House,  45 m2 ,  0 ,  2 
+1234, 1 200 000 € ," Porto -   Porto, Ramalde  ",House,  352 m2 ,  4 ,  7 
+1235, 42 000 € ," Porto -   Felgueiras, Friande  ",House,  184 m2 ,  1 ,  3 
+1236, 25 000 € ," Porto -   Marco de Canaveses, Vila Boa do Bispo  ",House,  32 m2 ,  0 ,  0 
+1237, 25 000 € ," Porto -   Marco de Canaveses, Vila Boa do Bispo  ",House,  32 m2 ,  0 ,  0 
+1238, 25 000 € ," Porto -   Marco de Canaveses, Vila Boa do Bispo  ",House,  110 m2 ,  0 ,  0 
+1239, 1 700 000 € ," Porto -   Porto, Campanhã  ",House,  1451 m2 ,  0 ,  10 
+1240, 83 000 € ," Porto -   Santo Tirso, Carreira e Refojos de Riba de Ave  ",House,  111 m2 ,  1 ,  2 
+1241, 330 000 € ," Porto -   Marco de Canaveses, Marco  ",House,  277 m2 ,  3 ,  5 
+1242, 350 000 € ," Porto -   Porto, Paranhos  ",House,  325 m2 ,  0 ,  3 
+1243, 46 000 € ," Porto -   Baião, Ancede e Ribadouro  ",House,  43 m2 ,  1 ,  2 
+1244, 950 000 € ," Porto -   Vila Nova de Gaia, Arcozelo  ",House,  230 m2 ,  4 ,  4 
+1245, 950 000 € ," Porto -   Porto, Bonfim  ",House,  218 m2 ,  5 ,  4 
+1246, 550 000 € ," Porto -   Paços de Ferreira, Carvalhosa  ",House,  551 m2 ,  6 ,  5 
+1247, 25 000 € ," Porto -   Baião, Teixeira e Teixeiró  ",House,  72 m2 ,  1 ,  2 
+1248, 880 000 € ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",House,  378 m2 ,  4 ,  4 
+1249, 250 000 € ," Porto -   Vila Nova de Gaia, Avintes  ",House,  231 m2 ,  1 ,  5 
+1250, 1 600 000 € ," Porto -   Vila Nova de Gaia, Canidelo  ",House,  280 m2 ,  1 ,  6 
+1251, 90 000 € ," Porto -   Baião, Santa Marinha do Zêzere  ",House,  93 m2 ,  0 ,  3 
+1252, 332 500 € ," Porto -   Vila Nova de Gaia, Serzedo e Perosinho  ",House,  176 m2 ,  2 ,  4 
+1253, 237 500 € ," Porto -   Vila Nova de Gaia, Serzedo e Perosinho  ",House,  148 m2 ,  2 ,  4 
+1254, 115 000 € ," Porto -   Baião, Campelo e Ovil  ",House,  120 m2 ,  1 ,  2 
+1255, 185 000 € ," Porto -   Matosinhos, Matosinhos e Leça da Palmeira  ",House,  126 m2 ,  2 ,  1 
+1256, 80 000 € ," Porto -   Matosinhos, Custóias, Leça do Balio e Guifões  ",House,  185 m2 ,  1 ,  2 
+1257, 395 000 € ," Porto -   Vila Nova de Gaia, Canidelo  ",House,  400 m2 ,  4 ,  5 
+1258, 68 000 € ," Porto -   Paredes, Sobreira  ",House,  124 m2 ,  2 ,  3 
+1259, 150 000 € ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",House,  162 m2 ,  0 ,  3 
+1260, 19 950 € ," Porto -   Baião, Gestaçô  ",House,  43 m2 ,  0 ,  0 
+1261, 845 000 € ," Porto -   Vila Nova de Gaia, Vilar de Andorinho  ",House,  4335 m2 ,  -- ,  7 
+1262, 70 000 € ," Porto -   Amarante, Mancelos  ",House,  76 m2 ,  0 ,  2 
+1263, 149 000 € ," Porto -   Maia, Pedrouços  ",House,  126 m2 ,  1 ,  3 
+1264, 56 500 € ," Porto -   Felgueiras, Penacova  ",House,  251 m2 ,  0 ,  2 
+1265, 259 000 € ," Porto -   Felgueiras, Pinheiro  ",House,  1525 m2 ,  3 ,  4 
+1266, 375 000 € ," Porto -   Paredes, Astromil  ",House,  407 m2 ,  2 ,  3 
+1267, 225 000 € ," Porto -   Baião, Ancede e Ribadouro  ",House,  314 m2 ,  4 ,  5 
+1268, 199 900 € ," Porto -   Santo Tirso, São Tomé Negrelos  ",House,  163 m2 ,  2 ,  5 
+1269, 57 000 € ," Porto -   Baião, Campelo e Ovil  ",House,  90 m2 ,  0 ,  0 
+1270, 85 000 € ," Porto -   Porto, Campanhã  ",House,  348 m2 ,  0 ,  0 
+1271, 250 000 € ," Porto -   Amarante, Bustelo, Carneiro e Carvalho de Rei  ",House,  8877 m2 ,  0 ,  6 
+1272, 390 000 € ," Porto -   Vila Nova de Gaia, Mafamude e Vilar do Paraíso  ",House,  168 m2 ,  2 ,  3 
+1273, 115 000 € ," Porto -   Porto, Campanhã  ",House,  76 m2 ,  0 ,  2 
+1274, 700 000 € ," Porto -   Vila Nova de Gaia, Sandim, Olival, Lever e Crestuma  ",House,  24738 m2 ,  0 ,  2 
+1275, 750 000 € ," Porto -   Santo Tirso, Reguenga  ",House,  520 m2 ,  4 ,  3 
+1276, 750 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  5046 m2 ,  2 ,  5 
+1277, 60 000 € ," Porto -   Paredes, Aguiar de Sousa  ",House,  40 m2 ,  0 ,  0 
+1278, 2 000 000 € ," Porto -   Vila Nova de Gaia, Canidelo  ",House,  354 m2 ,  6 ,  -- 
+1279, 800 000 € ," Porto -   Lousada, Figueiras e Covas  ",House,  424 m2 ,  6 ,  5 
+1280, 485 000 € ," Porto -   Trofa, Muro  ",House,  355 m2 ,  3 ,  3 
+1281, 487 500 € ," Porto -   Trofa, Muro  ",House,  355 m2 ,  3 ,  3 
+1282, 477 500 € ," Porto -   Trofa, Muro  ",House,  355 m2 ,  3 ,  3 
+1283, 850 000 € ," Porto -   Maia, Vila Nova da Telha  ",House,  609 m2 ,  6 ,  5 
+1284, 299 000 € ," Porto -   Maia, Castêlo da Maia  ",House,  315 m2 ,  3 ,  3 
+1285, 350 000 € ," Porto -   Marco de Canaveses, Marco  ",House,  93 m2 ,  0 ,  0 
+1286, 57 000 € ," Porto -   Felgueiras, Penacova  ",House,  314 m2 ,  0 ,  0 
+1287, 47 500 € ," Porto -   Baião, Santa Marinha do Zêzere  ",House,  65 m2 ,  1 ,  3 
+1288, 180 000 € ," Porto -   Marco de Canaveses, Constance  ",House,  390 m2 ,  -- ,  2 
+1289, 450 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  250 m2 ,  4 ,  4 
+1290, 395 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  317 m2 ,  0 ,  3 
+1291, 395 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  317 m2 ,  3 ,  3 
+1292, 430 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  318 m2 ,  0 ,  3 
+1293, 495 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  318 m2 ,  3 ,  3 
+1294, 499 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  318 m2 ,  4 ,  3 
+1295, 495 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  318 m2 ,  0 ,  3 
+1296, 425 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  318 m2 ,  0 ,  3 
+1297, 425 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  379 m2 ,  0 ,  4 
+1298, 425 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  415 m2 ,  0 ,  4 
+1299, 365 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  317 m2 ,  3 ,  3 
+1300, 425 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  318 m2 ,  0 ,  3 
+1301, 1 750 000 € ," Porto -   Gondomar, Foz do Sousa e Covelo  ",House,  615 m2 ,  4 ,  3 
+1302, 325 000 € ," Porto -   Penafiel, Paço de Sousa  ",House,  230 m2 ,  2 ,  4 
+1303, 47 500 € ," Porto -   Paredes, Louredo  ",House,  1600 m2 ,  0 ,  0 
+1304, 38 200 € ," Porto -   Paredes, Paredes  ",House,  31 m2 ,  0 ,  0 
+1305, 350 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  146 m2 ,  2 ,  4 
+1306, 109 000 € ," Porto -   Felgueiras, Refontoura  ",House,  730 m2 ,  0 ,  3 
+1307, 800 000 € ," Porto -   Matosinhos, São Mamede de Infesta e Senhora da Hora  ",House,  381 m2 ,  6 ,  6 
+1308, 45 000 € ," Porto -   Baião, Santa Cruz do Douro e São Tomé de Covelas  ",House,  150 m2 ,  0 ,  3 
+1309, 550 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  1130 m2 ,  0 ,  4 
+1310, 695 000 € ," Porto -   Vila Nova de Gaia, Oliveira do Douro  ",House,  471 m2 ,  7 ,  3 
+1311, 620 000 € ," Porto -   Maia, Cidade da Maia  ",House,  298 m2 ,  0 ,  4 
+1312, 125 000 € ," Porto -   Paredes, Recarei  ",House,  664 m2 ,  2 ,  3 
+1313, 12 500 € ," Porto -   Baião, Campelo e Ovil  ",House,  322 m2 ,  1 ,  2 
+1314, 1 000 000 € ," Porto -   Vila do Conde, Vilar e Mosteiró  ",House,  497 m2 ,  0 ,  5 
+1315, 70 000 € ," Porto -   Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada  ",House,  60 m2 ,  0 ,  3 
+1316, 80 000 € ," Porto -   Felgueiras, Torrados e Sousa  ",House,  102 m2 ,  0 ,  0 
+1317, 78 200 € ," Porto -   Penafiel, Guilhufe e Urrô  ",House,  50 m2 ,  1 ,  1 
+1318, 215 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  118 m2 ,  1 ,  2 
+1319, 895 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  710 m2 ,  6 ,  4 
+1320, 78 000 € ," Porto -   Paredes, Lordelo  ",House,  89 m2 ,  0 ,  4 
+1321, 33 000 € ," Porto -   Baião, Campelo e Ovil  ",House,  91 m2 ,  2 ,  3 
+1322, 85 000 € ," Porto -   Baião, Viariz  ",House,  76 m2 ,  1 ,  2 
+1323, 298 165 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  85 m2 ,  1 ,  2 
+1324, 358 050 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  93 m2 ,  1 ,  2 
+1325, 290 160 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  73 m2 ,  1 ,  2 
+1326, 227 136 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  58 m2 ,  1 ,  1 
+1327, 200 000 € ," Porto -   Amarante, Mancelos  ",House,  1055 m2 ,  0 ,  3 
+1328, 275 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  77 m2 ,  1 ,  1 
+1329, 250 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  62 m2 ,  1 ,  1 
+1330, 250 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  62 m2 ,  1 ,  1 
+1331, 285 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  82 m2 ,  1 ,  1 
+1332, 285 000 € ," Porto -   Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória  ",House,  81 m2 ,  1 ,  1 
+1333, 1 100 000 € ," Porto -   Porto, Aldoar, Foz do Douro e Nevogilde  ",House,  420 m2 ,  5 ,  4 
+1334, 495 000 € ," Porto -   Vila Nova de Gaia, Madalena  ",House,  260 m2 ,  0 ,  0 
+1335, 375 000 € ," Porto -   Paredes, Paredes  ",House,  110 m2 ,  4 ,  6 
+1336, 695 000 € ," Porto -   Gondomar, Gondomar (São Cosme), Valbom e Jovim  ",House,  331 m2 ,  3 ,  3 
+1337, 200 000 € ," Porto -   Baião, Teixeira e Teixeiró  ",House,  146 m2 ,  3 ,  4 
+1338, 70 000 € ," Porto -   Felgueiras, Vila Fria e Vizela (São Jorge)  ",House,  1652 m2 ,  0 ,  3 
+1339, 429 000 € ," Porto -   Amarante, Figueiró (Santiago e Santa Cristina)  ",House,  1903 m2 ,  3 ,  5 
+1340, 117 000 € ," Porto -   Felgueiras, Macieira da Lixa e Caramos  ",House,  3200 m2 ,  -- ,  0 
+1341, 144 000 € ," Porto -   Maia, São Pedro Fins  ",House,  119 m2 ,  0 ,  2 
+1342, 57 000 € ," Porto -   Paredes, Lordelo  ",House,  1240 m2 ,  0 ,  0 
+1343, 79 900 € ," Porto -   Amarante, Figueiró (Santiago e Santa Cristina)  ",House,  264 m2 ,  0 ,  5 
+1344, 20 000 € ," Porto -   Baião, Baião (Santa Leocádia) e Mesquinhata  ",House,  72 m2 ,  0 ,  3 
+1345, 215 000 € ," Porto -   Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure  ",House,  444 m2 ,  0 ,  4 
+1346, 785 000 € ," Porto -   Valongo, Alfena  ",House,  245 m2 ,  3 ,  4 
+1347, 63 000 € ," Porto -   Marco de Canaveses, Sande e São Lourenço  ",House,  84 m2 ,  0 ,  2 
+1348, 232 500 € ," Porto -   Lousada, Lustosa e Barrosas (Santo Estêvão)  ",House,  193 m2 ,  2 ,  4 
+1349, 45 000 € ," Porto -   Penafiel, Abragão  ",House,  9700 m2 ,  0 ,  0 
+1350, 400 000 € ," Porto -   Gondomar, Rio Tinto  ",House,  185 m2 ,  3 ,  4 
+1351, 165 000 € ," Porto -   Baião, Gove  ",House,  268 m2 ,  1 ,  3 
+1352, 56 500 € ," Porto -   Paços de Ferreira, Freamunde  ",House,  63 m2 ,  1 ,  2 
+1353, 99 000 € ," Porto -   Marco de Canaveses, Vila Boa do Bispo  ",House,  199 m2 ,  2 ,  4 
+1354, 315 000 € ," Porto -   Baião, Campelo e Ovil  ",House,  265 m2 ,  4 ,  3 
+1355, 105 000 € ," Porto -   Paços de Ferreira, Paços de Ferreira  ",House,  107 m2 ,  0 ,  0 

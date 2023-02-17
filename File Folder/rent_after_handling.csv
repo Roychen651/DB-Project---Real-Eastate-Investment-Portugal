@@ -1,0 +1,741 @@
+Price,Prop_type,Size,Bath,Bed,Term,City,Division
+50,3,15,0,0,/ Monthly,Valongo, Valongo  
+700,1,80,0,2,/ Monthly,Marco de Canaveses, Várzea
+1600,2,145,3,3,/ Monthly,Porto, Cedofeita
+1100,2,110,2,2,/ Monthly,Maia, Cidade da Maia  
+900,2,100,2,3,/ Monthly,Porto, Campanhã  
+950,2,49,1,1,/ Monthly,Porto, Cedofeita
+770,2,88,1,2,/ Monthly,Gondomar, Gondomar (São Cosme)
+850,2,110,1,3,/ Monthly,Gondomar, Rio Tinto  
+700,2,90,2,2,/ Monthly,Paredes, Paredes  
+900,2,129,3,3,/ Monthly,Valongo, Valongo  
+950,2,94,2,2,/ Monthly,Vila Nova de Gaia, Oliveira do Douro  
+1100,2,95,0,2,/ Monthly,Matosinhos, Perafita
+700,2,49,1,1,/ Monthly,Gondomar, Rio Tinto  
+650,3,75,1,0,/ Monthly,Porto, Bonfim  
+1600,2,95,2,2,/ Monthly,Porto, Aldoar
+1300,2,90,2,2,/ Monthly,Matosinhos, Matosinhos e Leça da Palmeira  
+1200,3,174,3,4,/ Monthly,Porto, Paranhos  
+1200,2,61,1,1,/ Monthly,Porto, Ramalde  
+790,2,79,1,2,/ Monthly,Gondomar, Rio Tinto  
+880,2,94,1,2,/ Monthly,Gondomar, Gondomar (São Cosme)
+1900,2,115,3,3,/ Monthly,Vila Nova de Gaia, Mafamude e Vilar do Paraíso  
+1000,2,111,2,3,/ Monthly,Matosinhos, São Mamede de Infesta e Senhora da Hora  
+2750,2,215,4,4,/ Monthly,Matosinhos, Matosinhos e Leça da Palmeira  
+1250,2,162,2,3,/ Monthly,Maia, Castêlo da Maia  
+250,3,27,0,0,/ Monthly,Paredes, Paredes  
+1300,2,148,3,4,/ Monthly,Porto, Cedofeita
+2000,2,150,0,3,/ Monthly,Matosinhos, Matosinhos e Leça da Palmeira  
+1350,2,127,2,3,/ Monthly,Porto, Campanhã  
+880,2,93,2,3,/ Monthly,Gondomar, Rio Tinto  
+1150,2,66,1,2,/ Monthly,Matosinhos, Matosinhos e Leça da Palmeira  
+840,2,82,1,2,/ Monthly,Gondomar, Fânzeres e São Pedro da Cova  
+1300,1,105,2,3,/ Monthly,Matosinhos, São Mamede de Infesta e Senhora da Hora  
+1100,2,104,2,2,/ Monthly,Gondomar, Rio Tinto  
+950,2,40,1,0,/ Monthly,Porto, Cedofeita
+550,2,120,2,3,/ Monthly,Felgueiras, Margaride (Santa Eulália)
+550,2,92,1,2,/ Monthly,Felgueiras, Margaride (Santa Eulália)
+400,1,80,1,1,/ Monthly,Felgueiras, Refontoura  
+750,2,79,1,1,/ Monthly,Maia, Castêlo da Maia  
+800,2,85,1,2,/ Monthly,Vila Nova de Gaia, Canidelo  
+1200,2,101,2,2,/ Monthly,Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada  
+1200,2,120,0,2,/ Monthly,Porto, Cedofeita
+1200,2,87,1,1,/ Monthly,Porto, Cedofeita
+4500,2,234,3,4,/ Monthly,Matosinhos, Matosinhos e Leça da Palmeira  
+850,2,87,2,3,/ Monthly,Gondomar, Fânzeres e São Pedro da Cova  
+800,2,100,2,2,/ Monthly,Gondomar, Fânzeres e São Pedro da Cova  
+720,2,85,1,2,/ Monthly,Gondomar, Gondomar (São Cosme)
+790,2,91,1,2,/ Monthly,Gondomar, Fânzeres e São Pedro da Cova  
+920,2,118,2,2,/ Monthly,Gondomar, Rio Tinto  
+1000,2,65,1,2,/ Monthly,Porto, Cedofeita
+1200,2,117,2,3,/ Monthly,Maia, Pedrouços  
+1750,2,155,3,3,/ Monthly,Porto, Aldoar
+1300,1,250,2,3,/ Monthly,Vila Nova de Gaia, Vilar de Andorinho  
+1500,2,169,2,3,/ Monthly,Vila Nova de Gaia, Canidelo  
+650,1,168,1,4,/ Monthly,Vila Nova de Gaia, Serzedo e Perosinho  
+690,2,69,1,2,/ Monthly,Matosinhos, Perafita
+1700,3,81,1,0,/ Monthly,Porto, Aldoar
+750,3,58,1,0,/ Monthly,Porto, Lordelo do Ouro e Massarelos  
+800,2,62,1,1,/ Monthly,Porto, Lordelo do Ouro e Massarelos  
+800,2,94,2,2,/ Monthly,Porto, Bonfim  
+1650,2,66,1,1,/ Monthly,Porto, Cedofeita
+850,2,75,0,2,/ Monthly,Vila Nova de Gaia, Vilar de Andorinho  
+800,2,40,1,0,/ Monthly,Porto, Cedofeita
+900,2,40,1,0,/ Monthly,Porto, Cedofeita
+790,2,64,1,2,/ Monthly,Porto, Paranhos  
+240,3,22,0,0,/ Monthly,Maia, Moreira  
+1250,1,102,2,2,/ Monthly,Matosinhos, Perafita
+2300,2,148,3,3,/ Monthly,Matosinhos, Matosinhos e Leça da Palmeira  
+450,2,46,1,1,/ Monthly,Matosinhos, Perafita
+800,2,56,1,1,/ Monthly,Matosinhos, Custóias
+575,2,42,1,0,/ Monthly,Matosinhos, Perafita
+2300,2,141,3,3,/ Monthly,Vila Nova de Gaia, Madalena  
+1000,2,73,2,1,/ Monthly,Matosinhos, São Mamede de Infesta e Senhora da Hora  
+800,2,75,1,1,/ Monthly,Maia, Cidade da Maia  
+1800,2,135,2,3,/ Monthly,Porto, Aldoar
+750,2,67,1,2,/ Monthly,Porto, Bonfim  
+150,3,22,0,0,/ Monthly,Felgueiras, Margaride (Santa Eulália)
+900,2,70,2,2,/ Monthly,Porto, Ramalde  
+450,1,130,2,3,/ Monthly,Felgueiras, Margaride (Santa Eulália)
+1500,1,186,3,3,/ Monthly,Maia, Vila Nova da Telha  
+850,2,45,1,1,/ Monthly,Porto, Cedofeita
+1250,2,87,2,3,/ Monthly,Porto, Cedofeita
+370,3,45,0,0,/ Monthly,Porto, Cedofeita
+400,3,40,1,0,/ Monthly,Trofa, Bougado (São Martinho e Santiago)  
+800,2,68,1,1,/ Monthly,Matosinhos, São Mamede de Infesta e Senhora da Hora  
+2250,2,160,3,4,/ Monthly,Porto, Ramalde  
+750,3,75,1,0,/ Monthly,Porto, Cedofeita
+1600,2,123,2,2,/ Monthly,Matosinhos, Matosinhos e Leça da Palmeira  
+800,2,44,1,0,/ Monthly,Porto, Lordelo do Ouro e Massarelos  
+730,2,66,1,1,/ Monthly,Gondomar, Rio Tinto  
+850,2,83,1,2,/ Monthly,Porto, Ramalde  
+1200,2,59,0,1,/ Monthly,Porto, Cedofeita
+700,2,131,1,1,/ Monthly,Amarante, Amarante (São Gonçalo)
+800,2,45,1,0,/ Monthly,Porto, Cedofeita
+900,2,74,1,2,/ Monthly,Vila Nova de Gaia, Mafamude e Vilar do Paraíso  
+1050,2,113,1,2,/ Monthly,Porto, Lordelo do Ouro e Massarelos  
+2000,1,239,3,3,/ Monthly,Porto, Bonfim  
+770,2,86,1,2,/ Monthly,Gondomar, Fânzeres e São Pedro da Cova  
+960,2,107,2,3,/ Monthly,Gondomar, Rio Tinto  
+1600,2,106,2,2,/ Monthly,Matosinhos, Matosinhos e Leça da Palmeira  
+2200,2,168,4,4,/ Monthly,Porto, Lordelo do Ouro e Massarelos  
+1000,2,72,0,1,/ Monthly,Matosinhos, Matosinhos e Leça da Palmeira  
+3900,3,120,0,0,/ Monthly,Porto, Cedofeita
+500,3,53,0,0,/ Monthly,Matosinhos, Matosinhos e Leça da Palmeira  
+2250,1,104,2,3,/ Monthly,Porto, Lordelo do Ouro e Massarelos  
+1850,2,198,3,3,/ Monthly,Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada  
+2200,2,158,0,3,/ Monthly,Porto, Cedofeita
+1100,1,120,1,1,/ Monthly,Porto, Aldoar
+2500,2,205,4,4,/ Monthly,Porto, Lordelo do Ouro e Massarelos  
+840,2,121,2,3,/ Monthly,Gondomar, Gondomar (São Cosme)
+950,3,117,0,0,/ Monthly,Porto, Bonfim  
+850,2,120,2,3,/ Monthly,Póvoa de Varzim, Póvoa de Varzim
+1450,2,126,3,3,/ Monthly,Matosinhos, Perafita
+690,3,65,1,0,/ Monthly,Porto, Lordelo do Ouro e Massarelos  
+1950,2,133,3,3,/ Monthly,Porto, Ramalde  
+1500,1,90,0,2,/ Monthly,Santo Tirso, Vila Nova do Campo  
+2750,1,291,5,4,/ Monthly,Vila Nova de Gaia, Gulpilhares e Valadares  
+1000,3,169,2,0,/ Monthly,Porto, Ramalde  
+860,2,94,2,2,/ Monthly,Gondomar, Gondomar (São Cosme)
+870,2,119,4,3,/ Monthly,Gondomar, Gondomar (São Cosme)
+2700,3,463,2,0,/ Monthly,Valongo, Ermesinde  
+365,3,28,2,0,/ Monthly,Maia, Cidade da Maia  
+500,3,81,0,0,/ Monthly,Matosinhos, São Mamede de Infesta e Senhora da Hora  
+5337,3,1186,0,0,/ Monthly,Vila Nova de Gaia, Mafamude e Vilar do Paraíso  
+2500,3,136,1,0,/ Monthly,Porto, Cedofeita
+1000,3,1034,0,0,/ Monthly,Vila Nova de Gaia, Serzedo e Perosinho  
+700,3,130,0,0,/ Monthly,Póvoa de Varzim, Póvoa de Varzim
+600,3,613,0,0,/ Monthly,Penafiel, Rio Mau  
+250,3,18,0,0,/ Monthly,Penafiel, Rio Mau  
+250,3,22,0,0,/ Monthly,Penafiel, Rio Mau  
+350,3,96,0,0,/ Monthly,Paredes, Paredes  
+600,3,240,0,0,/ Monthly,Santo Tirso, Roriz  
+730,3,104,0,0,/ Monthly,Matosinhos, Perafita
+735,3,105,0,0,/ Monthly,Matosinhos, Perafita
+850,3,120,0,0,/ Monthly,Matosinhos, Perafita
+450,3,83,0,0,/ Monthly,Porto, Campanhã  
+700,3,148,0,0,/ Monthly,Porto, Cedofeita
+250,3,17,0,0,/ Monthly,Penafiel, Rio Mau  
+3200,3,491,0,0,/ Monthly,Maia, Castêlo da Maia  
+2100,3,245,0,0,/ Monthly,Maia, Castêlo da Maia  
+1500,3,500,0,0,/ Monthly,Felgueiras, Margaride (Santa Eulália)
+800,3,9000,0,0,/ Monthly,Maia, Vila Nova da Telha  
+700,3,76,0,0,/ Monthly,Porto, Campanhã  
+450,3,210,0,0,/ Monthly,Felgueiras, Vila Fria e Vizela (São Jorge)  
+700,3,295,0,0,/ Monthly,Paredes, Paredes  
+3000,3,362,0,0,/ Monthly,Vila do Conde, Vilar e Mosteiró  
+600,3,49,0,0,/ Monthly,Vila do Conde, Vila do Conde  
+800,3,197,0,0,/ Monthly,Porto, Bonfim  
+1000,3,241,0,0,/ Monthly,Paredes, Recarei  
+5000,3,979,0,0,/ Monthly,Maia, Castêlo da Maia  
+400,3,88,0,0,/ Monthly,Paredes, Rebordosa  
+1750,3,364,4,0,/ Monthly,Porto, Ramalde  
+10000,3,280000,0,0,/ Monthly,Vila do Conde, Fornelo e Vairão  
+350,3,124,0,0,/ Monthly,Paredes, Lordelo  
+76516,3,76516,0,0,/ Monthly,Matosinhos, Custóias
+700,2,70,1,2,/ Monthly,Vila Franca de Xira, Alverca do Ribatejo e Sobralinho  
+1750,2,123,2,3,/ Monthly,Loures, Sacavém e Prior Velho  
+950,2,115,2,3,/ Monthly,Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  
+750,2,89,2,3,/ Monthly,Odivelas, Póvoa de Santo Adrião e Olival Basto  
+1450,2,86,1,2,/ Monthly,Lisboa, Areeiro  
+1200,2,65,1,2,/ Monthly,Lisboa, Estrela  
+1800,2,102,2,3,/ Monthly,Lisboa, Santa Clara  
+4000,2,210,3,4,/ Monthly,Cascais, Cascais e Estoril  
+3000,1,150,3,3,/ Monthly,Cascais, Cascais e Estoril  
+1000,2,98,2,2,/ Monthly,Sintra, Queluz e Belas  
+1800,2,126,2,2,/ Monthly,Sintra, Sintra (Santa Maria e São Miguel
+1000,2,91,0,3,/ Monthly,Amadora, Águas Livres  
+3700,2,170,3,4,/ Monthly,Lisboa, Estrela  
+1650,2,84,2,1,/ Monthly,Lisboa, Misericórdia  
+850,2,75,1,2,/ Monthly,Sintra, Massamá e Monte Abraão  
+1500,2,105,2,3,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+900,2,73,0,2,/ Monthly,Amadora, Águas Livres  
+1300,2,79,1,1,/ Monthly,Lisboa, São Domingos de Benfica  
+1250,2,75,1,2,/ Monthly,Lisboa, Avenidas Novas  
+2500,2,158,3,3,/ Monthly,Cascais, Cascais e Estoril  
+1300,2,66,2,2,/ Monthly,Cascais, Cascais e Estoril  
+1500,3,240,0,0,/ Monthly,Lisboa, Areeiro  
+4000,2,160,4,4,/ Monthly,Cascais, Cascais e Estoril  
+700,2,69,1,2,/ Monthly,Amadora, Encosta do Sol  
+6500,2,215,4,3,/ Monthly,Lisboa, Campo de Ourique  
+1950,2,121,2,3,/ Monthly,Lisboa, São Domingos de Benfica  
+900,2,67,1,1,/ Monthly,Lisboa, Arroios  
+3000,2,138,3,3,/ Monthly,Cascais, Cascais e Estoril  
+1600,2,78,1,2,/ Monthly,Lisboa, Ajuda  
+2000,2,104,2,3,/ Monthly,Lisboa, Santo António  
+1250,2,106,2,3,/ Monthly,Amadora, Encosta do Sol  
+3300,2,179,3,2,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+1300,2,83,2,3,/ Monthly,Sintra, Agualva e MiraSintra  
+1900,2,139,2,3,/ Monthly,Cascais, São Domingos de Rana  
+1300,2,110,1,2,/ Monthly,Lisboa, Avenidas Novas  
+1700,3,124,3,2,/ Monthly,Oeiras, Algés
+2350,2,112,2,2,/ Monthly,Lisboa, Arroios  
+700,2,120,2,3,/ Monthly,Lourinhã, Lourinhã e Atalaia  
+1500,2,65,1,2,/ Monthly,Lisboa, Alvalade  
+1700,2,95,2,2,/ Monthly,Lisboa, Alvalade  
+1600,2,91,2,2,/ Monthly,Lisboa, Carnide  
+900,2,73,1,1,/ Monthly,Cascais, Carcavelos e Parede  
+4500,2,163,3,2,/ Monthly,Cascais, Cascais e Estoril  
+980,2,46,1,1,/ Monthly,Lisboa, Santo António  
+2850,2,190,3,4,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+2500,2,151,2,3,/ Monthly,Oeiras, Algés
+1200,2,78,1,2,/ Monthly,Oeiras, Algés
+1200,2,81,2,2,/ Monthly,Lisboa, Beato  
+1750,3,100,1,0,/ Monthly,Mafra, Ericeira  
+6000,2,257,5,6,/ Monthly,Lisboa, Santo António  
+650,2,65,0,2,/ Monthly,Sintra, Agualva e MiraSintra  
+1200,2,82,2,2,/ Monthly,Sintra, AlgueirãoMem Martins  
+1700,2,97,2,3,/ Monthly,Lisboa, São Domingos de Benfica  
+2500,2,108,2,3,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+1200,2,75,1,2,/ Monthly,Lisboa, São Domingos de Benfica  
+750,2,73,1,2,/ Monthly,Sintra, Rio de Mouro  
+1500,2,102,2,2,/ Monthly,Odivelas, Odivelas  
+250,3,71,1,0,/ Monthly,Sintra, Massamá e Monte Abraão  
+1100,2,81,1,2,/ Monthly,Sintra, Sintra (Santa Maria e São Miguel
+1400,2,80,1,2,/ Monthly,Lisboa, Penha de França  
+1600,2,200,2,4,/ Monthly,Lisboa, Campolide  
+1450,2,97,2,2,/ Monthly,Lisboa, Marvila  
+1200,2,57,1,1,/ Monthly,Lisboa, Carnide  
+1400,2,54,1,1,/ Monthly,Lisboa, Avenidas Novas  
+1300,2,98,2,3,/ Monthly,Lisboa, Belém  
+350,3,86,1,1,/ Monthly,Loures, Santa Iria de Azoia
+1700,2,137,3,3,/ Monthly,Sintra, Sintra (Santa Maria e São Miguel
+20000,1,513,7,5,/ Monthly,Sintra, Sintra (Santa Maria e São Miguel
+1400,2,127,2,3,/ Monthly,Loures, Sacavém e Prior Velho  
+2000,2,110,1,3,/ Monthly,Lisboa, Misericórdia  
+950,2,55,1,1,/ Monthly,Lisboa, Benfica  
+1900,2,114,3,2,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+1950,2,131,2,3,/ Monthly,Lisboa, Penha de França  
+1500,2,115,2,3,/ Monthly,Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  
+900,2,61,1,1,/ Monthly,Lisboa, Santa Maria Maior  
+6500,1,393,4,4,/ Monthly,Sintra, Sintra (Santa Maria e São Miguel
+1000,2,70,1,2,/ Monthly,Odivelas, Pontinha e Famões  
+2500,2,135,2,3,/ Monthly,Loures, Moscavide e Portela  
+6000,2,165,3,4,/ Monthly,Lisboa, Alcântara  
+1300,2,58,1,1,/ Monthly,Cascais, Carcavelos e Parede  
+3150,2,140,2,4,/ Monthly,Lisboa, Santa Maria Maior  
+2000,2,127,2,3,/ Monthly,Odivelas, Odivelas  
+2900,2,110,2,2,/ Monthly,Lisboa, Marvila  
+1450,2,90,1,1,/ Monthly,Lisboa, Campo de Ourique  
+1750,2,98,2,3,/ Monthly,Cascais, Carcavelos e Parede  
+2400,2,119,3,3,/ Monthly,Cascais, Carcavelos e Parede  
+1700,2,124,2,3,/ Monthly,Lisboa, São Domingos de Benfica  
+2900,2,116,3,2,/ Monthly,Lisboa, Santo António  
+1200,2,63,1,1,/ Monthly,Lisboa, Areeiro  
+1350,2,120,2,3,/ Monthly,Odivelas, Odivelas  
+1250,2,150,3,4,/ Monthly,Sintra, Queluz e Belas  
+800,2,60,1,2,/ Monthly,Loures, Camarate
+1600,2,85,2,3,/ Monthly,Amadora, Venteira  
+2000,2,134,2,3,/ Monthly,Lisboa, Lumiar  
+2500,2,99,2,3,/ Monthly,Lisboa, Alvalade  
+800,2,58,0,3,/ Monthly,Lisboa, Alcântara  
+1800,2,95,2,2,/ Monthly,Lisboa, Campolide  
+4500,2,176,2,4,/ Monthly,Lisboa, Misericórdia  
+1400,2,87,1,2,/ Monthly,Lisboa, Ajuda  
+600,1,28,1,1,/ Monthly,Odivelas, Pontinha e Famões  
+2000,1,165,3,3,/ Monthly,Torres Vedras, Silveira  
+2250,3,135,4,4,/ Monthly,Sintra, Queluz e Belas  
+1300,2,81,2,3,/ Monthly,Vila Franca de Xira, Vila Franca de Xira  
+1500,2,75,1,3,/ Monthly,Lisboa, Misericórdia  
+1450,2,120,2,2,/ Monthly,Lisboa, Parque das Nações  
+1450,2,109,2,3,/ Monthly,Lisboa, Areeiro  
+1250,2,102,2,3,/ Monthly,Sintra, Massamá e Monte Abraão  
+1600,1,172,0,3,/ Monthly,Torres Vedras, A dos Cunhados e Maceira  
+2250,2,134,3,4,/ Monthly,Cascais, Carcavelos e Parede  
+1800,1,272,4,3,/ Monthly,Alenquer, Olhalvo  
+1100,2,87,2,1,/ Monthly,Sintra, Sintra (Santa Maria e São Miguel
+850,2,61,1,2,/ Monthly,Sintra, Rio de Mouro  
+1200,2,90,2,3,/ Monthly,Amadora, Encosta do Sol  
+700,2,61,1,2,/ Monthly,Sintra, Casal de Cambra  
+2250,2,84,3,2,/ Monthly,Cascais, Alcabideche  
+1100,2,70,1,2,/ Monthly,Lisboa, Benfica  
+2100,2,142,3,3,/ Monthly,Lisboa, Campolide  
+700,2,80,1,2,/ Monthly,Sintra, Cacém e São Marcos  
+1350,2,120,2,3,/ Monthly,Lisboa, Benfica  
+1200,3,215,0,0,/ Monthly,Odivelas, Ramada e Caneças  
+1500,3,215,0,0,/ Monthly,Odivelas, Ramada e Caneças  
+2650,1,128,6,3,/ Monthly,Cascais, São Domingos de Rana  
+1650,2,67,2,2,/ Monthly,Cascais, Carcavelos e Parede  
+3250,1,277,0,4,/ Monthly,Mafra, Mafra  
+1100,2,65,1,2,/ Monthly,Loures, Santo António dos Cavaleiros e Frielas  
+700,2,90,1,2,/ Monthly,Odivelas, Pontinha e Famões  
+750,2,91,1,2,/ Monthly,Amadora, Alfragide  
+1300,2,80,1,2,/ Monthly,Cascais, Carcavelos e Parede  
+850,2,42,1,1,/ Monthly,Lisboa, Arroios  
+1200,2,110,2,3,/ Monthly,Sintra, Agualva e MiraSintra  
+1800,2,116,2,2,/ Monthly,Lisboa, São Domingos de Benfica  
+900,2,89,2,3,/ Monthly,Sintra, Agualva e MiraSintra  
+1750,2,130,2,2,/ Monthly,Lisboa, Areeiro  
+900,2,49,1,1,/ Monthly,Lisboa, Avenidas Novas  
+3100,2,112,3,2,/ Monthly,Lisboa, Parque das Nações  
+1400,2,100,2,3,/ Monthly,Lisboa, Campolide  
+1400,2,107,2,3,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+700,2,75,1,2,/ Monthly,Vila Franca de Xira, Alverca do Ribatejo e Sobralinho  
+850,2,84,1,2,/ Monthly,Mafra, Venda do Pinheiro e Santo Estêvão das Galés  
+3000,2,90,2,3,/ Monthly,Cascais, Cascais e Estoril  
+2300,2,79,2,2,/ Monthly,Lisboa, Santa Maria Maior  
+1650,2,85,2,2,/ Monthly,Lisboa, Santa Maria Maior  
+800,2,38,1,2,/ Monthly,Lisboa, Santa Maria Maior  
+900,2,54,1,1,/ Monthly,Amadora, Águas Livres  
+1600,2,126,2,3,/ Monthly,Lisboa, São Domingos de Benfica  
+900,2,69,1,2,/ Monthly,Sintra, Queluz e Belas  
+5000,2,164,3,3,/ Monthly,Sintra, Sintra (Santa Maria e São Miguel
+950,2,45,1,1,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+1490,2,80,2,1,/ Monthly,Lisboa, Misericórdia  
+1950,2,95,2,2,/ Monthly,Lisboa, Misericórdia  
+2900,2,107,3,3,/ Monthly,Lisboa, Misericórdia  
+3250,2,107,2,3,/ Monthly,Lisboa, Misericórdia  
+1000,2,90,2,2,/ Monthly,Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  
+2500,2,154,2,4,/ Monthly,Lisboa, Arroios  
+2900,2,164,2,3,/ Monthly,Lisboa, São Domingos de Benfica  
+750,2,58,0,1,/ Monthly,Lisboa, Alcântara  
+1100,2,96,2,2,/ Monthly,Odivelas, Ramada e Caneças  
+670,2,47,1,1,/ Monthly,Lisboa, Benfica  
+1150,2,66,1,2,/ Monthly,Lisboa, São Domingos de Benfica  
+2500,2,132,2,3,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+7850,2,210,4,4,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+110,3,12,0,0,/ Monthly,Lisboa, Avenidas Novas  
+3500,2,258,4,4,/ Monthly,Loures, Sacavém e Prior Velho  
+900,2,57,1,2,/ Monthly,Mafra, Venda do Pinheiro e Santo Estêvão das Galés  
+900,2,87,0,2,/ Monthly,Sintra, Cacém e São Marcos  
+3200,3,150,2,0,/ Monthly,Lisboa, Avenidas Novas  
+1200,2,80,1,1,/ Monthly,Lisboa, Alcântara  
+700,2,51,1,1,/ Monthly,Oeiras, Carnaxide e Queijas  
+1300,2,78,1,2,/ Monthly,Cascais, Cascais e Estoril  
+1350,1,185,2,3,/ Monthly,Torres Vedras, Turcifal  
+1500,1,186,3,4,/ Monthly,Torres Vedras, Turcifal  
+970,2,55,1,1,/ Monthly,Lisboa, Santa Maria Maior  
+870,2,60,1,1,/ Monthly,Lisboa, Santa Maria Maior  
+3400,2,173,3,3,/ Monthly,Lisboa, Lumiar  
+950,2,94,1,2,/ Monthly,Sintra, Cacém e São Marcos  
+7500,1,310,5,3,/ Monthly,Cascais, Alcabideche  
+1650,2,93,2,2,/ Monthly,Lisboa, Santo António  
+750,2,106,2,3,/ Monthly,Sobral de Monte Agraço, Sobral de Monte Agraço  
+1200,2,81,1,2,/ Monthly,Lisboa, São Domingos de Benfica  
+870,2,79,1,2,/ Monthly,Amadora, Encosta do Sol  
+2500,2,125,2,2,/ Monthly,Lisboa, Campolide  
+2100,2,110,2,3,/ Monthly,Lisboa, Areeiro  
+950,2,80,1,2,/ Monthly,Sintra, Queluz e Belas  
+1000,2,79,1,2,/ Monthly,Loures, Santo António dos Cavaleiros e Frielas  
+1100,2,440,1,2,/ Monthly,Mafra, Ericeira  
+1300,2,85,2,3,/ Monthly,Sintra, Agualva e MiraSintra  
+2600,2,188,4,4,/ Monthly,Lisboa, Parque das Nações  
+950,2,35,1,1,/ Monthly,Lisboa, Santo António  
+950,2,99,2,1,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+1950,2,124,2,3,/ Monthly,Lisboa, Lumiar  
+850,2,90,1,2,/ Monthly,Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  
+2000,2,91,2,3,/ Monthly,Cascais, Cascais e Estoril  
+2200,2,100,2,3,/ Monthly,Cascais, Cascais e Estoril  
+1250,2,123,2,2,/ Monthly,Amadora, Alfragide  
+900,2,17,1,1,/ Monthly,Lisboa, São Vicente  
+1100,2,93,2,3,/ Monthly,Vila Franca de Xira, Vila Franca de Xira  
+950,2,72,1,2,/ Monthly,Lisboa, Estrela  
+1500,2,53,2,2,/ Monthly,Vila Franca de Xira, Alverca do Ribatejo e Sobralinho  
+1750,2,44,1,1,/ Monthly,Lisboa, Avenidas Novas  
+1450,2,134,3,4,/ Monthly,Odivelas, Odivelas  
+1550,2,112,0,3,/ Monthly,Cascais, Cascais e Estoril  
+1500,2,97,2,2,/ Monthly,Lisboa, Carnide  
+1800,3,60,1,1,/ Monthly,Cascais, Cascais e Estoril  
+1100,2,81,2,2,/ Monthly,Lisboa, Belém  
+2320,2,58,1,1,/ Monthly,Lisboa, Santa Maria Maior  
+1600,2,90,2,3,/ Monthly,Lisboa, Campolide  
+5000,1,532,4,5,/ Monthly,Cascais, Cascais e Estoril  
+2980,3,153,3,3,/ Monthly,Cascais, Cascais e Estoril  
+990,2,65,1,2,/ Monthly,Vila Franca de Xira, Vila Franca de Xira  
+1150,2,48,1,1,/ Monthly,Lisboa, Lumiar  
+2700,2,112,2,2,/ Monthly,Cascais, Cascais e Estoril  
+800,2,59,1,1,/ Monthly,Loures, Sacavém e Prior Velho  
+850,2,62,1,2,/ Monthly,Lisboa, Olivais  
+1000,2,48,0,1,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+1000,2,95,2,3,/ Monthly,Sintra, Rio de Mouro  
+1150,2,126,0,3,/ Monthly,Amadora, Encosta do Sol  
+1200,2,82,2,2,/ Monthly,Cascais, São Domingos de Rana  
+750,2,55,1,1,/ Monthly,Sintra, Massamá e Monte Abraão  
+2400,2,168,3,4,/ Monthly,Lisboa, Estrela  
+1400,2,87,2,3,/ Monthly,Odivelas, Pontinha e Famões  
+3600,3,206,0,0,/ Monthly,Lisboa, Areeiro  
+1100,2,148,2,3,/ Monthly,Odivelas, Ramada e Caneças  
+750,2,63,1,2,/ Monthly,Loures, Loures  
+1200,2,38,1,1,/ Monthly,Lisboa, Penha de França  
+650,2,81,1,2,/ Monthly,Vila Franca de Xira, Alverca do Ribatejo e Sobralinho  
+1750,2,38,0,2,/ Monthly,Lisboa, Santo António  
+800,2,82,2,3,/ Monthly,Vila Franca de Xira, Alverca do Ribatejo e Sobralinho  
+1400,2,138,3,3,/ Monthly,Amadora, Alfragide  
+1000,2,90,1,2,/ Monthly,Sintra, Queluz e Belas  
+1400,2,80,1,1,/ Monthly,Lisboa, Avenidas Novas  
+2400,2,110,1,2,/ Monthly,Lisboa, Parque das Nações  
+1200,2,75,1,3,/ Monthly,Lisboa, Estrela  
+3900,1,132,5,5,/ Monthly,Cascais, Carcavelos e Parede  
+1300,2,42,1,2,/ Monthly,Lisboa, Estrela  
+950,3,162,1,0,/ Monthly,Sintra, Rio de Mouro  
+650,3,90,0,0,/ Monthly,Amadora, Mina de Água  
+1250,2,61,1,2,/ Monthly,Lisboa, Penha de França  
+1200,2,54,1,2,/ Monthly,Lisboa, Campo de Ourique  
+1650,2,131,3,3,/ Monthly,Loures, Moscavide e Portela  
+7000,2,155,3,3,/ Monthly,Cascais, Cascais e Estoril  
+925,3,28,0,0,/ Monthly,Lisboa, Alvalade  
+1300,2,121,2,2,/ Monthly,Oeiras, Carnaxide e Queijas  
+2500,2,148,3,3,/ Monthly,Lisboa, Carnide  
+900,2,71,1,3,/ Monthly,Lisboa, Olivais  
+2200,1,300,2,5,/ Monthly,Cascais, São Domingos de Rana  
+900,2,46,1,1,/ Monthly,Lisboa, São Vicente  
+1500,2,69,1,2,/ Monthly,Lisboa, Parque das Nações  
+1700,2,118,2,3,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+1450,2,100,2,4,/ Monthly,Lisboa, Arroios  
+1500,2,102,2,3,/ Monthly,Lisboa, Arroios  
+800,2,57,1,1,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+1200,2,95,1,2,/ Monthly,Lisboa, Lumiar  
+1750,1,153,3,3,/ Monthly,Loures, Bucelas  
+1400,2,84,1,2,/ Monthly,Lisboa, Lumiar  
+2800,2,165,3,4,/ Monthly,Lisboa, Campolide  
+2100,2,118,3,3,/ Monthly,Cascais, São Domingos de Rana  
+5000,2,209,2,4,/ Monthly,Lisboa, Santa Maria Maior  
+850,2,82,1,2,/ Monthly,Sintra, Cacém e São Marcos  
+1200,2,87,1,2,/ Monthly,Lisboa, Penha de França  
+800,2,69,1,2,/ Monthly,Loures, Sacavém e Prior Velho  
+1700,1,47,2,3,/ Monthly,Sintra, São João das Lampas e Terrugem  
+1800,1,142,2,4,/ Monthly,Sintra, AlgueirãoMem Martins  
+1450,2,51,1,1,/ Monthly,Lisboa, São Vicente  
+1950,2,74,1,2,/ Monthly,Lisboa, Avenidas Novas  
+1850,2,105,2,2,/ Monthly,Lisboa, Penha de França  
+1400,2,255,3,4,/ Monthly,Mafra, Venda do Pinheiro e Santo Estêvão das Galés  
+850,2,74,1,2,/ Monthly,Cascais, Cascais e Estoril  
+2900,2,230,0,3,/ Monthly,Lisboa, Carnide  
+1500,2,103,2,3,/ Monthly,Lisboa, Lumiar  
+1600,2,90,1,2,/ Monthly,Lisboa, Alcântara  
+1350,2,73,2,1,/ Monthly,Lisboa, Alcântara  
+1500,2,71,1,3,/ Monthly,Lisboa, Penha de França  
+1200,2,103,2,2,/ Monthly,Oeiras, Algés
+2500,2,123,2,4,/ Monthly,Lisboa, Misericórdia  
+1300,2,92,2,3,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+950,2,47,1,0,/ Monthly,Lisboa, Avenidas Novas  
+1300,2,40,1,1,/ Monthly,Lisboa, Campo de Ourique  
+8150,1,279,5,4,/ Monthly,Cascais, Alcabideche  
+1981,3,283,0,0,/ Monthly,Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  
+1500,2,54,1,1,/ Monthly,Lisboa, Santa Maria Maior  
+1600,2,89,2,2,/ Monthly,Lisboa, Santa Maria Maior  
+1450,2,142,2,2,/ Monthly,Lisboa, São Domingos de Benfica  
+1000,2,80,1,1,/ Monthly,Lisboa, Carnide  
+1550,2,122,3,4,/ Monthly,Loures, Moscavide e Portela  
+1200,2,64,1,1,/ Monthly,Cascais, Cascais e Estoril  
+890,2,44,1,1,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+2400,2,91,2,2,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+2100,2,87,1,2,/ Monthly,Lisboa, Misericórdia  
+2700,1,100,4,3,/ Monthly,Sintra, Colares  
+1850,2,106,2,2,/ Monthly,Lisboa, São Domingos de Benfica  
+1300,2,105,2,3,/ Monthly,Vila Franca de Xira, Vila Franca de Xira  
+2500,2,116,2,3,/ Monthly,Lisboa, Parque das Nações  
+1400,2,114,2,3,/ Monthly,Oeiras, Algés
+750,3,83,1,0,/ Monthly,Lisboa, Santa Clara  
+1100,2,72,0,2,/ Monthly,Lisboa, Benfica  
+1950,2,132,2,3,/ Monthly,Lisboa, Benfica  
+2200,2,108,2,3,/ Monthly,Lisboa, Alvalade  
+2500,2,206,3,2,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+950,3,188,2,0,/ Monthly,Loures, Loures  
+1670,2,100,2,3,/ Monthly,Lisboa, Campolide  
+950,2,48,1,1,/ Monthly,Lisboa, Misericórdia  
+1400,2,70,1,1,/ Monthly,Lisboa, Estrela  
+2450,2,121,2,2,/ Monthly,Cascais, Cascais e Estoril  
+1000,3,70,2,1,/ Monthly,Sintra, AlgueirãoMem Martins  
+2500,2,137,2,3,/ Monthly,Cascais, Cascais e Estoril  
+1100,2,68,1,2,/ Monthly,Lisboa, Campo de Ourique  
+1100,2,102,2,4,/ Monthly,Lisboa, Penha de França  
+1100,2,67,1,1,/ Monthly,Cascais, Cascais e Estoril  
+1750,2,96,2,2,/ Monthly,Vila Franca de Xira, Alverca do Ribatejo e Sobralinho  
+1650,2,115,2,2,/ Monthly,Lisboa, Avenidas Novas  
+1200,2,83,2,2,/ Monthly,Cascais, Carcavelos e Parede  
+2600,2,138,2,3,/ Monthly,Lisboa, Lumiar  
+2500,2,170,0,4,/ Monthly,Lisboa, Benfica  
+1300,2,94,2,2,/ Monthly,Vila Franca de Xira, Alverca do Ribatejo e Sobralinho  
+2100,2,179,2,3,/ Monthly,Lisboa, São Domingos de Benfica  
+1750,2,112,2,2,/ Monthly,Lisboa, Arroios  
+1500,2,114,2,3,/ Monthly,Lisboa, Lumiar  
+8500,1,428,0,5,/ Monthly,Sintra, Sintra (Santa Maria e São Miguel
+950,2,81,1,2,/ Monthly,Odivelas, Odivelas  
+1600,3,80,1,0,/ Monthly,Lisboa, Santo António  
+1600,3,222,2,0,/ Monthly,Odivelas, Odivelas  
+1200,2,80,2,2,/ Monthly,Lisboa, Avenidas Novas  
+850,2,83,4,2,/ Monthly,Sintra, Rio de Mouro  
+2500,1,182,3,3,/ Monthly,Mafra, Ericeira  
+3200,2,110,2,3,/ Monthly,Lisboa, Avenidas Novas  
+2250,3,110,4,3,/ Monthly,Lisboa, Arroios  
+4000,1,311,0,4,/ Monthly,Mafra, Igreja Nova e Cheleiros  
+850,2,32,1,0,/ Monthly,Lisboa, Campolide  
+2000,2,90,2,2,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+1700,2,96,2,2,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+3200,3,162,2,1,/ Monthly,Lisboa, Misericórdia  
+2500,3,190,0,6,/ Monthly,Lisboa, Arroios  
+3100,1,202,3,3,/ Monthly,Loures, Loures  
+1600,2,118,2,3,/ Monthly,Lisboa, Santo António  
+1150,2,30,1,1,/ Monthly,Lisboa, Alcântara  
+1900,2,96,2,2,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+1875,2,72,1,1,/ Monthly,Lisboa, Santo António  
+1450,2,55,1,1,/ Monthly,Lisboa, Estrela  
+1100,2,60,1,2,/ Monthly,Lisboa, Benfica  
+900,2,45,1,1,/ Monthly,Cascais, Cascais e Estoril  
+3200,1,200,4,5,/ Monthly,Sintra, Sintra (Santa Maria e São Miguel
+1300,2,62,1,2,/ Monthly,Lisboa, Santa Maria Maior  
+950,2,95,1,2,/ Monthly,Lisboa, Penha de França  
+2000,2,145,2,4,/ Monthly,Lisboa, Alvalade  
+850,2,37,0,1,/ Monthly,Lisboa, Santo António  
+1400,2,68,1,2,/ Monthly,Cascais, Cascais e Estoril  
+1980,2,102,2,3,/ Monthly,Cascais, São Domingos de Rana  
+3700,2,164,2,4,/ Monthly,Lisboa, Estrela  
+1700,1,135,3,2,/ Monthly,Lisboa, Areeiro  
+2200,2,108,2,2,/ Monthly,Cascais, Cascais e Estoril  
+1500,2,98,2,2,/ Monthly,Lisboa, Areeiro  
+2700,2,164,2,5,/ Monthly,Lisboa, Areeiro  
+1395,3,74,2,0,/ Monthly,Lisboa, Belém  
+1550,2,70,1,3,/ Monthly,Lisboa, Alcântara  
+1900,2,108,2,2,/ Monthly,Lisboa, Avenidas Novas  
+1600,2,60,1,2,/ Monthly,Lisboa, Estrela  
+2400,2,100,2,2,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+1700,2,138,2,3,/ Monthly,Oeiras, Salvo  
+2900,2,173,3,4,/ Monthly,Oeiras, Algés
+900,2,83,1,1,/ Monthly,Lisboa, Benfica  
+1200,2,86,1,2,/ Monthly,Lisboa, Lumiar  
+1100,2,30,1,1,/ Monthly,Lisboa, Santa Maria Maior  
+1200,2,96,2,3,/ Monthly,Lisboa, Alcântara  
+2250,2,99,2,3,/ Monthly,Lisboa, Alvalade  
+2400,2,171,3,4,/ Monthly,Oeiras, Algés
+1200,2,46,1,1,/ Monthly,Lisboa, Campo de Ourique  
+2950,2,237,3,4,/ Monthly,Sintra, Queluz e Belas  
+1900,2,144,2,3,/ Monthly,Lisboa, Alvalade  
+900,2,42,1,1,/ Monthly,Lisboa, São Vicente  
+1150,2,50,1,2,/ Monthly,Lisboa, Campo de Ourique  
+25000,3,1060,0,21,/ Monthly,Lisboa, Santo António  
+1900,2,105,2,2,/ Monthly,Lisboa, Benfica  
+3750,2,210,3,5,/ Monthly,Lisboa, Belém  
+3500,2,122,3,3,/ Monthly,Cascais, Carcavelos e Parede  
+2500,2,71,1,1,/ Monthly,Lisboa, Santo António  
+1300,2,79,1,2,/ Monthly,Lisboa, Benfica  
+1700,2,124,2,3,/ Monthly,Odivelas, Odivelas  
+3100,2,130,3,3,/ Monthly,Lisboa, Areeiro  
+2000,2,124,2,2,/ Monthly,Lisboa, Estrela  
+2950,2,303,3,3,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+4000,1,129,4,4,/ Monthly,Cascais, São Domingos de Rana  
+2700,2,161,2,4,/ Monthly,Lisboa, Estrela  
+1300,2,80,1,2,/ Monthly,Lisboa, Estrela  
+3500,2,137,2,4,/ Monthly,Lisboa, Estrela  
+950,2,58,1,2,/ Monthly,Lisboa, Benfica  
+1500,2,139,2,3,/ Monthly,Amadora, Alfragide  
+1700,2,96,2,4,/ Monthly,Lisboa, Olivais  
+3000,1,233,3,4,/ Monthly,Cascais, Carcavelos e Parede  
+4000,2,177,2,3,/ Monthly,Lisboa, Campo de Ourique  
+1500,2,86,2,3,/ Monthly,Amadora, Alfragide  
+2250,2,120,2,2,/ Monthly,Lisboa, Belém  
+2000,2,75,1,1,/ Monthly,Lisboa, Campo de Ourique  
+2500,2,100,3,4,/ Monthly,Lisboa, Avenidas Novas  
+14900,2,519,6,6,/ Monthly,Lisboa, Avenidas Novas  
+850,2,92,1,2,/ Monthly,Oeiras, Barcarena  
+1050,2,68,1,2,/ Monthly,Lisboa, Beato  
+4775,2,169,3,3,/ Monthly,Lisboa, Parque das Nações  
+1800,2,144,2,2,/ Monthly,Cascais, Cascais e Estoril  
+1500,1,151,2,4,/ Monthly,Sintra, Rio de Mouro  
+2300,2,80,1,2,/ Monthly,Lisboa, Arroios  
+3000,2,181,3,3,/ Monthly,Lisboa, Areeiro  
+1300,2,71,1,2,/ Monthly,Oeiras, Algés
+8000,1,350,5,6,/ Monthly,Cascais, Cascais e Estoril  
+1250,2,146,2,3,/ Monthly,Sintra, Sintra (Santa Maria e São Miguel
+3400,1,177,3,3,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+1700,2,113,0,3,/ Monthly,Cascais, Carcavelos e Parede  
+1850,2,102,2,3,/ Monthly,Lisboa, Alcântara  
+780,2,48,1,1,/ Monthly,Amadora, Águas Livres  
+5500,2,215,0,5,/ Monthly,Lisboa, Avenidas Novas  
+1750,2,90,1,2,/ Monthly,Cascais, Cascais e Estoril  
+780,2,38,1,1,/ Monthly,Amadora, Águas Livres  
+1650,2,83,1,2,/ Monthly,Cascais, Carcavelos e Parede  
+3500,2,90,1,3,/ Monthly,Lisboa, Arroios  
+2650,2,107,2,3,/ Monthly,Lisboa, Campo de Ourique  
+3500,3,698,0,2,/ Monthly,Cascais, Cascais e Estoril  
+12000,1,737,6,5,/ Monthly,Lisboa, Belém  
+9000,2,257,0,4,/ Monthly,Lisboa, Avenidas Novas  
+1500,2,118,2,4,/ Monthly,Lisboa, Arroios  
+2500,2,93,0,2,/ Monthly,Oeiras, Carnaxide e Queijas  
+3000,3,425,4,5,/ Monthly,Torres Vedras, Carvoeira e Carmões  
+7000,2,189,4,4,/ Monthly,Lisboa, Olivais  
+1500,2,100,2,2,/ Monthly,Amadora, Venteira  
+1300,3,55,0,2,/ Monthly,Lisboa, Arroios  
+3000,1,200,3,4,/ Monthly,Torres Vedras, Freiria  
+484,3,44,1,0,/ Monthly,Oeiras, Algés
+348,3,29,1,0,/ Monthly,Oeiras, Algés
+1970,2,165,2,3,/ Monthly,Lisboa, Lumiar  
+5750,2,97,4,3,/ Monthly,Lisboa, Campo de Ourique  
+1400,2,62,0,1,/ Monthly,Lisboa, Alvalade  
+2400,2,196,3,4,/ Monthly,Lisboa, São Domingos de Benfica  
+1450,2,41,1,1,/ Monthly,Lisboa, Santa Maria Maior  
+3000,3,150,2,0,/ Monthly,Lisboa, Alcântara  
+700,2,126,2,3,/ Monthly,Cadaval, Cadaval e Pêro Moniz  
+1300,2,55,1,1,/ Monthly,Lisboa, Arroios  
+2000,2,72,1,1,/ Monthly,Lisboa, Misericórdia  
+3250,2,195,3,4,/ Monthly,Lisboa, Parque das Nações  
+1450,3,98,2,3,/ Monthly,Lisboa, Lumiar  
+150,3,13,0,0,/ Monthly,Lisboa, Avenidas Novas  
+1300,1,76,1,1,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+6500,2,196,3,3,/ Monthly,Lisboa, Misericórdia  
+850,2,52,1,1,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+2000,2,107,0,2,/ Monthly,Cascais, Carcavelos e Parede  
+1250,2,90,1,1,/ Monthly,Lisboa, Benfica  
+2900,2,140,2,3,/ Monthly,Lisboa, Arroios  
+1250,2,95,0,3,/ Monthly,Lisboa, Penha de França  
+1500,2,102,0,3,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+250000,3,97,3,0,/ Monthly,Cascais, Alcabideche  
+3000,2,140,2,4,/ Monthly,Lisboa, Areeiro  
+1500,2,45,0,1,/ Monthly,Lisboa, Misericórdia  
+1200,2,83,2,2,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+3200,2,197,2,3,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+2400,2,98,1,1,/ Monthly,Lisboa, Santa Maria Maior  
+1750,2,88,2,2,/ Monthly,Lisboa, Areeiro  
+1500,3,95,1,0,/ Monthly,Lisboa, Santa Maria Maior  
+1648,2,92,2,2,/ Monthly,Lisboa, Estrela  
+5500,1,303,4,5,/ Monthly,Sintra, Sintra (Santa Maria e São Miguel
+3000,2,195,3,4,/ Monthly,Lisboa, Arroios  
+2125,3,85,1,0,/ Monthly,Lisboa, Misericórdia  
+1550,3,63,1,0,/ Monthly,Lisboa, Misericórdia  
+1400,2,140,2,4,/ Monthly,Mafra, Ericeira  
+6000,2,177,3,4,/ Monthly,Lisboa, São Domingos de Benfica  
+150,3,21,1,0,/ Monthly,Lourinhã, Lourinhã e Atalaia  
+1500,3,162,0,0,/ Monthly,Lisboa, Penha de França  
+2500,1,126,3,4,/ Monthly,Odivelas, Ramada e Caneças  
+6000,2,130,3,3,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+2500,2,190,3,5,/ Monthly,Lisboa, Arroios  
+9000,3,1250,6,7,/ Monthly,Lisboa, Alvalade  
+700,3,22,1,0,/ Monthly,Lisboa, Lumiar  
+3000,2,131,4,3,/ Monthly,Lisboa, São Domingos de Benfica  
+15000,1,746,7,8,/ Monthly,Mafra, Carvoeira  
+638,3,58,1,0,/ Monthly,Oeiras, Algés
+750,3,136,2,0,/ Monthly,Sintra, Rio de Mouro  
+3800,3,215,2,0,/ Monthly,Lisboa, Santo António  
+4500,3,1483,5,4,/ Monthly,Sintra, Almargem do Bispo
+2500,3,137,0,0,/ Monthly,Lisboa, Avenidas Novas  
+836,3,76,1,0,/ Monthly,Oeiras, Algés
+50,3,22,0,0,/ Monthly,Vila Franca de Xira, Vila Franca de Xira  
+3500,3,180,2,0,/ Monthly,Lisboa, Marvila  
+150,3,20,2,0,/ Monthly,Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  
+1284,3,107,1,0,/ Monthly,Oeiras, Algés
+450,3,43,0,0,/ Monthly,Cascais, São Domingos de Rana  
+1000,3,110,0,0,/ Monthly,Sintra, Cacém e São Marcos  
+1650,2,118,2,3,/ Monthly,Amadora, Alfragide  
+1150,2,66,1,2,/ Monthly,Loures, Camarate
+2000,3,64,1,2,/ Monthly,Azambuja, Vale do Paraíso  
+3500,2,134,5,5,/ Monthly,Lisboa, Olivais  
+2500,2,95,2,2,/ Monthly,Lisboa, Misericórdia  
+100,3,12,0,0,/ Monthly,Lisboa, Alvalade  
+65,3,12,0,0,/ Monthly,Lisboa, Lumiar  
+1500,3,198,0,0,/ Monthly,Arruda dos Vinhos, Arruda dos Vinhos  
+2650,2,119,3,3,/ Monthly,Lisboa, Alvalade  
+750,3,85,2,0,/ Monthly,Loures, Sacavém e Prior Velho  
+38000,3,1030,6,0,/ Monthly,Lisboa, Santa Maria Maior  
+493,3,47,1,0,/ Monthly,Oeiras, Algés
+900,2,60,1,2,/ Monthly,Lisboa, Alvalade  
+390,3,30,1,0,/ Monthly,Sintra, Massamá e Monte Abraão  
+40000,3,4000,0,0,/ Monthly,Oeiras, Oeiras e São Julião da Barra
+1900,3,109,0,0,/ Monthly,Oeiras, Carnaxide e Queijas  
+1900,2,160,2,3,/ Monthly,Lisboa, Campo de Ourique  
+2750,2,157,3,3,/ Monthly,Lisboa, São Domingos de Benfica  
+75,3,12,0,0,/ Monthly,Lisboa, Lumiar  
+25000,3,25,0,0,/ Annually,Amadora, Falagueira  Venda Nova  
+650,3,12,0,0,/ Monthly,Cascais, Alcabideche  
+600,3,18,0,0,/ Monthly,Lisboa, Alvalade  
+700,3,27,0,0,/ Monthly,Lisboa, Alvalade  
+400,3,11,0,0,/ Monthly,Lisboa, Alvalade  
+400,3,10,0,0,/ Monthly,Lisboa, Alvalade  
+517,3,47,0,0,/ Monthly,Oeiras, Algés
+850,3,65,0,0,/ Monthly,Loures, Sacavém e Prior Velho  
+1500,3,115,2,0,/ Monthly,Sintra, Casal de Cambra  
+600,3,200,0,0,/ Monthly,Torres Vedras, Torres Vedras (São Pedro
+3500,3,110,0,0,/ Monthly,Lisboa, Avenidas Novas  
+3500,2,110,2,3,/ Monthly,Lisboa, Avenidas Novas  
+100,3,13,0,0,/ Monthly,Lisboa, São Domingos de Benfica  
+2350,3,139,0,0,/ Monthly,Lisboa, Olivais  
+3000,3,151,0,0,/ Monthly,Lisboa, Olivais  
+3300,3,166,0,0,/ Monthly,Lisboa, Olivais  
+1500,3,252,0,0,/ Monthly,Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  
+2000,2,145,2,3,/ Monthly,Lisboa, Alvalade  
+1400,3,290,0,0,/ Monthly,Sintra, Cacém e São Marcos  
+2010,3,335,0,0,/ Monthly,Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  
+2418,3,403,0,0,/ Monthly,Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  
+2500,2,3333,1,2,/ Monthly,Lisboa, Misericórdia  
+3500,3,703,0,0,/ Monthly,Cascais, Cascais e Estoril  
+3500,3,655,0,0,/ Monthly,Cascais, Cascais e Estoril  
+7000,3,1358,0,0,/ Monthly,Cascais, Cascais e Estoril  
+880,3,22,0,0,/ Monthly,Cascais, Alcabideche  
+750,3,16,0,0,/ Monthly,Cascais, Alcabideche  
+9800,3,1862,0,0,/ Monthly,Loures, Sacavém e Prior Velho  
+1600,2,108,2,2,/ Monthly,Lisboa, Avenidas Novas  
+5500,3,10494,0,0,/ Monthly,Sintra, São João das Lampas e Terrugem  
+3750,3,1100,0,0,/ Monthly,Amadora, Encosta do Sol  
+1200,3,336,0,0,/ Monthly,Mafra, Mafra  
+1500,3,336,0,0,/ Monthly,Mafra, Mafra  
+792,3,72,1,0,/ Monthly,Oeiras, Algés
+3000,3,1050,0,0,/ Monthly,Vila Franca de Xira, Vialonga  
+1800,3,160,0,0,/ Monthly,Vila Franca de Xira, Póvoa de Santa Iria e Forte da Casa  
+7000,3,11726,0,0,/ Monthly,Cascais, Cascais e Estoril  
+650,3,37560,0,0,/ Monthly,Alenquer, Abrigada e Cabanas de Torres  
+600,2,34,1,1,/ Monthly,Guimarães, Oliveira
+350,1,35,1,1,/ Monthly,Guimarães, Costa  
+1350,1,124,4,3,/ Monthly,Braga, Palmeira  
+500,2,65,1,2,/ Monthly,Braga, (São José de São Lázaro e São João do Souto)  
+750,1,288,2,3,/ Monthly,Amares, Lago  
+1950,2,186,3,3,/ Monthly,Guimarães, Costa  
+590,2,25,1,0,/ Monthly,Braga, (Maximinos
+1800,1,287,0,4,/ Monthly,Vila Verde, Lage  
+500,2,25,1,0,/ Monthly,Braga, (Maximinos
+825,2,94,2,2,/ Monthly,Braga, São Victor  
+950,2,103,2,3,/ Monthly,Braga, Real
+750,2,110,0,3,/ Monthly,Vila Verde, Vila Verde e Barbudo  
+1250,1,190,4,4,/ Monthly,Barcelos, Gamil e Midões  
+650,2,105,4,2,/ Monthly,Amares, Ferreiros
+1600,1,243,4,3,/ Monthly,Braga, Ferreiros e Gondizalves  
+900,2,125,2,3,/ Monthly,Braga, (Maximinos
+1350,3,500,2,0,/ Monthly,Braga, Celeirós
+700,1,140,1,1,/ Monthly,Braga, Santa Lucrécia de Algeriz e Navarra  
+750,2,101,2,3,/ Monthly,Vila Verde, Vila Verde e Barbudo  
+1700,2,186,3,4,/ Monthly,Braga, São Vicente  
+500,3,57,0,1,/ Monthly,Braga, (São José de São Lázaro e São João do Souto)  
+850,1,70,1,2,/ Monthly,Vila Verde, Ribeira do Neiva  
+800,2,113,2,3,/ Monthly,Braga, Nogueira
+790,2,122,0,3,/ Monthly,Braga, Ferreiros e Gondizalves  
+500,1,150,2,4,/ Monthly,Celorico de Basto, Carvalho e Basto (Santa Tecla)  
+1000,3,198,2,0,/ Monthly,Fafe, Regadas  
+1000,2,42,2,1,/ Monthly,Guimarães, Azurém  
+1000,3,600,0,0,/ Monthly,Fafe, São Martinho (Silvares)  
+550,3,260,4,0,/ Monthly,Amares, Ferreiros
+1500,1,189,2,5,/ Monthly,Guimarães, Oliveira
+300,3,35,1,0,/ Monthly,Guimarães, Oliveira
+700,3,240,0,0,/ Monthly,Barcelos, Barcelinhos  
+300,3,53,0,0,/ Monthly,Braga, São Victor  
+300,3,60,0,0,/ Monthly,Braga, Ferreiros e Gondizalves  
+300,3,71,0,0,/ Monthly,Braga, Ferreiros e Gondizalves  
+300,3,62,0,0,/ Monthly,Braga, Ferreiros e Gondizalves  
+350,3,90,0,0,/ Monthly,Braga, Ferreiros e Gondizalves  
+3500,1,325,4,4,/ Monthly,Guimarães, Airão Santa Maria
+1250,3,97,0,0,/ Monthly,Braga, (Maximinos
+150,3,5500,0,0,/ Monthly,Póvoa de Lanhoso, Póvoa de Lanhoso (Nossa Senhora do Amparo)  
+450,3,72,0,0,/ Monthly,Braga, Gualtar  
+400,3,215,0,0,/ Monthly,Braga, Tadim  
+350,3,124,0,0,/ Monthly,Braga, Ferreiros e Gondizalves  
+450,3,20,0,0,/ Monthly,Braga, (São José de São Lázaro e São João do Souto)  
+250,3,51,0,0,/ Monthly,Braga, (Maximinos
+1100,3,600,0,0,/ Monthly,Vila Nova de Famalicão, Arnoso (Santa Maria e Santa Eulália) e Sezures  
+1000,3,3000,0,0,/ Monthly,Vila Verde, Geme  
