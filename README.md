@@ -1,7 +1,7 @@
 # Data-Science-Project-Hit---Portugal-Investments
 ## Portugal Real Estate 
 
-### ABSTRACT: 
+### The research question: 
 The goal of this project is to use classification models to identify properties that are good for investment.  
 
 ### Why:
