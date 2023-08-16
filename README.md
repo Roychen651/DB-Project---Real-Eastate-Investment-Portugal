@@ -67,13 +67,13 @@ After data preparation and EDA, we built a base of machine learning and classifi
 
 
 ## TOOLS
-🛠Selenium
-Beautiful Soup 
-Pandas
-matplotlib 
-Regression
-classification
-sklearn.  
+🛠•Selenium<br/>
+•Beautiful Soup <br/>
+•Pandas<br/>
+•matplotlib <br/>
+•Regression<br/>
+•classification<br/>
+•sklearn.  <br/>
 
 ## CONCLUSIONS
 
