@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Roy Chen Logo.png" alt="Project Logo" width="200">
+  <img src="Logo.png" alt="Project Logo" width="200">
   <h1>🌟Data Science Project<br/>Portugal Investments & Real Estate🌟<br/> 🕵️‍♀️🕵️‍♂️</h1>
 </div>
 
